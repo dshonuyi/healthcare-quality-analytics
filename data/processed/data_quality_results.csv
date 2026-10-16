@@ -1,0 +1,26 @@
+rule_id,category,description,severity,records_checked,records_failing,pct_failing,status,action
+U1,Uniqueness,Duplicate patient IDs,Critical,3393,0,0.0,PASS,Merge duplicate MRNs before attribution; duplicates double-count denominators.
+U2,Uniqueness,Duplicate encounter IDs,Critical,184109,0,0.0,PASS,Deduplicate encounters; duplicates inflate utilization and readmissions.
+U3,Uniqueness,"Same patient, same vital sign, same timestamp recorded more than once",Info,117037,2,0.002,FLAG,Keep one value per timestamp so 'most recent reading' logic is deterministic.
+R1,Referential integrity,Encounters whose patient does not exist,Critical,184109,0,0.0,PASS,Route to registration/HIM to resolve orphaned visits.
+R2,Referential integrity,Observations linked to a non-existent encounter,Warning,2258339,0,0.0,PASS,Labs without a visit cannot be attributed to a provider or date of service.
+R3,Referential integrity,Conditions linked to a non-existent encounter,Warning,116062,0,0.0,PASS,Diagnoses without a source visit weaken denominator evidence.
+R4,Referential integrity,Encounters with no payer on file,Warning,184109,0,0.0,PASS,"Payer is needed to assign the measure to the right program (Medicare Stars, Medi-Cal, commercial)."
+T1,Temporal validity,Encounter ends before it starts,Critical,184109,0,0.0,PASS,Fix timestamps; negative length of stay breaks readmission windows.
+T2,Temporal validity,Clinical encounter starts after the patient's date of death,Critical,184109,0,0.0,PASS,Post-mortem clinical activity indicates a wrong patient match or a death-date error.
+T2a,Temporal validity,Administrative 'Death Certification' encounter after date of death,Info,184109,360,0.196,FLAG,Expected: paperwork filed 1-14 days after death. Exclude from utilization counts; no correction needed.
+T3,Temporal validity,Encounter starts before the patient's birth date,Critical,184109,0,0.0,PASS,Pre-birth activity indicates a mis-keyed birth date (affects age-based eligibility).
+T4,Temporal validity,Condition resolved before it began,Warning,116062,0,0.0,PASS,Correct problem-list dates; drives whether a diagnosis is 'active'.
+T5,Temporal validity,Records dated after the extract date,Warning,2351798,0,0.0,PASS,Future-dated results usually mean a data-entry or interface time-zone error.
+T6,Temporal validity,Inpatient stays longer than 60 days,Info,3148,0,0.0,PASS,Review outliers; long stays can be real but often reflect a missing discharge.
+C1,Clinical plausibility,Systolic BP outside 50-300 mmHg,Critical,46359,5,0.011,FAIL,Exclude from CBP numerator and send back to the clinic for correction.
+C2,Clinical plausibility,Diastolic BP outside 20-200 mmHg,Critical,46359,0,0.0,PASS,Exclude from CBP numerator and send back to the clinic for correction.
+C3,Clinical plausibility,Diastolic reading >= systolic reading at the same visit,Critical,46359,70,0.151,FAIL,Likely transposed values; flag for chart review.
+C4,Clinical plausibility,HbA1c outside the 4-18 % assay reportable range,Critical,24319,11888,48.884,FAIL,Values below 4% are not reportable by standard assays; in production this pattern usually means an interface or mapping error. Excluded from GSD; send to lab interface team.
+C5,Clinical plausibility,HbA1c recorded in a unit other than %,Warning,24319,0,0.0,PASS,Mixed units (e.g. mmol/mol) must be converted before applying the 8% / 9% thresholds.
+C6,Clinical plausibility,Numeric lab or vital that will not parse as a number,Warning,155920,0,0.0,PASS,Text in numeric result fields cannot be counted toward a measure.
+C7,Clinical plausibility,BMI outside 10-100,Warning,38883,0,0.0,PASS,Check height/weight entry.
+M1,Completeness,Patient missing race or ethnicity,Warning,3393,0,0.0,PASS,Needed for health-equity stratification (CMS and NCQA now require it).
+M2,Completeness,Patient missing gender or birth date,Critical,3393,0,0.0,PASS,Age and sex define eligibility for nearly every measure.
+M3,Completeness,Patient missing ZIP code,Info,3393,0,0.0,PASS,ZIP supports geographic outreach and SDOH linkage.
+M4,Completeness,Encounter missing provider,Warning,184109,0,0.0,PASS,Provider is needed for attribution and provider-level scorecards.

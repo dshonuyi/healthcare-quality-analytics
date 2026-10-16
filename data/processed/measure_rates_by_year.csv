@@ -1,0 +1,17 @@
+measure,measure_name,measurement_year,denominator,numerator,rate,star_level,four_star_target
+BCS,Breast Cancer Screening,2022,295,12,4.1,Below 3 stars,76
+BCS,Breast Cancer Screening,2023,310,13,4.2,Below 3 stars,76
+BCS,Breast Cancer Screening,2024,310,10,3.2,Below 3 stars,76
+BCS,Breast Cancer Screening,2025,311,9,2.9,Below 3 stars,76
+CBP,Controlling High Blood Pressure,2022,456,311,68.2,Below 3 stars,80
+CBP,Controlling High Blood Pressure,2023,468,316,67.5,Below 3 stars,80
+CBP,Controlling High Blood Pressure,2024,482,320,66.4,Below 3 stars,80
+CBP,Controlling High Blood Pressure,2025,490,328,66.9,Below 3 stars,80
+COL,Colorectal Cancer Screening,2022,837,468,55.9,Below 3 stars,70
+COL,Colorectal Cancer Screening,2023,867,482,55.6,Below 3 stars,70
+COL,Colorectal Cancer Screening,2024,888,508,57.2,Below 3 stars,70
+COL,Colorectal Cancer Screening,2025,894,520,58.2,Below 3 stars,70
+GSD,Glycemic Status <=9% (Diabetes),2022,207,98,47.3,Below 3 stars,87
+GSD,Glycemic Status <=9% (Diabetes),2023,218,104,47.7,Below 3 stars,87
+GSD,Glycemic Status <=9% (Diabetes),2024,222,105,47.3,Below 3 stars,87
+GSD,Glycemic Status <=9% (Diabetes),2025,229,108,47.2,Below 3 stars,87

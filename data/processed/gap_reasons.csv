@@ -1,0 +1,6 @@
+measure,gap_reason,patients
+BCS,No mammogram in 27-month window,302
+CBP,Last BP at or above 140/90,156
+CBP,No BP recorded in year,6
+COL,No colonoscopy (10 yr) or FOBT (1 yr),374
+GSD,No valid HbA1c in year,121

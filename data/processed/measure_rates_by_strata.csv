@@ -1,0 +1,64 @@
+measure,stratifier,group,denominator,numerator,rate
+BCS,gender,F,311,9,2.9
+BCS,income_band,1: <$35k,68,2,2.9
+BCS,income_band,2: $35k-75k,89,5,5.6
+BCS,income_band,3: $75k-150k,110,2,1.8
+BCS,income_band,4: $150k+,44,0,0.0
+BCS,payer_category,Commercial,133,1,0.8
+BCS,payer_category,Dual Eligible,16,1,6.2
+BCS,payer_category,Medicaid,22,0,0.0
+BCS,payer_category,Medicare,115,7,6.1
+BCS,payer_category,Uninsured,25,0,0.0
+BCS,race_ethnicity,Asian (non-Hispanic),33,0,0.0
+BCS,race_ethnicity,Black (non-Hispanic),12,0,0.0
+BCS,race_ethnicity,Hispanic/Latino,114,5,4.4
+BCS,race_ethnicity,Other (non-Hispanic),13,1,7.7
+BCS,race_ethnicity,White (non-Hispanic),139,3,2.2
+CBP,gender,F,208,133,63.9
+CBP,gender,M,282,195,69.1
+CBP,income_band,1: <$35k,127,88,69.3
+CBP,income_band,2: $35k-75k,140,96,68.6
+CBP,income_band,3: $75k-150k,151,103,68.2
+CBP,income_band,4: $150k+,72,41,56.9
+CBP,payer_category,Commercial,204,132,64.7
+CBP,payer_category,Dual Eligible,26,21,80.8
+CBP,payer_category,Medicaid,52,31,59.6
+CBP,payer_category,Medicare,180,125,69.4
+CBP,payer_category,Uninsured,28,19,67.9
+CBP,race_ethnicity,Asian (non-Hispanic),43,31,72.1
+CBP,race_ethnicity,Black (non-Hispanic),24,19,79.2
+CBP,race_ethnicity,Hispanic/Latino,168,111,66.1
+CBP,race_ethnicity,Other (non-Hispanic),25,16,64.0
+CBP,race_ethnicity,White (non-Hispanic),230,151,65.7
+COL,gender,F,438,258,58.9
+COL,gender,M,456,262,57.5
+COL,income_band,1: <$35k,210,124,59.0
+COL,income_band,2: $35k-75k,261,151,57.9
+COL,income_band,3: $75k-150k,291,171,58.8
+COL,income_band,4: $150k+,132,74,56.1
+COL,payer_category,Commercial,426,228,53.5
+COL,payer_category,Dual Eligible,40,27,67.5
+COL,payer_category,Medicaid,85,45,52.9
+COL,payer_category,Medicare,281,186,66.2
+COL,payer_category,Uninsured,62,34,54.8
+COL,race_ethnicity,Asian (non-Hispanic),83,43,51.8
+COL,race_ethnicity,Black (non-Hispanic),32,19,59.4
+COL,race_ethnicity,Hispanic/Latino,308,188,61.0
+COL,race_ethnicity,Other (non-Hispanic),36,20,55.6
+COL,race_ethnicity,White (non-Hispanic),435,250,57.5
+GSD,gender,F,89,44,49.4
+GSD,gender,M,140,64,45.7
+GSD,income_band,1: <$35k,54,28,51.9
+GSD,income_band,2: $35k-75k,64,30,46.9
+GSD,income_band,3: $75k-150k,76,32,42.1
+GSD,income_band,4: $150k+,35,18,51.4
+GSD,payer_category,Commercial,91,47,51.6
+GSD,payer_category,Dual Eligible,12,5,41.7
+GSD,payer_category,Medicaid,23,12,52.2
+GSD,payer_category,Medicare,87,38,43.7
+GSD,payer_category,Uninsured,16,6,37.5
+GSD,race_ethnicity,Asian (non-Hispanic),20,11,55.0
+GSD,race_ethnicity,Black (non-Hispanic),8,2,25.0
+GSD,race_ethnicity,Hispanic/Latino,80,40,50.0
+GSD,race_ethnicity,Other (non-Hispanic),8,4,50.0
+GSD,race_ethnicity,White (non-Hispanic),113,51,45.1

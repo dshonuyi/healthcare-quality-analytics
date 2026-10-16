@@ -1,0 +1,16 @@
+measure,stratifier,groups_tested,chi2,dof,p_value,significant_at_05,max_gap_pts
+BCS,payer_category,5,8.39,4,0.0784,0.0,6.2
+BCS,income_band,4,4.11,3,0.2493,0.0,5.6
+BCS,race_ethnicity,5,3.58,4,0.4663,0.0,7.7
+CBP,gender,2,1.24,1,0.2654,0.0,5.2
+CBP,income_band,4,3.85,3,0.2785,0.0,12.4
+CBP,payer_category,5,4.49,4,0.3439,0.0,21.2
+CBP,race_ethnicity,5,2.46,4,0.651,0.0,15.2
+COL,payer_category,5,13.88,4,0.0077,1.0,14.6
+COL,race_ethnicity,5,2.63,4,0.6215,0.0,9.2
+COL,gender,2,0.14,1,0.7107,0.0,1.4
+COL,income_band,4,0.36,3,0.9483,0.0,2.9
+GSD,race_ethnicity,3,0.89,2,0.6401,0.0,9.9
+GSD,gender,2,0.17,1,0.6785,0.0,3.7
+GSD,income_band,4,1.51,3,0.679,0.0,9.8
+GSD,payer_category,5,2.14,4,0.7109,0.0,14.7

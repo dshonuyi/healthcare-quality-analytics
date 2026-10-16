@@ -1,0 +1,960 @@
+measure,patient_id,age,gender,payer_category,race_ethnicity,zip,last_service_date,gap_reason
+BCS,9d586071-cd83-7054-7ee1-bf275fd340c4,52,F,Commercial,Asian (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,9175679b-b85f-3374-d69f-7e7177c364ea,58,F,Commercial,White (non-Hispanic),91932,,No mammogram in 27-month window
+BCS,984b4a3e-1041-a028-0405-fd6b4e81593d,55,F,Commercial,Hispanic/Latino,92109,,No mammogram in 27-month window
+BCS,623e1444-3bcc-285a-7bd5-e0dc946430be,55,F,Commercial,White (non-Hispanic),92067,,No mammogram in 27-month window
+BCS,f1fa59dc-cf0e-73d6-dae5-20646129b8d1,55,F,Commercial,White (non-Hispanic),92075,,No mammogram in 27-month window
+BCS,3a698cd1-c3be-fc3a-c278-411c0cf8a708,56,F,Commercial,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,5e3da4fa-93f1-9856-5888-f6c5d959c7ff,64,F,Commercial,White (non-Hispanic),92154,,No mammogram in 27-month window
+BCS,5a5c1bf6-a2bd-f32b-ab92-06a1be782e00,57,F,Commercial,Other (non-Hispanic),92108,,No mammogram in 27-month window
+BCS,fdd3d5e1-4161-1586-2ab6-b7a411d22da5,55,F,Commercial,White (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,a2323bce-60ca-ae9d-42fe-5091abe27ef9,57,F,Commercial,Hispanic/Latino,92014,,No mammogram in 27-month window
+BCS,5139d4a7-1df9-f206-a4c5-e2a3f3bfe0ea,53,F,Commercial,White (non-Hispanic),92102,,No mammogram in 27-month window
+BCS,9f7feabf-98d1-76de-9424-0af498bbd064,55,F,Commercial,White (non-Hispanic),92120,,No mammogram in 27-month window
+BCS,17bc2196-5977-7a0f-fc7c-cb00b232932b,54,F,Commercial,Black (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,6c5ca436-d8ee-3970-60f8-544e73912c0f,61,F,Commercial,Hispanic/Latino,92014,,No mammogram in 27-month window
+BCS,bf8143a4-9a35-026f-9c4f-a713ab611149,59,F,Commercial,White (non-Hispanic),92110,,No mammogram in 27-month window
+BCS,dd3219bb-d977-330a-f3e1-f5c502e6d2a2,63,F,Commercial,Hispanic/Latino,92173,,No mammogram in 27-month window
+BCS,1d0b4e6a-bba8-0704-f405-3da02fc62a2f,55,F,Commercial,Asian (non-Hispanic),92140,,No mammogram in 27-month window
+BCS,7d201507-3df1-1a23-50cf-e91ace2da0af,63,F,Commercial,Black (non-Hispanic),92110,,No mammogram in 27-month window
+BCS,5bfdc6a1-1eaa-95f7-3526-f66eab1c8efc,56,F,Commercial,Hispanic/Latino,92126,,No mammogram in 27-month window
+BCS,a2b08197-9663-72ab-8f3c-51fec35ff18f,52,F,Commercial,Asian (non-Hispanic),92147,,No mammogram in 27-month window
+BCS,9c64cd22-7db9-f618-2e18-0203189c1c22,56,F,Commercial,Hispanic/Latino,92140,,No mammogram in 27-month window
+BCS,c17e5ca0-c02e-f8d3-271a-79bd34606f95,52,F,Commercial,Hispanic/Latino,92114,,No mammogram in 27-month window
+BCS,94796de0-a629-d960-8281-498b91b88db6,56,F,Commercial,White (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,c5e76e9e-9a09-3a7e-c248-90237982c8d9,57,F,Commercial,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,9f9a042e-84bb-3aaf-61c8-424c4e3df281,53,F,Commercial,Hispanic/Latino,92067,,No mammogram in 27-month window
+BCS,c668331e-4348-ac51-14eb-7d0891eb8fc5,58,F,Commercial,Black (non-Hispanic),92071,,No mammogram in 27-month window
+BCS,00bd0ed6-396a-5390-b0f5-be458fef75e1,52,F,Commercial,White (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,523ab25b-52ff-1f73-f59a-a9d089dda2ad,58,F,Commercial,White (non-Hispanic),92107,,No mammogram in 27-month window
+BCS,3487d097-833b-5fcf-a566-31965596d270,55,F,Commercial,White (non-Hispanic),92071,,No mammogram in 27-month window
+BCS,ed97ff75-4b0d-0b19-b4d6-6dfd6f311c6f,52,F,Commercial,White (non-Hispanic),92113,,No mammogram in 27-month window
+BCS,d5ec3a2b-8ac6-4bb5-1657-64d3630d9a8d,54,F,Commercial,White (non-Hispanic),92154,,No mammogram in 27-month window
+BCS,ee81f36e-d66d-a8df-227a-98aedf2d6183,64,F,Commercial,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,e7bdba64-21c4-8d3a-d061-37eab138bade,59,F,Commercial,White (non-Hispanic),92104,,No mammogram in 27-month window
+BCS,d46159cf-d215-2255-4684-a1e2b2b6215e,60,F,Commercial,Hispanic/Latino,92102,,No mammogram in 27-month window
+BCS,b077e9d0-4634-9a50-4b55-1bc19796359c,61,F,Commercial,White (non-Hispanic),91915,,No mammogram in 27-month window
+BCS,63f4d267-4d83-647e-99ed-6a3af4e4f812,55,F,Commercial,Hispanic/Latino,92121,,No mammogram in 27-month window
+BCS,1461ae1d-c357-fb97-f8d4-4ef1dd6a81be,56,F,Commercial,White (non-Hispanic),92140,,No mammogram in 27-month window
+BCS,6626819a-5fc9-ebc7-0c58-570085f58a44,56,F,Commercial,Hispanic/Latino,92140,,No mammogram in 27-month window
+BCS,577044ea-dc07-7ea5-b662-0d1607c3b0dd,64,F,Commercial,Hispanic/Latino,92119,,No mammogram in 27-month window
+BCS,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,54,F,Commercial,Black (non-Hispanic),92131,,No mammogram in 27-month window
+BCS,91dcd28f-7beb-1387-a1d5-6ef953909367,55,F,Commercial,Hispanic/Latino,92123,,No mammogram in 27-month window
+BCS,8baa239e-c364-f420-70e6-439e932f98a4,56,F,Commercial,Hispanic/Latino,92108,,No mammogram in 27-month window
+BCS,1624c58c-458a-404a-3bec-2f90f3fa9010,52,F,Commercial,White (non-Hispanic),92114,,No mammogram in 27-month window
+BCS,e42521b8-3f40-2bb9-51e7-66e3dd878992,59,F,Commercial,Asian (non-Hispanic),91945,,No mammogram in 27-month window
+BCS,38947f55-f973-1892-4a4f-dc934884ae79,53,F,Commercial,White (non-Hispanic),92104,,No mammogram in 27-month window
+BCS,64e8aba8-8912-3270-ab29-84749d4d2c58,55,F,Commercial,White (non-Hispanic),92108,,No mammogram in 27-month window
+BCS,4e1cf354-ff72-5da0-8cbb-7a3edc61deb3,57,F,Commercial,Black (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,da75ed4d-f990-aaab-f136-ace7d258325e,53,F,Commercial,Asian (non-Hispanic),92118,,No mammogram in 27-month window
+BCS,3abd9004-9a59-3def-dc82-2089b1e5e77b,54,F,Commercial,Other (non-Hispanic),92075,,No mammogram in 27-month window
+BCS,d5cd2e95-9f70-91c0-96d5-81cd5a8f3fea,52,F,Commercial,Asian (non-Hispanic),92145,,No mammogram in 27-month window
+BCS,0d968006-46f3-aae8-69c2-4f1cfebaeb24,59,F,Commercial,White (non-Hispanic),92105,,No mammogram in 27-month window
+BCS,89f551cd-f865-884f-cd14-8232084e1b1c,59,F,Commercial,White (non-Hispanic),92106,,No mammogram in 27-month window
+BCS,764301c5-aa0e-93a1-abdf-49df593c4d91,60,F,Commercial,Hispanic/Latino,92140,,No mammogram in 27-month window
+BCS,071acfc8-2154-ac43-0a0c-d991ed95827e,52,F,Commercial,White (non-Hispanic),92128,,No mammogram in 27-month window
+BCS,f21a9288-48c9-e416-69ff-d48f627ecbe4,52,F,Commercial,White (non-Hispanic),92139,,No mammogram in 27-month window
+BCS,ab58de89-49d7-4d5d-aef3-4ca8cc58e9e5,62,F,Commercial,White (non-Hispanic),92101,,No mammogram in 27-month window
+BCS,01b2da20-8b0d-5eee-eb72-80c1504d64a9,58,F,Commercial,Asian (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,f28958ec-421d-40fa-978b-958f1d5c6486,55,F,Commercial,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,8f62343a-83c8-acff-615c-ea9b53d61a5b,53,F,Commercial,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,5790261c-adea-8e0a-168f-b5da0b252178,57,F,Commercial,White (non-Hispanic),92121,,No mammogram in 27-month window
+BCS,50493d0f-5411-bdb1-f53f-3a3d5e563724,63,F,Commercial,White (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,31602598-4834-1f74-d9c5-149dc4b9a946,61,F,Commercial,White (non-Hispanic),92102,,No mammogram in 27-month window
+BCS,71618ae8-996c-79b1-100a-386ae37dd384,64,F,Commercial,Asian (non-Hispanic),92139,,No mammogram in 27-month window
+BCS,62660772-0a51-bf54-297c-3aca84451717,59,F,Commercial,Asian (non-Hispanic),92117,,No mammogram in 27-month window
+BCS,291eef3f-a432-2174-8c47-57de835b15c3,55,F,Commercial,Hispanic/Latino,92029,,No mammogram in 27-month window
+BCS,fe4349b4-6b2b-96ca-a3ee-da52ac8e8d1f,58,F,Commercial,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,df049450-484a-6667-792e-6e72241ed9f9,56,F,Commercial,Black (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,6bfc4203-aa9b-5db8-e5e3-1011a4c0cc02,56,F,Commercial,White (non-Hispanic),92116,,No mammogram in 27-month window
+BCS,184d403d-a1ec-6f40-58e4-5d8fe95c2249,57,F,Commercial,White (non-Hispanic),92124,,No mammogram in 27-month window
+BCS,d087f974-5765-d7a2-3655-f1cd7d5682e5,55,F,Commercial,Asian (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,ae3bb280-2f6b-13b0-98d9-1116cfe35d04,58,F,Commercial,White (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,0b21ffe1-a273-9a1c-6cd9-b85e78c4ea3d,54,F,Commercial,Asian (non-Hispanic),92029,,No mammogram in 27-month window
+BCS,20e28446-8e46-8d4a-4d40-616fdeb86a19,57,F,Commercial,White (non-Hispanic),92025,,No mammogram in 27-month window
+BCS,a08dd7a3-6d1f-624d-3ff9-83fcd399bdd9,53,F,Commercial,White (non-Hispanic),92122,,No mammogram in 27-month window
+BCS,2fd24d3f-c0e7-7cc1-3e72-e80cfe882d67,57,F,Commercial,Hispanic/Latino,92131,,No mammogram in 27-month window
+BCS,ad048fab-ae8c-05c5-b5f8-0df0f9e05226,58,F,Commercial,Asian (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,6f704cbd-0feb-810e-980b-5a85b195d5f6,61,F,Commercial,Black (non-Hispanic),92118,,No mammogram in 27-month window
+BCS,18b101ed-6582-7193-5a1a-cac8e8de151c,59,F,Commercial,Hispanic/Latino,91932,,No mammogram in 27-month window
+BCS,12ae0a60-cb75-df45-980a-6fc6ee1a6b67,62,F,Commercial,White (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,773cbf7e-86e8-e0d4-058a-af72ff049896,56,F,Commercial,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,53,F,Commercial,Hispanic/Latino,92135,,No mammogram in 27-month window
+BCS,920c35bc-a49a-138a-5f07-6faa0864f4fb,58,F,Commercial,White (non-Hispanic),92140,,No mammogram in 27-month window
+BCS,70ad0e6f-cb1d-337a-00e0-d2949579df57,57,F,Commercial,White (non-Hispanic),92114,,No mammogram in 27-month window
+BCS,644c8a7a-7a6f-3906-f247-55707ad5740f,55,F,Commercial,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,585386f7-f7ab-3771-73e5-65a65137a8a8,54,F,Commercial,White (non-Hispanic),91932,,No mammogram in 27-month window
+BCS,0d9d9f81-b2ab-7b08-6614-300d15c6f992,58,F,Commercial,Asian (non-Hispanic),92126,,No mammogram in 27-month window
+BCS,c0bb881e-4fa6-71b4-5a36-77201ae7a402,61,F,Commercial,White (non-Hispanic),92103,,No mammogram in 27-month window
+BCS,aaadd8c8-87da-9570-3c2e-38e5945d612e,54,F,Commercial,White (non-Hispanic),92104,,No mammogram in 27-month window
+BCS,7e9f9a1c-2ade-9092-9718-520549a61802,60,F,Commercial,White (non-Hispanic),92103,,No mammogram in 27-month window
+BCS,965c2b60-f18a-a93f-2047-7434716406da,56,F,Commercial,White (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,378f5f5f-1bcf-284d-d989-c24185c87437,55,F,Commercial,Asian (non-Hispanic),92064,,No mammogram in 27-month window
+BCS,bb3d978f-a432-6d90-9cc6-69f3ec9fd791,57,F,Commercial,Black (non-Hispanic),91950,,No mammogram in 27-month window
+BCS,a7d213d8-0cc2-d63e-89a9-b8507f4b0625,62,F,Commercial,Hispanic/Latino,92122,,No mammogram in 27-month window
+BCS,f37af715-7d02-1ed4-3c10-8ba1689bf52e,52,F,Commercial,Asian (non-Hispanic),92120,,No mammogram in 27-month window
+BCS,a190b534-4dd0-f251-1688-9eab550f15f3,62,F,Commercial,Asian (non-Hispanic),91915,,No mammogram in 27-month window
+BCS,39270d94-4f13-24ff-4590-764a69c6c9dd,61,F,Commercial,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,45054e04-8ca2-e599-b89e-4348248deb67,63,F,Commercial,Other (non-Hispanic),92064,,No mammogram in 27-month window
+BCS,91f05dd0-f3ab-08da-5bfd-f4fdf9dfe6a4,63,F,Commercial,White (non-Hispanic),92122,,No mammogram in 27-month window
+BCS,4dbe6dc4-6eaa-ef37-6c36-361e9450ea93,55,F,Commercial,White (non-Hispanic),92128,,No mammogram in 27-month window
+BCS,f1a7ddf9-358e-85dd-caa5-4c36c40cd736,56,F,Commercial,Other (non-Hispanic),92110,,No mammogram in 27-month window
+BCS,23751e2f-eb63-35d9-00ba-30cfa9de55cc,52,F,Commercial,Other (non-Hispanic),92113,,No mammogram in 27-month window
+BCS,290a20b1-f3c0-69df-5cdd-f1d10fa6c31a,54,F,Commercial,Asian (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,7c780f50-c9c6-8969-e679-7ec64aec9c15,64,F,Commercial,White (non-Hispanic),92116,,No mammogram in 27-month window
+BCS,6cd3f839-efd8-bf91-999f-7a0ce9024d24,63,F,Commercial,Hispanic/Latino,92126,,No mammogram in 27-month window
+BCS,9b8332ff-461e-f321-a238-7c6c02f8ca26,63,F,Commercial,Hispanic/Latino,92139,,No mammogram in 27-month window
+BCS,fa14931f-ccde-4988-79be-e368c9b2c698,61,F,Commercial,Hispanic/Latino,92127,,No mammogram in 27-month window
+BCS,39bdbcaa-0f4c-539e-f559-87b06ad232a3,61,F,Commercial,Hispanic/Latino,92103,,No mammogram in 27-month window
+BCS,64b4fd5b-8667-6eeb-9563-f12e27db08d4,56,F,Commercial,Asian (non-Hispanic),92103,,No mammogram in 27-month window
+BCS,39a9f648-9e90-e24a-b5be-165d50cb1587,58,F,Commercial,Hispanic/Latino,92145,,No mammogram in 27-month window
+BCS,302f7405-9f23-5548-38c9-390eda802c4a,58,F,Commercial,Hispanic/Latino,92147,,No mammogram in 27-month window
+BCS,aed64267-2889-a60b-a3ea-07af32575de7,53,F,Commercial,White (non-Hispanic),92131,,No mammogram in 27-month window
+BCS,745fbada-90d4-cbb9-4bc1-3d6b109b8e3f,63,F,Commercial,Asian (non-Hispanic),92037,,No mammogram in 27-month window
+BCS,fa23abd1-5cb7-0d63-7186-89539c75a786,54,F,Commercial,Black (non-Hispanic),92121,,No mammogram in 27-month window
+BCS,4fac2649-60ee-2ddd-0b31-0bea004d3c6a,62,F,Commercial,Hispanic/Latino,92147,,No mammogram in 27-month window
+BCS,82ce3a8f-6214-75fc-7b38-7cd48eebad14,57,F,Commercial,Hispanic/Latino,92135,,No mammogram in 27-month window
+BCS,96a88082-137f-80a2-5283-862ed9b56be9,58,F,Commercial,Hispanic/Latino,92105,,No mammogram in 27-month window
+BCS,429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,58,F,Commercial,White (non-Hispanic),92029,,No mammogram in 27-month window
+BCS,5c8956ba-3359-155e-a6f4-0e1d5bc43a77,62,F,Commercial,White (non-Hispanic),92123,,No mammogram in 27-month window
+BCS,36e78c82-a2fb-ce3c-a329-c3097fcfa4cb,54,F,Commercial,Hispanic/Latino,92135,,No mammogram in 27-month window
+BCS,8c100a7c-de7c-81df-de62-9b086f2b98b7,54,F,Commercial,Asian (non-Hispanic),92139,,No mammogram in 27-month window
+BCS,f5c6dcf6-8cd5-0a06-779f-28effec87678,56,F,Commercial,White (non-Hispanic),92126,,No mammogram in 27-month window
+BCS,ff0411b3-402f-4b11-a55f-3937f613fd6b,55,F,Commercial,White (non-Hispanic),92115,,No mammogram in 27-month window
+BCS,9a213619-1a2c-65d3-ee32-f1518ce3ff56,62,F,Commercial,Other (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,35bc384f-9e87-79c6-772e-46139109a59f,63,F,Commercial,Hispanic/Latino,91914,,No mammogram in 27-month window
+BCS,0cb24d24-cb62-5e83-ae95-cd6d585d2485,59,F,Commercial,Hispanic/Latino,92131,,No mammogram in 27-month window
+BCS,f72ca905-a6e4-e51e-0802-e1ede702ef60,59,F,Commercial,White (non-Hispanic),91932,,No mammogram in 27-month window
+BCS,2cc6efe0-8e4a-8ccd-8e89-15aab675835f,58,F,Commercial,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,51d536eb-b0d8-57a9-bc50-8ece2bd73548,59,F,Commercial,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,bcec5d06-fef8-2b77-69a9-332c43bc2233,56,F,Commercial,Hispanic/Latino,92014,,No mammogram in 27-month window
+BCS,d8a11f55-8f95-ae80-2566-b5f605497932,59,F,Commercial,White (non-Hispanic),92106,,No mammogram in 27-month window
+BCS,0d82452b-5d70-c48a-3049-91cfa333c1a9,57,F,Commercial,Hispanic/Latino,91915,,No mammogram in 27-month window
+BCS,5260a993-2f2c-2d7b-49c5-c8d7e521b19b,55,F,Commercial,Hispanic/Latino,92126,,No mammogram in 27-month window
+BCS,c856aedf-16a4-3947-b7d5-bdede7c51657,60,F,Dual Eligible,Hispanic/Latino,92131,,No mammogram in 27-month window
+BCS,22dd80f2-e6d1-3231-41e6-b9d799de1e63,74,F,Dual Eligible,White (non-Hispanic),92118,,No mammogram in 27-month window
+BCS,f088a66f-70c4-fd8b-6cb9-0526b1c3e08b,73,F,Dual Eligible,White (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,5f657672-f88e-989f-e001-1dc53f969ed1,56,F,Dual Eligible,Hispanic/Latino,92025,,No mammogram in 27-month window
+BCS,74333a8d-4ec4-8cdc-1cd7-1b19ab1e0707,65,F,Dual Eligible,White (non-Hispanic),91950,,No mammogram in 27-month window
+BCS,7227ff56-fe7b-7235-f9ee-ab41856fa2ad,70,F,Dual Eligible,Other (non-Hispanic),92065,,No mammogram in 27-month window
+BCS,c08267b8-72b4-9103-731a-53c15ea797eb,73,F,Dual Eligible,White (non-Hispanic),92117,,No mammogram in 27-month window
+BCS,ea516128-56e4-3203-1fd6-853d4e7c483c,65,F,Dual Eligible,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,d5ccc11b-8f52-be82-1d8f-86b67bc393dc,56,F,Dual Eligible,Hispanic/Latino,92108,,No mammogram in 27-month window
+BCS,0bf9e262-e31e-3cb4-fe46-16d047230ea7,65,F,Dual Eligible,Hispanic/Latino,92121,,No mammogram in 27-month window
+BCS,b1ccaf29-b5e2-1f5f-6c95-ef96e18da529,74,F,Dual Eligible,White (non-Hispanic),92113,,No mammogram in 27-month window
+BCS,c4809220-efb3-ab08-96bc-730ab25e721a,65,F,Dual Eligible,Hispanic/Latino,92124,,No mammogram in 27-month window
+BCS,57f68301-b2fe-a5b2-74e2-98c94632b14e,69,F,Dual Eligible,White (non-Hispanic),92075,,No mammogram in 27-month window
+BCS,9279e5c5-aa9e-148a-111a-2e035f4ee3c6,60,F,Dual Eligible,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,3651568f-224f-59a6-7914-248f1b294d77,71,F,Dual Eligible,White (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,ecb02a6b-2ed9-135c-6a54-84b7a383b626,55,F,Medicaid,White (non-Hispanic),92127,,No mammogram in 27-month window
+BCS,24f4a8d9-e64c-e3ef-ea10-69c58666096d,64,F,Medicaid,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,0b27adc0-66d0-539d-7ae5-0a51a0ad6dd4,59,F,Medicaid,Asian (non-Hispanic),92128,,No mammogram in 27-month window
+BCS,293b5046-ff66-69d2-6e7d-8d68a20ec3fb,62,F,Medicaid,Hispanic/Latino,92115,,No mammogram in 27-month window
+BCS,220f299b-95df-592e-6865-8036463278d8,56,F,Medicaid,Asian (non-Hispanic),92114,,No mammogram in 27-month window
+BCS,55a8215f-e464-88b1-0394-bc1d36cbf832,62,F,Medicaid,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,ceeea1a1-bb5c-04bb-b8e8-4bef689f27dc,63,F,Medicaid,White (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,9a561d0e-6bda-c385-183c-37fe24cc42cc,60,F,Medicaid,Hispanic/Latino,91945,,No mammogram in 27-month window
+BCS,229e86a7-f7d2-3d36-5060-aae0af8c650c,54,F,Medicaid,Hispanic/Latino,92127,,No mammogram in 27-month window
+BCS,a31c8fbc-6149-d101-29aa-494aa527352a,53,F,Medicaid,White (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,3c0a28d9-21c5-d9a4-5b3c-6c708ce3d093,59,F,Medicaid,White (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,6ca21b03-816e-8808-4b36-a83abddc09a4,62,F,Medicaid,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,91b62291-a1ac-d461-9988-4897a6eda076,53,F,Medicaid,Hispanic/Latino,92029,,No mammogram in 27-month window
+BCS,e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,52,F,Medicaid,White (non-Hispanic),92139,,No mammogram in 27-month window
+BCS,d929b0a0-9651-d56c-8193-a0ee69b38fc2,61,F,Medicaid,Hispanic/Latino,91950,,No mammogram in 27-month window
+BCS,aafc7b4e-0170-f7a5-4ded-c9447febc8f4,52,F,Medicaid,White (non-Hispanic),92154,,No mammogram in 27-month window
+BCS,7e2e8efa-31c7-a59b-45bb-47b05e5c2632,61,F,Medicaid,White (non-Hispanic),92071,,No mammogram in 27-month window
+BCS,f3bb858d-9711-5c43-c051-b73fc246a4c8,54,F,Medicaid,White (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,372f1d7c-54ad-6683-592e-93799af87d3d,59,F,Medicaid,White (non-Hispanic),92025,,No mammogram in 27-month window
+BCS,26eb2a74-d9e2-b5ea-da7c-db558cd95506,59,F,Medicaid,White (non-Hispanic),92101,,No mammogram in 27-month window
+BCS,49ab2d4b-2483-ccb9-dbd8-cb5a93478a56,54,F,Medicaid,White (non-Hispanic),92145,,No mammogram in 27-month window
+BCS,d239a64f-3912-cc53-9853-7f91aa43416b,56,F,Medicaid,Hispanic/Latino,92110,,No mammogram in 27-month window
+BCS,6bb9f6e8-d0c7-3e0d-579f-57da9f1f3515,54,F,Medicare,Hispanic/Latino,91942,,No mammogram in 27-month window
+BCS,60882da7-1f23-f4f7-0258-6bc5dfa4a352,68,F,Medicare,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,1e15063e-b453-6e17-9764-57c7a103221f,60,F,Medicare,White (non-Hispanic),92119,,No mammogram in 27-month window
+BCS,a0fa000e-e4d8-4e9c-7cb7-874fb29623f2,55,F,Medicare,White (non-Hispanic),92114,,No mammogram in 27-month window
+BCS,1bbcfc3b-d045-f651-72dd-04c379b2628f,66,F,Medicare,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,fe60e930-09cc-ab85-82d9-55ad7863c11e,60,F,Medicare,Hispanic/Latino,92109,,No mammogram in 27-month window
+BCS,1c47d02d-0fef-9635-485f-cb3a5d662a12,66,F,Medicare,White (non-Hispanic),92101,,No mammogram in 27-month window
+BCS,132074e8-9d74-8f18-0e61-4734cdd9f956,66,F,Medicare,Hispanic/Latino,92064,,No mammogram in 27-month window
+BCS,6d425337-3795-1a77-af6e-1c1f0aee2cc1,74,F,Medicare,Asian (non-Hispanic),92122,,No mammogram in 27-month window
+BCS,55dae7c7-8275-cf98-84b7-05585d3a7ae2,71,F,Medicare,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,2e89c719-5d08-085e-3c1b-a9d82cb20d65,53,F,Medicare,White (non-Hispanic),92029,,No mammogram in 27-month window
+BCS,6e45b2c6-a613-4492-ca43-ba2c7c80d708,54,F,Medicare,White (non-Hispanic),92134,,No mammogram in 27-month window
+BCS,9ba0f700-1e6c-c4c7-41b5-ea7ca68643c3,66,F,Medicare,White (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,20852a5c-dbef-c661-fe1a-8664beedac25,67,F,Medicare,Asian (non-Hispanic),92114,,No mammogram in 27-month window
+BCS,baff9088-0521-0541-cf14-c9a19c19367f,67,F,Medicare,Hispanic/Latino,91914,,No mammogram in 27-month window
+BCS,a690d8b2-57ea-212d-d247-484c8f57dc12,71,F,Medicare,White (non-Hispanic),92102,,No mammogram in 27-month window
+BCS,c507ce58-4d43-22e3-43f6-f863c2b1ad4a,66,F,Medicare,White (non-Hispanic),92014,,No mammogram in 27-month window
+BCS,364c439b-3ca4-d8e6-65e6-f835db43a2ef,60,F,Medicare,Other (non-Hispanic),92109,,No mammogram in 27-month window
+BCS,e315a16e-f169-7eed-edaa-cc3fdd858a5d,74,F,Medicare,Hispanic/Latino,92027,,No mammogram in 27-month window
+BCS,01ad68d8-96ec-fcdf-5bbc-5f901dff2e88,56,F,Medicare,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,4da17de3-8800-bfbb-4a7f-eab77048aced,71,F,Medicare,White (non-Hispanic),92123,,No mammogram in 27-month window
+BCS,57bf073a-85a8-1760-afee-319de6d398c7,70,F,Medicare,Hispanic/Latino,92075,,No mammogram in 27-month window
+BCS,de4b5837-8061-176c-d3c5-e23254a7e716,69,F,Medicare,White (non-Hispanic),92118,,No mammogram in 27-month window
+BCS,b35cc378-9d11-ce49-7a7c-4aec411fe5d4,65,F,Medicare,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,9b536366-b23e-c63a-e8f8-fb419c503369,69,F,Medicare,Hispanic/Latino,92075,,No mammogram in 27-month window
+BCS,e8d4132c-0864-ced1-e132-0ac96362442b,57,F,Medicare,White (non-Hispanic),91950,,No mammogram in 27-month window
+BCS,af8d62a8-d88b-4633-2d50-f0f346299a94,58,F,Medicare,Hispanic/Latino,92126,,No mammogram in 27-month window
+BCS,541e1d81-cd8b-9935-927a-020cdefa7369,67,F,Medicare,White (non-Hispanic),92064,,No mammogram in 27-month window
+BCS,f6ec5be2-eab2-5009-0a0e-8d565c2b4a14,52,F,Medicare,Hispanic/Latino,91911,,No mammogram in 27-month window
+BCS,d9edcb1c-7974-df0c-ea41-bb95f2da11dc,55,F,Medicare,White (non-Hispanic),92127,,No mammogram in 27-month window
+BCS,6047419c-a879-7748-7d02-5875cb8c9a89,60,F,Medicare,White (non-Hispanic),92154,,No mammogram in 27-month window
+BCS,1b79641c-a011-48b3-c488-f5fd37e5c715,66,F,Medicare,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,dccda9f6-3b08-4832-bdf4-d6056057451d,71,F,Medicare,White (non-Hispanic),92065,,No mammogram in 27-month window
+BCS,99620c40-40eb-65ca-57df-2e4c7dbe38d2,56,F,Medicare,Hispanic/Latino,92107,,No mammogram in 27-month window
+BCS,bc205de3-ac6a-55dd-87fe-c1263efeb62a,68,F,Medicare,Hispanic/Latino,91942,,No mammogram in 27-month window
+BCS,55f71ba3-7575-5c2d-e74f-130a748207a3,70,F,Medicare,White (non-Hispanic),92117,,No mammogram in 27-month window
+BCS,d4025cf5-7db9-15b0-e80b-fcf0db6653d2,71,F,Medicare,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,85dd9947-9d29-114e-8e1b-68fa2741133b,69,F,Medicare,White (non-Hispanic),91950,,No mammogram in 27-month window
+BCS,b2e0411b-145a-6958-740f-d76a08f796c7,54,F,Medicare,Hispanic/Latino,92115,,No mammogram in 27-month window
+BCS,df707c93-92a8-b9f0-7a4d-2d710816f300,71,F,Medicare,White (non-Hispanic),92130,,No mammogram in 27-month window
+BCS,df866491-08fa-47d5-7603-6fca4fb287dd,68,F,Medicare,White (non-Hispanic),92129,,No mammogram in 27-month window
+BCS,e48236cc-67bf-a0bd-3b83-1bdd7074a9dc,69,F,Medicare,Hispanic/Latino,91945,,No mammogram in 27-month window
+BCS,271af137-6ac7-08bf-252c-872f41b9e646,52,F,Medicare,White (non-Hispanic),92122,,No mammogram in 27-month window
+BCS,90d97aa1-2d42-c3b9-55ec-ab667bee5354,74,F,Medicare,Hispanic/Latino,92122,,No mammogram in 27-month window
+BCS,b5ee0b3b-3b60-64aa-f342-09c729f7c791,66,F,Medicare,Hispanic/Latino,92147,,No mammogram in 27-month window
+BCS,aa14fd7e-1040-5a9d-228b-2aed82cc46f5,68,F,Medicare,White (non-Hispanic),91932,,No mammogram in 27-month window
+BCS,4ec7c8f0-0b3f-ba74-3e13-ce529c36cfa3,61,F,Medicare,Hispanic/Latino,91911,,No mammogram in 27-month window
+BCS,c380a0ca-a6c1-8e7b-033e-4455fa4603f5,66,F,Medicare,Other (non-Hispanic),92108,,No mammogram in 27-month window
+BCS,2fd4d5da-96ab-f21b-4ff0-bd2e893469ed,67,F,Medicare,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,914c5786-c6a1-e58f-c4d7-eff4b2100d38,64,F,Medicare,White (non-Hispanic),92130,,No mammogram in 27-month window
+BCS,add9f054-8519-7d80-051c-016ff05ba66e,73,F,Medicare,Hispanic/Latino,92101,,No mammogram in 27-month window
+BCS,55c70186-9c0f-56b2-fb07-3e9fc4abcff4,72,F,Medicare,Hispanic/Latino,92115,,No mammogram in 27-month window
+BCS,33df1aa7-9504-26b4-29f5-395a05e2d598,68,F,Medicare,White (non-Hispanic),92029,,No mammogram in 27-month window
+BCS,c2b0c3f0-70d1-1dfa-337e-75a4b0045132,66,F,Medicare,Hispanic/Latino,92064,,No mammogram in 27-month window
+BCS,9d09f81c-0eb1-fc68-137c-fc929526d9f0,58,F,Medicare,Hispanic/Latino,92127,,No mammogram in 27-month window
+BCS,8232315a-abdc-7e54-ce2b-ebc86ef63856,66,F,Medicare,Hispanic/Latino,92128,,No mammogram in 27-month window
+BCS,c4ff4264-7c4c-5e0b-30b5-763ded48e6c8,74,F,Medicare,White (non-Hispanic),92109,,No mammogram in 27-month window
+BCS,8d062ee1-f816-36c1-9c79-b33d877a0f10,71,F,Medicare,White (non-Hispanic),92102,,No mammogram in 27-month window
+BCS,43afdd74-a39d-1f76-3bec-cadc3c558d01,73,F,Medicare,White (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,ba419d35-0dfe-8af7-347c-eebf02485a56,52,F,Medicare,White (non-Hispanic),92115,,No mammogram in 27-month window
+BCS,63469bf1-a127-7393-2deb-7a1d0891c948,74,F,Medicare,Hispanic/Latino,92123,,No mammogram in 27-month window
+BCS,4527f213-a57b-ceef-2069-f2e6eaad4f2b,65,F,Medicare,White (non-Hispanic),92140,,No mammogram in 27-month window
+BCS,c726816b-f317-a77b-1f50-cf84f4dd88ac,61,F,Medicare,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,f1574d16-34d8-7e6b-9bd5-b44cba54aac8,53,F,Medicare,White (non-Hispanic),92140,,No mammogram in 27-month window
+BCS,c3d2767e-7be3-c750-ae13-058499570a21,72,F,Medicare,Hispanic/Latino,92104,,No mammogram in 27-month window
+BCS,ebd72286-4347-2c2c-6f0d-d3220a8ac251,56,F,Medicare,Hispanic/Latino,92067,,No mammogram in 27-month window
+BCS,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,72,F,Medicare,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,fc2798ca-88d0-3fbd-9e43-851cc245a201,65,F,Medicare,Asian (non-Hispanic),92065,,No mammogram in 27-month window
+BCS,788f3447-6913-e2f8-3901-a8426ba98e03,65,F,Medicare,White (non-Hispanic),92113,,No mammogram in 27-month window
+BCS,1a69b1c3-11f2-231e-f2a2-d687fb26885c,66,F,Medicare,Hispanic/Latino,92123,,No mammogram in 27-month window
+BCS,8454844c-17f3-5fa7-578a-b55cfb05a419,65,F,Medicare,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,1c30fd55-59a3-c025-c164-359504b9dee3,70,F,Medicare,White (non-Hispanic),92109,,No mammogram in 27-month window
+BCS,82312251-db0a-9697-d152-8f86a1274d79,66,F,Medicare,Hispanic/Latino,92027,,No mammogram in 27-month window
+BCS,e3af6ba4-f072-0ae8-5c96-fd3d79176b92,69,F,Medicare,Hispanic/Latino,92111,,No mammogram in 27-month window
+BCS,48a41a9e-2347-854c-308d-643d470f3f73,69,F,Medicare,White (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,6bdc3615-4652-daf5-3e60-24397595d8c7,72,F,Medicare,Hispanic/Latino,92140,,No mammogram in 27-month window
+BCS,2201f761-9b24-e098-1eed-88d5d746886b,54,F,Medicare,Hispanic/Latino,92128,,No mammogram in 27-month window
+BCS,8ccb6d88-5dcb-d845-59c9-3fcbd603dfa6,66,F,Medicare,Hispanic/Latino,92104,,No mammogram in 27-month window
+BCS,a4c3ab62-27b7-d34d-7a11-fa511d62fe81,66,F,Medicare,Hispanic/Latino,91915,,No mammogram in 27-month window
+BCS,4d5cbaac-6c11-132e-1b86-2c1e25c1726d,56,F,Medicare,Asian (non-Hispanic),92132,,No mammogram in 27-month window
+BCS,e3dfca2d-d7eb-76f0-bd32-0a2623c5642d,72,F,Medicare,White (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,910ddc0a-dff2-a783-978f-800c6ca9d24e,71,F,Medicare,White (non-Hispanic),92111,,No mammogram in 27-month window
+BCS,ee8874ee-3e9f-0923-7528-2896c3911b92,58,F,Medicare,Black (non-Hispanic),91914,,No mammogram in 27-month window
+BCS,8bc636bb-0a59-6e6f-393e-2bd8acd7ef93,52,F,Medicare,Asian (non-Hispanic),92124,,No mammogram in 27-month window
+BCS,c3510851-c452-9de3-ecfb-b9d16fdd83cb,74,F,Medicare,Hispanic/Latino,92106,,No mammogram in 27-month window
+BCS,2a89ee40-606f-4df2-9e77-80aeb1304f4f,66,F,Medicare,Hispanic/Latino,92101,,No mammogram in 27-month window
+BCS,d69cd746-3241-7dab-9a0d-11623bd248fe,72,F,Medicare,Hispanic/Latino,92120,,No mammogram in 27-month window
+BCS,c646b648-9c91-7310-efb9-071ad0f758b9,67,F,Medicare,White (non-Hispanic),92147,,No mammogram in 27-month window
+BCS,03ade52e-96b9-6997-c904-d8658d6c15ee,68,F,Medicare,Hispanic/Latino,92132,,No mammogram in 27-month window
+BCS,355d5f82-4db9-11d6-d651-c97f876baf87,54,F,Medicare,White (non-Hispanic),92075,,No mammogram in 27-month window
+BCS,9432ec87-13f3-6c0a-daf8-807d8b733be7,67,F,Medicare,Hispanic/Latino,92147,,No mammogram in 27-month window
+BCS,2fb62ca5-b037-fe29-6102-a5555442f469,67,F,Medicare,Hispanic/Latino,91945,,No mammogram in 27-month window
+BCS,598c8e88-a563-6ad6-4fba-85db856c839c,72,F,Medicare,Asian (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,caaacebd-08b5-5173-0d99-d3ec9c501467,63,F,Medicare,Asian (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,f7575684-e52e-de9f-6585-f06a48832d44,65,F,Medicare,Asian (non-Hispanic),92147,,No mammogram in 27-month window
+BCS,b44cd74f-a559-90f5-5b2b-672c6cd7d93a,68,F,Medicare,White (non-Hispanic),92064,,No mammogram in 27-month window
+BCS,7771bbba-7c4d-6876-9248-08e69e81ec2c,54,F,Medicare,Asian (non-Hispanic),92122,,No mammogram in 27-month window
+BCS,52f40a46-e86f-368c-18a1-cafc6c9afc0c,66,F,Medicare,White (non-Hispanic),92104,,No mammogram in 27-month window
+BCS,30f87563-5420-b643-7112-d3dc0679b633,66,F,Medicare,Black (non-Hispanic),92145,,No mammogram in 27-month window
+BCS,1a6a6539-4801-ed9e-a527-e48d5194cc1f,61,F,Medicare,Hispanic/Latino,92064,,No mammogram in 27-month window
+BCS,4ef9d178-efd8-d95a-624d-64b6bb864447,64,F,Medicare,White (non-Hispanic),92103,,No mammogram in 27-month window
+BCS,dca839e2-8694-6ec8-960a-483efbc76413,72,F,Medicare,Hispanic/Latino,92124,,No mammogram in 27-month window
+BCS,c128d199-3f25-21e2-7188-15118539a2ee,55,F,Medicare,Hispanic/Latino,92128,,No mammogram in 27-month window
+BCS,67560f08-6072-6fb1-7e99-1855c0381e5d,67,F,Medicare,White (non-Hispanic),92124,,No mammogram in 27-month window
+BCS,f711530e-9022-be14-9767-1ddb053b19bc,67,F,Medicare,Black (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,2ed77eab-3571-a72d-7fe9-16a02766ae00,71,F,Medicare,Asian (non-Hispanic),92128,,No mammogram in 27-month window
+BCS,f9634ca0-f819-6326-2a7b-e47777a50b96,56,F,Medicare,White (non-Hispanic),92037,,No mammogram in 27-month window
+BCS,084f81de-d57a-5167-c138-94bdae4170a3,73,F,Medicare,Other (non-Hispanic),92103,,No mammogram in 27-month window
+BCS,ffa2edc3-cc3c-2a4e-91fd-a050e1ab195e,58,F,Uninsured,White (non-Hispanic),92065,,No mammogram in 27-month window
+BCS,2ce0ad34-3115-7435-0bef-e13f6a9482cf,60,F,Uninsured,Hispanic/Latino,92014,,No mammogram in 27-month window
+BCS,bc6bdf85-dda1-396b-d25f-9e9ade798a4f,64,F,Uninsured,Hispanic/Latino,92114,,No mammogram in 27-month window
+BCS,641128ac-9d67-7925-8017-733e8d5980c6,61,F,Uninsured,Hispanic/Latino,92139,,No mammogram in 27-month window
+BCS,a5ccf2b2-35dc-b159-a248-a8d0f671485d,60,F,Uninsured,Hispanic/Latino,91932,,No mammogram in 27-month window
+BCS,37da269a-f4fb-0109-5582-97b8c0428257,54,F,Uninsured,White (non-Hispanic),91945,,No mammogram in 27-month window
+BCS,8e358a6e-0590-2bb7-d6cf-a74900f6abb7,62,F,Uninsured,White (non-Hispanic),92115,,No mammogram in 27-month window
+BCS,926e365c-d6fd-c36c-e7f1-04f9bbdc5373,53,F,Uninsured,White (non-Hispanic),92173,,No mammogram in 27-month window
+BCS,4651f011-1fbc-bbfd-dc0a-1c7d97a5cdc9,52,F,Uninsured,White (non-Hispanic),92131,,No mammogram in 27-month window
+BCS,e5cb5486-2f65-3a5b-92c4-68d9ab8cc401,66,F,Uninsured,White (non-Hispanic),92105,,No mammogram in 27-month window
+BCS,daf01155-eaac-a8ee-ba01-4e2d71af9ea4,53,F,Uninsured,Hispanic/Latino,91915,,No mammogram in 27-month window
+BCS,b1f39937-f3ad-c2ff-6865-04cb9d671101,58,F,Uninsured,Hispanic/Latino,92075,,No mammogram in 27-month window
+BCS,b8222d5c-fda2-5bd0-4733-1faef6761f76,62,F,Uninsured,Hispanic/Latino,92154,,No mammogram in 27-month window
+BCS,d214d11a-7a80-023e-2a9e-665998ce9665,64,F,Uninsured,Hispanic/Latino,92134,,No mammogram in 27-month window
+BCS,c8056106-9602-6e41-e8d2-dd177a79b7ce,62,F,Uninsured,Other (non-Hispanic),91911,,No mammogram in 27-month window
+BCS,13c3d085-8419-1059-b8cb-e668d6a20661,60,F,Uninsured,Hispanic/Latino,92117,,No mammogram in 27-month window
+BCS,eec4d4f2-e003-a909-128a-ddadbdec4412,53,F,Uninsured,Asian (non-Hispanic),92027,,No mammogram in 27-month window
+BCS,fc85d954-5112-747f-c924-8461a706d43b,59,F,Uninsured,White (non-Hispanic),92037,,No mammogram in 27-month window
+BCS,a45a4f4b-cce0-7f46-b66b-357faee22427,58,F,Uninsured,White (non-Hispanic),92118,,No mammogram in 27-month window
+BCS,fad7c91b-f9d8-e05e-8a77-4faa8a3fd309,55,F,Uninsured,Hispanic/Latino,92116,,No mammogram in 27-month window
+BCS,5a6c4e18-2ec7-e921-acf4-33b2cec1772e,53,F,Uninsured,White (non-Hispanic),91942,,No mammogram in 27-month window
+BCS,6f936c90-a523-337d-1579-033e03d73547,56,F,Uninsured,Hispanic/Latino,92071,,No mammogram in 27-month window
+BCS,a72b5816-deec-48c4-d935-24ba36ca44e5,57,F,Uninsured,Hispanic/Latino,92124,,No mammogram in 27-month window
+BCS,fcfd7512-884b-f594-9a6e-9dd63255b68f,59,F,Uninsured,Other (non-Hispanic),92071,,No mammogram in 27-month window
+BCS,d1f0b456-c5b3-5137-41cb-b23950d957de,56,F,Uninsured,Hispanic/Latino,92135,,No mammogram in 27-month window
+CBP,94796de0-a629-d960-8281-498b91b88db6,56,F,Commercial,White (non-Hispanic),91914,2025-11-27,Last BP at or above 140/90
+CBP,76a5927f-f88b-8fd5-8dcd-554b874449d3,52,M,Commercial,Hispanic/Latino,91932,2025-01-14,Last BP at or above 140/90
+CBP,1476d15d-eaee-a45a-d6f7-d1702871d826,39,M,Commercial,Hispanic/Latino,92118,2025-11-06,Last BP at or above 140/90
+CBP,b9b2b380-da68-4947-f29f-80aa1fe0b6ca,47,M,Commercial,White (non-Hispanic),92130,2025-09-12,Last BP at or above 140/90
+CBP,f46d1297-f104-644c-f70e-a08306274e56,48,M,Commercial,Hispanic/Latino,92106,2025-01-05,Last BP at or above 140/90
+CBP,a4bff8f8-bf78-e4cf-0705-878f82437cca,47,M,Commercial,Other (non-Hispanic),92106,2025-08-25,Last BP at or above 140/90
+CBP,b71283a9-ef11-7417-ff8d-ab1d853ddd1e,22,M,Commercial,Hispanic/Latino,91932,2025-07-04,Last BP at or above 140/90
+CBP,3bedaa97-61e9-06ab-3b9d-c60f17375bf3,32,F,Commercial,Hispanic/Latino,92106,2025-01-26,Last BP at or above 140/90
+CBP,7b04ab97-56cf-7cc3-8496-81768c206c70,35,F,Commercial,Hispanic/Latino,91932,2025-06-11,Last BP at or above 140/90
+CBP,e91e8d01-5153-5e57-ff04-57c6d70fcff4,63,M,Commercial,White (non-Hispanic),92135,,No BP recorded in year
+CBP,3abd9004-9a59-3def-dc82-2089b1e5e77b,54,F,Commercial,Other (non-Hispanic),92075,2025-07-11,Last BP at or above 140/90
+CBP,cd8b093f-4a59-96aa-8d79-ea7192799fc7,46,M,Commercial,White (non-Hispanic),91914,2025-07-30,Last BP at or above 140/90
+CBP,a088960e-5d03-c6bc-6c87-83f17c0efb09,40,M,Commercial,Hispanic/Latino,92106,2025-03-23,Last BP at or above 140/90
+CBP,21cb4452-b958-9992-9c6b-b727ffacd336,50,F,Commercial,White (non-Hispanic),92122,2025-04-17,Last BP at or above 140/90
+CBP,06d9b168-6ea1-82f4-043b-576aa738a3e7,38,F,Commercial,White (non-Hispanic),92014,2025-10-19,Last BP at or above 140/90
+CBP,38793bd6-9217-56cf-34a5-f1915137d903,52,M,Commercial,Other (non-Hispanic),92131,2025-02-19,Last BP at or above 140/90
+CBP,6923f921-fd64-7f26-98c1-e2c545b743fd,42,F,Commercial,Hispanic/Latino,92107,2025-09-04,Last BP at or above 140/90
+CBP,bc7f34d3-f024-0a93-c1ca-0d8560652676,44,F,Commercial,Asian (non-Hispanic),92106,2025-10-13,Last BP at or above 140/90
+CBP,b6dd7eee-0d26-421e-e74b-9a12d568da71,57,M,Commercial,Hispanic/Latino,92115,2025-11-30,Last BP at or above 140/90
+CBP,89737a96-8e69-1c00-e333-4a7627f16ed8,39,M,Commercial,Black (non-Hispanic),92135,2025-11-24,Last BP at or above 140/90
+CBP,28ffd05b-a23d-3547-3ccd-fc1f77ff4ace,56,M,Commercial,White (non-Hispanic),92116,2025-09-20,Last BP at or above 140/90
+CBP,270ef1b8-bd71-e9bb-4ff4-9e27ad397ea0,51,F,Commercial,White (non-Hispanic),92014,2025-09-18,Last BP at or above 140/90
+CBP,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,58,M,Commercial,Hispanic/Latino,92124,2025-04-25,Last BP at or above 140/90
+CBP,0d82452b-5d70-c48a-3049-91cfa333c1a9,57,F,Commercial,Hispanic/Latino,91915,2025-07-14,Last BP at or above 140/90
+CBP,1717d7bb-8002-d228-095f-2b0f43f7c70a,42,M,Commercial,Hispanic/Latino,92121,2025-12-07,Last BP at or above 140/90
+CBP,26140df7-1924-1c9b-a563-b797615fc912,60,M,Commercial,Black (non-Hispanic),92111,2025-04-05,Last BP at or above 140/90
+CBP,39b76937-cbc8-6fc4-f343-4d03aaaa5ab2,43,F,Commercial,Hispanic/Latino,92117,2025-02-21,Last BP at or above 140/90
+CBP,e0d7ad35-c186-3f72-7373-aea1a94ea487,49,F,Commercial,Hispanic/Latino,92071,2025-07-12,Last BP at or above 140/90
+CBP,ad89ed39-f5c9-975c-5913-70238431b2bd,43,F,Commercial,White (non-Hispanic),92129,2025-03-05,Last BP at or above 140/90
+CBP,fa17a053-1fd3-2a0c-9379-83ec41344a5f,50,F,Commercial,Hispanic/Latino,92102,2025-09-20,Last BP at or above 140/90
+CBP,7c2a5b6b-6096-af13-5186-ecf3d160fe91,51,M,Commercial,Hispanic/Latino,92064,2025-07-31,Last BP at or above 140/90
+CBP,7ab26875-4ca5-dcad-97dc-44b2db15e3a3,52,M,Commercial,White (non-Hispanic),92014,2025-12-05,Last BP at or above 140/90
+CBP,2b42a968-c9dc-d930-c000-0ed1379e61f2,48,M,Commercial,White (non-Hispanic),92105,2025-11-04,Last BP at or above 140/90
+CBP,d1199560-2dc6-128e-aa2b-63c53f3135bc,54,M,Commercial,Hispanic/Latino,91932,2025-07-29,Last BP at or above 140/90
+CBP,764301c5-aa0e-93a1-abdf-49df593c4d91,60,F,Commercial,Hispanic/Latino,92140,2025-11-02,Last BP at or above 140/90
+CBP,dfa67b0f-bdc1-7ff7-4852-249321ccdc1a,50,M,Commercial,Hispanic/Latino,92104,2025-11-02,Last BP at or above 140/90
+CBP,c39d1a8c-4bb6-4c73-4597-a32ecbd29105,51,M,Commercial,White (non-Hispanic),92140,2025-12-29,Last BP at or above 140/90
+CBP,4bf6d101-9c10-1b44-914d-733791c242f8,51,F,Commercial,Asian (non-Hispanic),92139,2025-07-06,Last BP at or above 140/90
+CBP,fb4ca068-e606-13f7-3191-b199d4edc018,45,F,Commercial,Hispanic/Latino,92129,2025-06-11,Last BP at or above 140/90
+CBP,36e78c82-a2fb-ce3c-a329-c3097fcfa4cb,54,F,Commercial,Hispanic/Latino,92135,2025-08-11,Last BP at or above 140/90
+CBP,01b2da20-8b0d-5eee-eb72-80c1504d64a9,58,F,Commercial,Asian (non-Hispanic),91911,2025-11-21,Last BP at or above 140/90
+CBP,526e551b-774b-40ae-1e45-65bf7c815d20,56,M,Commercial,Black (non-Hispanic),91945,2025-01-21,Last BP at or above 140/90
+CBP,44360830-c84b-2ac6-75b5-4adc9e0f63b3,32,M,Commercial,White (non-Hispanic),92122,2025-03-21,Last BP at or above 140/90
+CBP,eb9326b0-1f60-e13e-6af2-4ec274ab1dcb,54,M,Commercial,White (non-Hispanic),92124,2025-08-30,Last BP at or above 140/90
+CBP,a80c6c57-530f-60f4-ca31-789069587943,48,F,Commercial,White (non-Hispanic),92075,2025-10-25,Last BP at or above 140/90
+CBP,ff5944d9-6147-74b0-eb5e-e657e8201965,45,F,Commercial,Hispanic/Latino,92129,2025-12-17,Last BP at or above 140/90
+CBP,6a1b0672-2a43-2596-ee46-1e4a71d9f5ab,33,M,Commercial,Hispanic/Latino,92075,2025-11-03,Last BP at or above 140/90
+CBP,487ae407-4bd2-c5f2-fc8d-45690bd72a80,50,F,Commercial,White (non-Hispanic),92147,2025-04-18,Last BP at or above 140/90
+CBP,be9fdc47-4766-5236-58d3-95e5d28efbe1,51,M,Commercial,Asian (non-Hispanic),92111,2025-02-14,Last BP at or above 140/90
+CBP,0d9d9f81-b2ab-7b08-6614-300d15c6f992,58,F,Commercial,Asian (non-Hispanic),92126,2025-09-13,Last BP at or above 140/90
+CBP,7757e4de-3e20-c256-cc50-6426f514434d,47,F,Commercial,Hispanic/Latino,92121,2025-11-03,Last BP at or above 140/90
+CBP,06a762e8-e6a0-f3da-f3ab-db8891ddea1f,63,M,Commercial,White (non-Hispanic),92134,2025-02-13,Last BP at or above 140/90
+CBP,12ae0a60-cb75-df45-980a-6fc6ee1a6b67,62,F,Commercial,White (non-Hispanic),91914,2025-09-01,Last BP at or above 140/90
+CBP,d2eb118d-fccf-59a7-7a65-b056ae7942be,57,M,Commercial,Other (non-Hispanic),91915,2025-10-23,Last BP at or above 140/90
+CBP,902020e2-73d7-b0ab-51f5-07137486340f,58,M,Commercial,Other (non-Hispanic),92145,2025-11-26,Last BP at or above 140/90
+CBP,5156cae7-4e0e-e7ee-7bfc-c84f987de307,45,M,Commercial,White (non-Hispanic),92128,2025-11-09,Last BP at or above 140/90
+CBP,63f4d267-4d83-647e-99ed-6a3af4e4f812,55,F,Commercial,Hispanic/Latino,92121,2025-10-18,Last BP at or above 140/90
+CBP,33c6a998-1b9c-bb04-84f1-edf86e6d0742,49,F,Commercial,White (non-Hispanic),92131,2025-03-12,Last BP at or above 140/90
+CBP,ae3bb280-2f6b-13b0-98d9-1116cfe35d04,58,F,Commercial,White (non-Hispanic),92027,2025-06-26,Last BP at or above 140/90
+CBP,5623b50e-f739-5c30-ead5-a4e51b214f8f,54,M,Commercial,White (non-Hispanic),92140,2025-11-29,Last BP at or above 140/90
+CBP,dd7b8a1e-8046-aad4-4a7d-cecc48bc4749,39,M,Commercial,Black (non-Hispanic),92065,2025-05-06,Last BP at or above 140/90
+CBP,10ef12fb-14dc-88af-dde4-d620bee64195,45,M,Commercial,White (non-Hispanic),92127,2025-10-23,Last BP at or above 140/90
+CBP,d216a259-cb57-ebdc-35dc-06dc06dd6488,49,F,Commercial,White (non-Hispanic),92140,2025-09-22,Last BP at or above 140/90
+CBP,da2bc262-e76d-4ffe-249b-7cce8b5425a3,46,M,Commercial,White (non-Hispanic),92140,2025-11-05,Last BP at or above 140/90
+CBP,03607fcd-7c51-41c0-2bd7-ecf277074e44,43,M,Commercial,Hispanic/Latino,92154,2025-05-02,Last BP at or above 140/90
+CBP,61f0d3ca-b4c9-52e3-eef6-e52d42080cdd,55,M,Commercial,White (non-Hispanic),92065,2025-06-04,Last BP at or above 140/90
+CBP,be9b8db8-8028-2c14-5ede-f6dacd215487,54,M,Commercial,White (non-Hispanic),92065,2025-04-15,Last BP at or above 140/90
+CBP,a2b08197-9663-72ab-8f3c-51fec35ff18f,52,F,Commercial,Asian (non-Hispanic),92147,2025-07-16,Last BP at or above 140/90
+CBP,ff0411b3-402f-4b11-a55f-3937f613fd6b,55,F,Commercial,White (non-Hispanic),92115,2025-07-07,Last BP at or above 140/90
+CBP,b73f5258-fd49-ce9b-1b83-93472e985397,52,M,Commercial,White (non-Hispanic),92122,2025-10-01,Last BP at or above 140/90
+CBP,d76985da-18b3-aa5d-d7ea-3a02a0951a87,33,F,Commercial,Hispanic/Latino,92067,2025-06-01,Last BP at or above 140/90
+CBP,4150366c-535b-fa65-3420-a02bed385275,50,F,Commercial,White (non-Hispanic),92107,2025-12-29,Last BP at or above 140/90
+CBP,e6d68fb3-7ee0-ba28-84ee-dd0266bd7e50,36,M,Dual Eligible,White (non-Hispanic),92131,2025-01-08,Last BP at or above 140/90
+CBP,a828d437-852a-3f83-3dc0-3f95fb386813,81,F,Dual Eligible,Asian (non-Hispanic),92065,2025-04-21,Last BP at or above 140/90
+CBP,5a0d025d-db63-38ff-b1ae-6acc5f4e1f33,72,M,Dual Eligible,White (non-Hispanic),92131,2025-02-26,Last BP at or above 140/90
+CBP,bbdc4bdf-fb96-ac5c-cbf0-262589db054a,59,M,Dual Eligible,Hispanic/Latino,92132,2025-09-19,Last BP at or above 140/90
+CBP,9279e5c5-aa9e-148a-111a-2e035f4ee3c6,60,F,Dual Eligible,White (non-Hispanic),91911,2025-11-12,Last BP at or above 140/90
+CBP,e38079a6-19b2-f6e8-b875-6a8c6d61d568,47,M,Medicaid,White (non-Hispanic),92105,2025-06-05,Last BP at or above 140/90
+CBP,6482017e-b4c2-28c7-9ec3-fa8464bf49f2,38,M,Medicaid,White (non-Hispanic),91942,2025-02-26,Last BP at or above 140/90
+CBP,5192e20e-2420-098e-811c-9caedf832fad,38,M,Medicaid,White (non-Hispanic),92119,2025-12-20,Last BP at or above 140/90
+CBP,a1d5d70d-07fa-4f81-4277-468537d44ce9,43,F,Medicaid,White (non-Hispanic),92113,2025-01-25,Last BP at or above 140/90
+CBP,6d16511b-0783-7c65-b930-05e20b5d4725,47,M,Medicaid,White (non-Hispanic),91942,2025-08-14,Last BP at or above 140/90
+CBP,f3bb858d-9711-5c43-c051-b73fc246a4c8,54,F,Medicaid,White (non-Hispanic),92027,2025-08-25,Last BP at or above 140/90
+CBP,372f1d7c-54ad-6683-592e-93799af87d3d,59,F,Medicaid,White (non-Hispanic),92025,2025-10-13,Last BP at or above 140/90
+CBP,49ab2d4b-2483-ccb9-dbd8-cb5a93478a56,54,F,Medicaid,White (non-Hispanic),92145,2025-08-24,Last BP at or above 140/90
+CBP,f9aeb048-ab31-8c20-382e-da060703187a,42,M,Medicaid,White (non-Hispanic),92027,2025-12-21,Last BP at or above 140/90
+CBP,deb162bf-841c-a9c2-9c0b-d3264001e8e8,63,M,Medicaid,White (non-Hispanic),92129,2025-05-15,Last BP at or above 140/90
+CBP,44bf5b9e-e94f-fbd1-aa65-3a39cf795964,52,M,Medicaid,White (non-Hispanic),92014,2025-02-21,Last BP at or above 140/90
+CBP,fd9b24cc-7bd0-64b5-e4a1-327beb253407,28,F,Medicaid,Hispanic/Latino,92140,2025-12-25,Last BP at or above 140/90
+CBP,d276e5ca-6d64-d1f8-42fe-f241113054b6,47,M,Medicaid,White (non-Hispanic),92075,2025-05-18,Last BP at or above 140/90
+CBP,ae44d54d-cbea-a17d-f345-ee7e0f5bb553,38,M,Medicaid,Other (non-Hispanic),92117,2025-09-30,Last BP at or above 140/90
+CBP,811b3aac-fb83-2dba-b8fc-fe4158aa28ef,45,M,Medicaid,Hispanic/Latino,92104,2025-07-18,Last BP at or above 140/90
+CBP,ceeea1a1-bb5c-04bb-b8e8-4bef689f27dc,63,F,Medicaid,White (non-Hispanic),92132,2025-08-31,Last BP at or above 140/90
+CBP,b3e2bbde-ab80-dbd9-160b-0efaa415d51c,55,M,Medicaid,Hispanic/Latino,92139,2025-11-06,Last BP at or above 140/90
+CBP,344600cc-7f7f-adb0-da3b-195f2f2c150f,37,M,Medicaid,Hispanic/Latino,91950,2025-12-19,Last BP at or above 140/90
+CBP,db5ccb06-f79e-f11b-4fa0-ecc91a161d99,47,M,Medicaid,Asian (non-Hispanic),92027,2025-12-20,Last BP at or above 140/90
+CBP,a1e4d5b0-1512-073b-c684-02aa89cec791,45,M,Medicaid,Black (non-Hispanic),92173,2025-11-11,Last BP at or above 140/90
+CBP,aafc7b4e-0170-f7a5-4ded-c9447febc8f4,52,F,Medicaid,White (non-Hispanic),92154,2025-04-12,Last BP at or above 140/90
+CBP,6c57ebe0-13d4-4725-aed4-693d4a14dc84,68,M,Medicare,White (non-Hispanic),92139,2025-06-30,Last BP at or above 140/90
+CBP,271af137-6ac7-08bf-252c-872f41b9e646,52,F,Medicare,White (non-Hispanic),92122,2025-09-29,Last BP at or above 140/90
+CBP,82e8875f-75e1-adbc-ae8c-be3857ff62c0,67,M,Medicare,Other (non-Hispanic),91942,2025-12-12,Last BP at or above 140/90
+CBP,8232315a-abdc-7e54-ce2b-ebc86ef63856,66,F,Medicare,Hispanic/Latino,92128,2025-10-14,Last BP at or above 140/90
+CBP,6275deb4-e6fe-ed17-ced2-7d7f9117215a,60,M,Medicare,White (non-Hispanic),92117,2025-08-18,Last BP at or above 140/90
+CBP,6047419c-a879-7748-7d02-5875cb8c9a89,60,F,Medicare,White (non-Hispanic),92154,2025-12-16,Last BP at or above 140/90
+CBP,9432ec87-13f3-6c0a-daf8-807d8b733be7,67,F,Medicare,Hispanic/Latino,92147,2025-05-17,Last BP at or above 140/90
+CBP,b20b52c7-ca5b-e674-0422-a0c06d13ae76,69,M,Medicare,White (non-Hispanic),92025,2025-03-17,Last BP at or above 140/90
+CBP,6111a518-0080-ae91-0964-087921762f09,54,M,Medicare,Hispanic/Latino,92114,,No BP recorded in year
+CBP,bf6b88b4-2489-cee4-b658-b75995cd7e26,50,F,Medicare,White (non-Hispanic),92108,2025-04-21,Last BP at or above 140/90
+CBP,a87f5c0f-b16e-cb3f-5814-db286bc48090,55,M,Medicare,White (non-Hispanic),92119,2025-11-18,Last BP at or above 140/90
+CBP,24774252-2c6b-089b-8175-f9b66a9d7ddf,45,M,Medicare,White (non-Hispanic),92140,2025-03-26,Last BP at or above 140/90
+CBP,28fc4489-6f3e-4157-50d7-14e9d039ffc3,57,M,Medicare,Hispanic/Latino,91942,2025-05-31,Last BP at or above 140/90
+CBP,6fe44353-9194-1e42-1f3a-52d8854b9bf8,46,F,Medicare,White (non-Hispanic),92029,2025-03-08,Last BP at or above 140/90
+CBP,493a1120-3e80-1cce-c60a-9d237866860b,34,M,Medicare,Hispanic/Latino,92127,2025-05-20,Last BP at or above 140/90
+CBP,564addf6-6232-a5bf-a4de-70231f580d78,64,M,Medicare,Hispanic/Latino,92120,,No BP recorded in year
+CBP,71afc052-fe25-a0d8-475f-498e66eb6974,71,M,Medicare,White (non-Hispanic),92130,2025-08-29,Last BP at or above 140/90
+CBP,453a6d7a-c699-33ac-591e-a11d4927f055,77,F,Medicare,White (non-Hispanic),92014,2025-01-14,Last BP at or above 140/90
+CBP,7771bbba-7c4d-6876-9248-08e69e81ec2c,54,F,Medicare,Asian (non-Hispanic),92122,2025-11-12,Last BP at or above 140/90
+CBP,b44cd74f-a559-90f5-5b2b-672c6cd7d93a,68,F,Medicare,White (non-Hispanic),92064,2025-01-18,Last BP at or above 140/90
+CBP,4ffffc7b-9a21-d248-a28c-010114b8ef9f,67,M,Medicare,Hispanic/Latino,92113,2025-03-09,Last BP at or above 140/90
+CBP,a8c77a8e-d239-a259-13cd-bbe25d1c917f,75,F,Medicare,White (non-Hispanic),92075,2025-09-11,Last BP at or above 140/90
+CBP,3c1f3413-a420-229e-5e7b-8eeb77d7a841,38,M,Medicare,Hispanic/Latino,92115,2025-09-06,Last BP at or above 140/90
+CBP,f7575684-e52e-de9f-6585-f06a48832d44,65,F,Medicare,Asian (non-Hispanic),92147,2025-09-13,Last BP at or above 140/90
+CBP,412f2188-0bd6-9ef7-96a6-3f537538edc1,49,M,Medicare,White (non-Hispanic),92140,2025-12-26,Last BP at or above 140/90
+CBP,eb9ce0c2-31de-9596-8153-dfcdd9c997ae,39,M,Medicare,Asian (non-Hispanic),92140,2025-12-24,Last BP at or above 140/90
+CBP,2fd4d5da-96ab-f21b-4ff0-bd2e893469ed,67,F,Medicare,White (non-Hispanic),92111,2025-08-19,Last BP at or above 140/90
+CBP,fe60e930-09cc-ab85-82d9-55ad7863c11e,60,F,Medicare,Hispanic/Latino,92109,2025-04-06,Last BP at or above 140/90
+CBP,d2bfeab4-a47f-4b25-61ce-03bfb275a4b1,52,M,Medicare,Hispanic/Latino,92145,2025-12-19,Last BP at or above 140/90
+CBP,37bddf43-7b9c-43b9-1465-1ffa8ddb618e,68,F,Medicare,Other (non-Hispanic),92145,2025-10-22,Last BP at or above 140/90
+CBP,c307b408-4396-3382-2bdc-4cfa61ad907f,42,M,Medicare,White (non-Hispanic),92115,2025-08-18,Last BP at or above 140/90
+CBP,c2b0c3f0-70d1-1dfa-337e-75a4b0045132,66,F,Medicare,Hispanic/Latino,92064,,No BP recorded in year
+CBP,322d2eb8-0c80-96f1-ef96-062b9d87ae43,61,M,Medicare,White (non-Hispanic),92116,2025-01-01,Last BP at or above 140/90
+CBP,914c5786-c6a1-e58f-c4d7-eff4b2100d38,64,F,Medicare,White (non-Hispanic),92130,2025-11-04,Last BP at or above 140/90
+CBP,4ec7c8f0-0b3f-ba74-3e13-ce529c36cfa3,61,F,Medicare,Hispanic/Latino,91911,2025-03-09,Last BP at or above 140/90
+CBP,261baccc-fb99-50da-d552-84e17dfb59e7,36,M,Medicare,White (non-Hispanic),92109,2025-04-18,Last BP at or above 140/90
+CBP,e91b38e7-6f79-e2f4-89ed-29f31853149d,62,M,Medicare,Hispanic/Latino,92107,2025-08-02,Last BP at or above 140/90
+CBP,f6ec5be2-eab2-5009-0a0e-8d565c2b4a14,52,F,Medicare,Hispanic/Latino,91911,2025-10-20,Last BP at or above 140/90
+CBP,c6814385-c565-06bc-cbf9-8ad36e67bba8,62,F,Medicare,Hispanic/Latino,92108,2025-07-06,Last BP at or above 140/90
+CBP,b4258f57-ebc0-747e-45e9-d8614f080a42,42,M,Medicare,White (non-Hispanic),92118,2025-09-26,Last BP at or above 140/90
+CBP,8454844c-17f3-5fa7-578a-b55cfb05a419,65,F,Medicare,White (non-Hispanic),91911,2025-03-02,Last BP at or above 140/90
+CBP,4dc26679-1a73-bf82-6865-6a31d59e99bd,63,M,Medicare,Asian (non-Hispanic),92113,2025-11-26,Last BP at or above 140/90
+CBP,698ed74d-fdab-1ff8-684b-ccf8c06bf60a,44,M,Medicare,White (non-Hispanic),92118,2025-07-03,Last BP at or above 140/90
+CBP,33df1aa7-9504-26b4-29f5-395a05e2d598,68,F,Medicare,White (non-Hispanic),92029,2025-09-17,Last BP at or above 140/90
+CBP,d9edcb1c-7974-df0c-ea41-bb95f2da11dc,55,F,Medicare,White (non-Hispanic),92127,2025-12-21,Last BP at or above 140/90
+CBP,55f71ba3-7575-5c2d-e74f-130a748207a3,70,F,Medicare,White (non-Hispanic),92117,2025-03-10,Last BP at or above 140/90
+CBP,c726816b-f317-a77b-1f50-cf84f4dd88ac,61,F,Medicare,White (non-Hispanic),92111,2025-08-05,Last BP at or above 140/90
+CBP,984980b6-bbec-8d1d-e6df-b9add10e36c2,68,M,Medicare,Hispanic/Latino,92128,2025-06-21,Last BP at or above 140/90
+CBP,a7891acb-c033-b37e-e73f-db8dbd63abe9,73,M,Medicare,Hispanic/Latino,92107,2025-10-26,Last BP at or above 140/90
+CBP,99620c40-40eb-65ca-57df-2e4c7dbe38d2,56,F,Medicare,Hispanic/Latino,92107,2025-09-18,Last BP at or above 140/90
+CBP,4ef9d178-efd8-d95a-624d-64b6bb864447,64,F,Medicare,White (non-Hispanic),92103,,No BP recorded in year
+CBP,d660127d-13fc-66f1-1ae1-a304975a74aa,45,M,Medicare,Hispanic/Latino,92025,2025-03-11,Last BP at or above 140/90
+CBP,541e1d81-cd8b-9935-927a-020cdefa7369,67,F,Medicare,White (non-Hispanic),92064,2025-03-26,Last BP at or above 140/90
+CBP,29d50bb9-e05b-9051-a151-6c6dc95b9831,60,M,Medicare,White (non-Hispanic),92135,2025-10-15,Last BP at or above 140/90
+CBP,a051f89a-fbf9-a8ab-cc04-a841d5f37e47,45,M,Medicare,White (non-Hispanic),92109,2025-04-11,Last BP at or above 140/90
+CBP,c23290f3-2c28-d526-e0d5-7aaad42b0b85,34,F,Uninsured,White (non-Hispanic),92122,2025-02-06,Last BP at or above 140/90
+CBP,329429b6-f9d9-03e0-bfec-81ba64e2e48e,42,M,Uninsured,Hispanic/Latino,92147,2025-09-29,Last BP at or above 140/90
+CBP,05c29541-7f3e-5d79-3599-cefa9da30798,60,M,Uninsured,Other (non-Hispanic),92115,2025-03-24,Last BP at or above 140/90
+CBP,2ce0ad34-3115-7435-0bef-e13f6a9482cf,60,F,Uninsured,Hispanic/Latino,92014,2025-12-04,Last BP at or above 140/90
+CBP,a5ccf2b2-35dc-b159-a248-a8d0f671485d,60,F,Uninsured,Hispanic/Latino,91932,2025-10-29,Last BP at or above 140/90
+CBP,021142be-3a32-af72-8a9c-06958b3dba9f,28,F,Uninsured,Hispanic/Latino,91950,2025-09-07,Last BP at or above 140/90
+CBP,6f936c90-a523-337d-1579-033e03d73547,56,F,Uninsured,Hispanic/Latino,92071,2025-09-11,Last BP at or above 140/90
+CBP,13c3d085-8419-1059-b8cb-e668d6a20661,60,F,Uninsured,Hispanic/Latino,92117,,No BP recorded in year
+CBP,14a4723e-edcc-1124-b655-a99e02792c15,35,M,Uninsured,White (non-Hispanic),92102,2025-08-26,Last BP at or above 140/90
+COL,2caac3fb-f250-9c3a-2c70-a5adecd10864,47,M,Commercial,Asian (non-Hispanic),92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,17bc2196-5977-7a0f-fc7c-cb00b232932b,54,F,Commercial,Black (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,55f3907f-0fe5-9d8c-ebfb-639f89719292,46,M,Commercial,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,941f4546-0854-903d-4d61-c533703ce4d2,49,F,Commercial,Hispanic/Latino,92128,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d3ca81a4-8e86-9863-0b04-e1dbc76d17c0,48,M,Commercial,White (non-Hispanic),92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,fa26d14b-de2a-dc17-fc07-45ae59de3a07,57,M,Commercial,Asian (non-Hispanic),92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ddd400ae-be91-aa7d-76aa-a2dfa1cef32b,62,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6918b337-501c-ca58-f078-65f921214d5e,47,M,Commercial,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,91f05dd0-f3ab-08da-5bfd-f4fdf9dfe6a4,63,F,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,43cfc3f6-0984-3dc2-6760-03747a234dbb,48,F,Commercial,White (non-Hispanic),92154,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5c554208-e29d-3c87-370d-343f9bd7b0bb,47,F,Commercial,Hispanic/Latino,92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0eb21e20-1003-01ba-a9d2-7b725764d134,64,M,Commercial,White (non-Hispanic),92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ed97ff75-4b0d-0b19-b4d6-6dfd6f311c6f,52,F,Commercial,White (non-Hispanic),92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,13927fe1-f295-7769-a105-3657c85f6bda,48,M,Commercial,Hispanic/Latino,92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,212e87f0-6fac-0ff7-dbe7-80dbd7fffecc,58,M,Commercial,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7b95b9d0-664b-20c8-b97b-51e24e73bf7d,50,F,Commercial,White (non-Hispanic),92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f75f7812-976f-d1b8-6b65-ceca58b607f5,48,F,Commercial,Hispanic/Latino,92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,184d403d-a1ec-6f40-58e4-5d8fe95c2249,57,F,Commercial,White (non-Hispanic),92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a190b534-4dd0-f251-1688-9eab550f15f3,62,F,Commercial,Asian (non-Hispanic),91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,852adf58-2263-8705-3f90-30a4130d6f38,52,M,Commercial,White (non-Hispanic),92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9ce697b1-8bb0-ab80-ca4c-2e34e257c3b6,48,F,Commercial,Asian (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3f8330ee-9e4a-acce-9b61-640b41660203,50,M,Commercial,White (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3717c133-c036-a9db-f505-31e4a356123f,56,M,Commercial,White (non-Hispanic),92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,22929a68-92a8-362b-99c5-fd30aef7eb97,47,M,Commercial,Hispanic/Latino,92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1ae5dfee-f861-a959-b2cf-867f70116ea9,48,F,Commercial,Hispanic/Latino,92109,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,439fc3f3-803c-9c69-04b5-9d689abca3cd,48,M,Commercial,White (non-Hispanic),91914,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,cda4521c-c8f6-375c-7e24-3bdce40f09b4,49,M,Commercial,White (non-Hispanic),92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,08f0f3f5-b912-534e-1e2b-e2c51dfdac77,64,M,Commercial,White (non-Hispanic),92127,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,67c79e79-1629-6368-3614-22013a2ca4dd,49,M,Commercial,White (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6f8fc78f-c301-ee5f-ef2d-daeb84ac95da,48,M,Commercial,Hispanic/Latino,92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4603f076-185b-11f9-3f25-57e2f50494a1,47,M,Commercial,Asian (non-Hispanic),92118,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,73e1e456-06c1-96dc-6b10-3768d7f434dd,51,F,Commercial,Hispanic/Latino,92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,86320c12-1e2e-a065-7d5e-655c90aa59b8,48,M,Commercial,White (non-Hispanic),92128,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7ab26875-4ca5-dcad-97dc-44b2db15e3a3,52,M,Commercial,White (non-Hispanic),92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b6c6ccf8-8654-ec94-de78-f48194c7ec7f,47,F,Commercial,Hispanic/Latino,92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b4ab9db4-77f0-e2d4-47bc-bade6e1d2c8e,46,M,Commercial,White (non-Hispanic),92037,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6db1aa66-5bb1-112b-b6f5-6eb48d85d118,48,M,Commercial,Hispanic/Latino,92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,778e69e1-da53-711c-e56b-27e7a235f652,48,F,Commercial,White (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e7080fc3-5982-efb0-8ca5-29f471bf5e4e,49,F,Commercial,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9d586071-cd83-7054-7ee1-bf275fd340c4,52,F,Commercial,Asian (non-Hispanic),91914,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6515770b-b4f4-455f-7539-474942548022,48,F,Commercial,Other (non-Hispanic),92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,95504355-4148-bab3-2be6-c7e85e80845c,50,M,Commercial,White (non-Hispanic),92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,df0d5df8-cda1-7729-c56b-c0edcc1de8a2,49,M,Commercial,White (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,451fc588-6811-c070-c6ea-b2523fffeda6,48,M,Commercial,White (non-Hispanic),92025,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,49af39ac-985f-75ef-a239-4617bc6cae8b,59,M,Commercial,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,49b00c6f-8d1b-b304-e3e3-e4985f283897,47,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,644c8a7a-7a6f-3906-f247-55707ad5740f,55,F,Commercial,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a594dda3-b3a6-6382-316a-6f0ea4b49640,48,M,Commercial,Asian (non-Hispanic),92145,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8c100a7c-de7c-81df-de62-9b086f2b98b7,54,F,Commercial,Asian (non-Hispanic),92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7b525705-756a-ed8f-e09d-ae152ef151a2,60,M,Commercial,White (non-Hispanic),92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f844016a-dcc1-02e1-c643-6592c22cdcfd,58,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c848cd02-b245-0663-84c1-b8b3f0396f82,49,F,Commercial,Black (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7757e4de-3e20-c256-cc50-6426f514434d,47,F,Commercial,Hispanic/Latino,92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,77f0eaef-7962-4587-1b79-80450b848c8e,56,M,Commercial,Other (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9b2ed43b-0359-b5fa-a4b0-c65561f29e8a,59,M,Commercial,White (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6caabedd-943f-1412-2dcd-3f2800cee543,60,M,Commercial,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,09df0285-fddb-28fc-8c77-bf765eb4871f,64,M,Commercial,Hispanic/Latino,92129,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f72ca905-a6e4-e51e-0802-e1ede702ef60,59,F,Commercial,White (non-Hispanic),91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,cbfb5753-490e-d266-458a-4c36665c30df,46,F,Commercial,Hispanic/Latino,92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c820fd09-d1a9-fed6-b1d0-9b6bda00eb1c,50,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d216a259-cb57-ebdc-35dc-06dc06dd6488,49,F,Commercial,White (non-Hispanic),92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f7b02394-3138-0a1b-55b5-5457ded0fb93,57,M,Commercial,White (non-Hispanic),91911,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7e73e7d3-48ff-9f71-a2db-c9352ea2b423,62,M,Commercial,White (non-Hispanic),92114,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d5ee7334-a44f-e0bb-6779-682ca27cc774,46,M,Commercial,White (non-Hispanic),92126,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,53f9d990-dded-50ce-683b-41edcb6e1d43,48,F,Commercial,White (non-Hispanic),92116,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,866bf58f-00ed-8603-744a-ed0c07324e8f,49,F,Commercial,Hispanic/Latino,92130,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,52fa7796-9f85-2b66-7552-6e90d6d84823,47,F,Commercial,White (non-Hispanic),92127,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a4bff8f8-bf78-e4cf-0705-878f82437cca,47,M,Commercial,Other (non-Hispanic),92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a62a973c-bbfe-c7a1-cd43-88bb0096a271,52,M,Commercial,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b69192ed-5d6b-7e1f-a65c-90d054a92ba3,49,M,Commercial,Hispanic/Latino,92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1f9fdced-98fb-d2cc-656d-e81309ea8a4e,49,F,Commercial,Hispanic/Latino,92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6142e354-6f40-1504-754c-0a19ffdf48ba,47,M,Commercial,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,828e8ab2-a22d-3b75-f493-83913cb18be1,48,F,Commercial,White (non-Hispanic),91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,46acfc22-b7e9-6148-2719-3fe64400c9d7,46,F,Commercial,Other (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0b6b1053-30a9-439c-ffa0-4ca19a70c0c3,46,M,Commercial,White (non-Hispanic),92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9fec6b77-e456-1d4a-46b4-684ed0002c44,47,M,Commercial,Hispanic/Latino,92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4bf9098f-a62e-60f9-a402-67fe989c84d6,49,M,Commercial,White (non-Hispanic),92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,08a12ee7-a852-94d4-61fd-b2e16b209205,49,F,Commercial,Hispanic/Latino,92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,902020e2-73d7-b0ab-51f5-07137486340f,58,M,Commercial,Other (non-Hispanic),92145,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,acef2454-0418-e396-f055-cdffb904ee5b,60,M,Commercial,White (non-Hispanic),92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b85a172f-e790-42a2-847e-50950f0f25ee,58,F,Commercial,Hispanic/Latino,91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,bcec5d06-fef8-2b77-69a9-332c43bc2233,56,F,Commercial,Hispanic/Latino,92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5c8956ba-3359-155e-a6f4-0e1d5bc43a77,62,F,Commercial,White (non-Hispanic),92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e78d61ea-e608-9f53-f746-45244e1b25b0,47,M,Commercial,White (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,777cc353-f9dc-6051-b5ac-bf0110aef45d,50,F,Commercial,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8e2eae61-9713-7272-5658-42a614548aef,47,M,Commercial,Hispanic/Latino,92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,da75ed4d-f990-aaab-f136-ace7d258325e,53,F,Commercial,Asian (non-Hispanic),92118,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,793c25b4-4808-3ddf-1dd1-36c9aafe5d21,48,M,Commercial,White (non-Hispanic),92126,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e4aef409-02f8-78b6-aa2c-650fd5cd12cf,49,F,Commercial,White (non-Hispanic),92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4fac2649-60ee-2ddd-0b31-0bea004d3c6a,62,F,Commercial,Hispanic/Latino,92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,314e740b-6595-c290-69d4-679ec5b74978,47,M,Commercial,White (non-Hispanic),92101,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,20e28446-8e46-8d4a-4d40-616fdeb86a19,57,F,Commercial,White (non-Hispanic),92025,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0e205e2d-543b-28ab-6ca3-e0d6b67a0082,62,M,Commercial,Hispanic/Latino,92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7204d645-0198-57e5-ec01-59c06c05b537,49,F,Commercial,White (non-Hispanic),92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f21ebf16-33db-1414-5ea6-14074c60e912,63,M,Commercial,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,19432449-afef-e532-a174-94d4998d22fb,49,F,Commercial,Other (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,90cc6828-5206-8b01-3e59-c90a1d0d8b49,47,F,Commercial,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d1199560-2dc6-128e-aa2b-63c53f3135bc,54,M,Commercial,Hispanic/Latino,91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4e1cf354-ff72-5da0-8cbb-7a3edc61deb3,57,F,Commercial,Black (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e0d7ad35-c186-3f72-7373-aea1a94ea487,49,F,Commercial,Hispanic/Latino,92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,fe48d5e4-5ca9-bce6-6ff3-fae869800922,64,M,Commercial,Hispanic/Latino,92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e42521b8-3f40-2bb9-51e7-66e3dd878992,59,F,Commercial,Asian (non-Hispanic),91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,520e6e72-a964-eaf5-8495-b41c77eff668,47,M,Commercial,Hispanic/Latino,92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,33c6a998-1b9c-bb04-84f1-edf86e6d0742,49,F,Commercial,White (non-Hispanic),92131,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6d169ec5-b426-2976-5fa8-1edf1f87f8e2,58,M,Commercial,Black (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,55b0292f-e17a-c28a-c1c1-c95ed63e4e23,47,F,Commercial,Hispanic/Latino,92116,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,efa20c50-d5ab-8813-a93a-afaf04d477e5,61,M,Commercial,White (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,bb7ef7fe-96fd-9f22-2fe7-8059aff65913,47,M,Commercial,White (non-Hispanic),92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5ab6159c-cb80-2ae7-5433-6173f327f816,49,M,Commercial,Black (non-Hispanic),91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6c5ca436-d8ee-3970-60f8-544e73912c0f,61,F,Commercial,Hispanic/Latino,92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d805ebbd-3272-4d69-a866-64c646040814,52,M,Commercial,White (non-Hispanic),92116,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a367c9a5-fdb7-b61d-3aac-d2fa33029838,46,F,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f37af715-7d02-1ed4-3c10-8ba1689bf52e,52,F,Commercial,Asian (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,487ae407-4bd2-c5f2-fc8d-45690bd72a80,50,F,Commercial,White (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,866d23e9-e369-2a73-7419-45cdb1373ce7,46,M,Commercial,White (non-Hispanic),91911,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0957d7e0-06ff-ed0e-a2cb-923af1598470,48,M,Commercial,White (non-Hispanic),91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,64b4fd5b-8667-6eeb-9563-f12e27db08d4,56,F,Commercial,Asian (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f2717940-d113-bb12-ad2c-3353e4bb5182,46,F,Commercial,White (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d3cd07ef-f611-6cd6-b8e3-bdd4d4b2a40a,52,M,Commercial,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d46159cf-d215-2255-4684-a1e2b2b6215e,60,F,Commercial,Hispanic/Latino,92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,623e1444-3bcc-285a-7bd5-e0dc946430be,55,F,Commercial,White (non-Hispanic),92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,64e8aba8-8912-3270-ab29-84749d4d2c58,55,F,Commercial,White (non-Hispanic),92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0eeaee3c-5a43-4a59-0641-33d5a169b6cd,48,M,Commercial,White (non-Hispanic),92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,34de9eb8-9d37-215e-3c2f-4aa447e6d3f5,49,M,Commercial,White (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,37c1f380-dd85-c971-012b-316db66b156b,47,M,Commercial,Hispanic/Latino,92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,cd8b093f-4a59-96aa-8d79-ea7192799fc7,46,M,Commercial,White (non-Hispanic),91914,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,35bc384f-9e87-79c6-772e-46139109a59f,63,F,Commercial,Hispanic/Latino,91914,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,10c22f29-deea-9b07-44ff-6648cfb37036,50,F,Commercial,Hispanic/Latino,92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c6b7eb84-8474-e626-474e-1c8b9431d99f,46,M,Commercial,Black (non-Hispanic),92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b0144b74-6ccc-27b0-d3fc-d19b7f8c0003,50,M,Commercial,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c0bb881e-4fa6-71b4-5a36-77201ae7a402,61,F,Commercial,White (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6a402e10-8d3b-efc9-9450-a6ad401949c0,51,M,Commercial,White (non-Hispanic),92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2b42a968-c9dc-d930-c000-0ed1379e61f2,48,M,Commercial,White (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b63f99f1-5eab-3fed-b7fe-9305c6220c5b,47,F,Commercial,Hispanic/Latino,92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5d9da0ef-85bf-2694-9554-10f94123c02d,47,M,Commercial,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b9843511-d57c-c798-1973-6128f44be1a8,48,M,Commercial,Asian (non-Hispanic),91911,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,302f7405-9f23-5548-38c9-390eda802c4a,58,F,Commercial,Hispanic/Latino,92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5139d4a7-1df9-f206-a4c5-e2a3f3bfe0ea,53,F,Commercial,White (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d08fe246-9b2a-552b-2ffc-72e29bb7dde4,49,M,Commercial,Asian (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ad048fab-ae8c-05c5-b5f8-0df0f9e05226,58,F,Commercial,Asian (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0d968006-46f3-aae8-69c2-4f1cfebaeb24,59,F,Commercial,White (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2bd6134b-a178-5d14-2b5b-e84bcec64825,47,F,Commercial,Hispanic/Latino,92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,db5e8021-fc46-740b-241c-481ec96319cb,60,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c33c9219-fa7e-8046-df51-307b257d3e53,52,M,Commercial,White (non-Hispanic),91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6fe01c51-5ce6-80f4-cdbe-9ab81998cab4,48,F,Commercial,Hispanic/Latino,92118,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,785008e8-10a2-361c-3cef-d28c2ea6610c,48,F,Commercial,Hispanic/Latino,92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4c7439ca-2bfb-e977-c199-1bf842f12d41,48,F,Commercial,Hispanic/Latino,92037,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,11f667c0-d54b-7a9e-c1ae-2aa5611271a5,59,M,Commercial,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,489ec322-d49b-f826-cbc7-a2d5092c5bb4,57,M,Commercial,White (non-Hispanic),91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d122d0ae-6b1c-3c57-7e0c-76636b457afb,46,F,Commercial,Asian (non-Hispanic),92037,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c0c6682a-11e3-4496-ce59-0e9929396f34,46,F,Commercial,Asian (non-Hispanic),92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,068c2e7c-62cf-7b91-e7d8-8a1676e32c30,50,F,Commercial,Hispanic/Latino,92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f91e5186-c12b-c967-12c3-05a622aeef6a,49,M,Commercial,White (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6e402d7c-213e-7555-d861-bbf9dd690d0e,48,M,Commercial,White (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9b8332ff-461e-f321-a238-7c6c02f8ca26,63,F,Commercial,Hispanic/Latino,92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,da2bc262-e76d-4ffe-249b-7cce8b5425a3,46,M,Commercial,White (non-Hispanic),92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f2691972-8e06-1a1a-27fe-08c4388a3605,51,F,Commercial,White (non-Hispanic),92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,88807760-6a1c-f09b-da58-d53c6fbd144f,49,F,Commercial,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,82ce3a8f-6214-75fc-7b38-7cd48eebad14,57,F,Commercial,Hispanic/Latino,92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a80c6c57-530f-60f4-ca31-789069587943,48,F,Commercial,White (non-Hispanic),92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ffcd3257-62d4-4061-2a1a-10cd9b9a8a44,46,M,Commercial,White (non-Hispanic),92129,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f46d1297-f104-644c-f70e-a08306274e56,48,M,Commercial,Hispanic/Latino,92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,023d14fa-8b29-07fb-31c0-99f07969e4dc,64,M,Commercial,White (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0126af27-a469-d3f6-eed8-af0a1c46dad8,47,F,Commercial,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,773cbf7e-86e8-e0d4-058a-af72ff049896,56,F,Commercial,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,71618ae8-996c-79b1-100a-386ae37dd384,64,F,Commercial,Asian (non-Hispanic),92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e7bdba64-21c4-8d3a-d061-37eab138bade,59,F,Commercial,White (non-Hispanic),92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f1fa59dc-cf0e-73d6-dae5-20646129b8d1,55,F,Commercial,White (non-Hispanic),92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f41ff1c9-5d6f-81e1-3a02-a2489084c0cb,50,F,Commercial,White (non-Hispanic),92129,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,60dbdb8d-80e4-d9ed-c1ed-52cc3802210e,46,F,Commercial,Hispanic/Latino,92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b42861f7-474b-c2cb-6232-011968d314f7,59,M,Commercial,Asian (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b9b2b380-da68-4947-f29f-80aa1fe0b6ca,47,M,Commercial,White (non-Hispanic),92130,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3a2978f5-5447-2483-67f1-55ce5ac45734,46,F,Commercial,White (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3487d097-833b-5fcf-a566-31965596d270,55,F,Commercial,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,33a6f1a7-d1b3-1369-ac63-9e2ece58eb33,63,M,Commercial,Hispanic/Latino,91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,82a11f14-84d0-ca98-92fc-78ca19be2186,49,M,Commercial,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8cc81fed-3131-979a-fcf2-4a25ae2c55e6,48,M,Commercial,Hispanic/Latino,92145,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5fdeb44d-771b-330f-90ec-7fb55f6d8d22,54,M,Commercial,Black (non-Hispanic),92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7cd8a8ad-746b-549e-e70d-0c0feb8ebc69,48,M,Commercial,White (non-Hispanic),92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2ae1e8b1-7fb2-8f1c-7376-ef106012eb58,47,M,Commercial,Hispanic/Latino,92154,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,49299eb6-3b07-ba3a-b7a1-d50aebc101fe,47,M,Commercial,White (non-Hispanic),92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,23a5eee3-ef92-bbc3-678b-176b23403d40,48,M,Commercial,Hispanic/Latino,92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,91dcd28f-7beb-1387-a1d5-6ef953909367,55,F,Commercial,Hispanic/Latino,92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c3758a19-7308-b2c5-ed96-5bfb8c6d9c1f,64,M,Commercial,White (non-Hispanic),92145,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6a16bdcc-7009-3f6a-ff1b-bb267f89c5bf,50,M,Commercial,Black (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aee7bbe1-0c45-c028-1e62-1f4cdb30c273,51,F,Commercial,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6c0e33da-f901-8d44-f91e-7c200c537e5d,46,M,Commercial,White (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,79021b82-f370-50bb-c5a1-7333816d683f,48,M,Commercial,Hispanic/Latino,92116,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ce44621f-406f-233d-11a3-22cdc96f9aec,46,F,Commercial,Asian (non-Hispanic),92130,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,20526ee7-17ba-b863-b5f1-776defcde2e6,50,F,Commercial,Hispanic/Latino,92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,06fe0fa1-aba9-b4f6-6231-5f41bd42492d,58,M,Commercial,Hispanic/Latino,92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c53d3c4b-b3b9-3303-5a5b-ee949726f4ca,47,M,Commercial,Hispanic/Latino,92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,715724a5-2018-a4ef-8f62-42ec13f9c91d,46,F,Commercial,White (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,18cbb615-420a-8641-133c-af71cbb769be,54,M,Commercial,Hispanic/Latino,92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b274b53d-66eb-0cfe-9d2c-0da7e3d0aa26,46,F,Commercial,White (non-Hispanic),92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,541c815b-f845-f154-e834-5305410bdf96,53,M,Commercial,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5462f86e-6599-49fd-9634-f84db5a3f18e,59,M,Commercial,Hispanic/Latino,92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,56258afc-7573-5e2b-fad0-b5cfe5f2c87d,47,F,Commercial,Black (non-Hispanic),91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c4809220-efb3-ab08-96bc-730ab25e721a,65,F,Dual Eligible,Hispanic/Latino,92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7cfa80d2-3524-69e2-3f75-3559d3214f32,46,M,Dual Eligible,Asian (non-Hispanic),92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ea516128-56e4-3203-1fd6-853d4e7c483c,65,F,Dual Eligible,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9e5e1b2a-ff6f-c857-ebda-baf13036563d,73,M,Dual Eligible,White (non-Hispanic),91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c66e4f6a-5dd7-04e6-a6c2-b9f4122446d2,49,M,Dual Eligible,White (non-Hispanic),92127,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,072c7291-f02c-909b-4763-71ac0130b331,48,M,Dual Eligible,White (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,dfeb8cf8-14e0-e282-83d6-2b8831e65679,67,M,Dual Eligible,Black (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3e55277b-5aa9-d7e8-3117-9ed06b830075,71,M,Dual Eligible,Hispanic/Latino,92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,92e7eb26-7f3f-b66a-e4eb-9608dd1c3de2,68,M,Dual Eligible,Hispanic/Latino,92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7227ff56-fe7b-7235-f9ee-ab41856fa2ad,70,F,Dual Eligible,Other (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c08267b8-72b4-9103-731a-53c15ea797eb,73,F,Dual Eligible,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c856aedf-16a4-3947-b7d5-bdede7c51657,60,F,Dual Eligible,Hispanic/Latino,92131,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0bf9e262-e31e-3cb4-fe46-16d047230ea7,65,F,Dual Eligible,Hispanic/Latino,92121,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,48a90fc3-0f9a-8e47-c0a7-7a02b055cf5e,47,M,Medicaid,White (non-Hispanic),92109,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d239a64f-3912-cc53-9853-7f91aa43416b,56,F,Medicaid,Hispanic/Latino,92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,92ff3fee-f5c8-4ed5-fddc-8edc60edbd3c,46,M,Medicaid,Asian (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,24f4a8d9-e64c-e3ef-ea10-69c58666096d,64,F,Medicaid,Hispanic/Latino,92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e38079a6-19b2-f6e8-b875-6a8c6d61d568,47,M,Medicaid,White (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,824ee874-c15d-0ae3-fe62-e00b1b69fa34,46,M,Medicaid,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ee892f87-5a4e-6d6b-ff4b-acc0d82eb744,46,F,Medicaid,Hispanic/Latino,92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7b372294-234a-c297-10b9-7764d79edb6b,48,F,Medicaid,White (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d276e5ca-6d64-d1f8-42fe-f241113054b6,47,M,Medicaid,White (non-Hispanic),92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a9b9bd2b-7d3d-6a4c-8e2c-8a9f39710611,46,F,Medicaid,Hispanic/Latino,92014,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1508a0e5-67d3-1dfd-c552-5342171d8306,49,F,Medicaid,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,afb09ddd-fdf7-0488-1490-86490ffca4ab,48,F,Medicaid,White (non-Hispanic),91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c4a5de61-ef43-c759-8c69-51264b9dfac2,51,F,Medicaid,Hispanic/Latino,92025,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1f5e460e-a26c-0249-60be-12108a34dfcb,46,M,Medicaid,White (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5652f8d4-c9f8-e2a3-88f9-105ed08b55af,51,M,Medicaid,Hispanic/Latino,92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aafc7b4e-0170-f7a5-4ded-c9447febc8f4,52,F,Medicaid,White (non-Hispanic),92154,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,db5ccb06-f79e-f11b-4fa0-ecc91a161d99,47,M,Medicaid,Asian (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c2f7a928-e287-1a7a-d86c-1b4dab580468,59,M,Medicaid,Hispanic/Latino,92118,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a536826a-a824-c586-4a69-af14f67f26c8,47,F,Medicaid,White (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9291fd88-398c-6212-0bf5-e2bf877402cb,56,M,Medicaid,Hispanic/Latino,92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,adb97a7f-7d25-004a-5286-bc04f8a3cf0f,64,M,Medicaid,White (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8fcba208-3cbc-150a-a1cd-391bba1167ad,49,M,Medicaid,White (non-Hispanic),92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,259579f5-e088-c375-c3cb-1222df223671,47,M,Medicaid,Black (non-Hispanic),92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,43a05f35-d63d-d86a-f4f7-3e6d42c655dd,48,F,Medicaid,White (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c27f17a1-6f00-f0e7-ac5b-faf3f2908893,49,M,Medicaid,White (non-Hispanic),92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,27d44017-ab24-4e1b-79cf-71aceeb1c7fa,47,F,Medicaid,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,75a74e5b-f8f8-fb40-9b3c-5b883af96548,62,M,Medicaid,White (non-Hispanic),92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6d16511b-0783-7c65-b930-05e20b5d4725,47,M,Medicaid,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1888bd1d-48de-7570-106b-795d6677e770,57,M,Medicaid,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b9021b80-6214-1964-85f6-5656dbb0c6ba,48,F,Medicaid,Other (non-Hispanic),92154,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f4e17327-2d2a-10af-5afa-d24c6e4a45e5,46,F,Medicaid,White (non-Hispanic),92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,229e86a7-f7d2-3d36-5060-aae0af8c650c,54,F,Medicaid,Hispanic/Latino,92127,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,630e5e27-f242-c7e7-885c-b9e4652d18a7,48,M,Medicaid,Hispanic/Latino,92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6d9dc108-4d7d-b27a-3e8f-2cc45f824a0e,47,F,Medicaid,White (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b5c0d0ff-d1f2-038d-368c-d8ff0680d292,46,F,Medicaid,Asian (non-Hispanic),92126,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aedee2e0-23a0-5435-38a5-9898960d99b8,48,M,Medicaid,Hispanic/Latino,92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,356a05d5-08f1-799a-deaa-71088abd9d8f,48,F,Medicaid,White (non-Hispanic),92064,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f4c88f10-92bd-a844-1fdd-fadba2c345ec,59,M,Medicaid,White (non-Hispanic),92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b991d386-150b-ef40-c18b-2d1887ad2268,58,M,Medicaid,Asian (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8ef235bb-ac8d-55f3-e1b9-cbdf2224ab16,49,M,Medicaid,White (non-Hispanic),92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a690d8b2-57ea-212d-d247-484c8f57dc12,71,F,Medicare,White (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,67400fa9-a7ff-8fc1-be38-f3bee35f3a15,56,M,Medicare,White (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,75422a41-b1bc-2cd6-9dd7-7afa5953bdf9,72,M,Medicare,White (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,92d32bde-6f58-766d-1ecc-bd45d93ec272,48,M,Medicare,Hispanic/Latino,91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,881541c0-aa90-987d-9d54-9747f2cf0fa3,57,M,Medicare,Hispanic/Latino,92101,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,bf6b88b4-2489-cee4-b658-b75995cd7e26,50,F,Medicare,White (non-Hispanic),92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c646b648-9c91-7310-efb9-071ad0f758b9,67,F,Medicare,White (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,af558a2f-26b9-ea24-43da-8426bb94d41d,48,M,Medicare,White (non-Hispanic),92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2ed77eab-3571-a72d-7fe9-16a02766ae00,71,F,Medicare,Asian (non-Hispanic),92128,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5d28ec37-f1b8-692d-be00-68d135b4a376,47,M,Medicare,White (non-Hispanic),92110,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8deff177-185c-7841-c675-8b8c15434bd4,72,M,Medicare,Hispanic/Latino,92127,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,28fc4489-6f3e-4157-50d7-14e9d039ffc3,57,M,Medicare,Hispanic/Latino,91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6fe44353-9194-1e42-1f3a-52d8854b9bf8,46,F,Medicare,White (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,132074e8-9d74-8f18-0e61-4734cdd9f956,66,F,Medicare,Hispanic/Latino,92064,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8cb51635-1731-0881-a970-f00d10ca631d,48,M,Medicare,Hispanic/Latino,92064,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,69,M,Medicare,White (non-Hispanic),92037,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,20852a5c-dbef-c661-fe1a-8664beedac25,67,F,Medicare,Asian (non-Hispanic),92114,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e35cd866-7ad4-fa33-1ebf-b713df12543c,69,M,Medicare,White (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6bdc3615-4652-daf5-3e60-24397595d8c7,72,F,Medicare,Hispanic/Latino,92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1c47d02d-0fef-9635-485f-cb3a5d662a12,66,F,Medicare,White (non-Hispanic),92101,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,073f0b4c-738b-da59-d2fc-3229223e26ef,67,M,Medicare,Hispanic/Latino,92107,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4456bd10-e053-ca8a-ebd7-fe2dc0443b7e,56,M,Medicare,White (non-Hispanic),92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8bc636bb-0a59-6e6f-393e-2bd8acd7ef93,52,F,Medicare,Asian (non-Hispanic),92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,17cb5ccc-4c1f-9747-f535-e57cd464679d,54,M,Medicare,White (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2201f761-9b24-e098-1eed-88d5d746886b,54,F,Medicare,Hispanic/Latino,92128,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9b536366-b23e-c63a-e8f8-fb419c503369,69,F,Medicare,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c16a17a0-c057-0c0e-ac8d-ecc6d81807f3,68,M,Medicare,Hispanic/Latino,91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,9432ec87-13f3-6c0a-daf8-807d8b733be7,67,F,Medicare,Hispanic/Latino,92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c3510851-c452-9de3-ecfb-b9d16fdd83cb,74,F,Medicare,Hispanic/Latino,92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2db43ca5-b371-7457-9a89-490c0061388a,48,M,Medicare,Hispanic/Latino,91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,52f40a46-e86f-368c-18a1-cafc6c9afc0c,66,F,Medicare,White (non-Hispanic),92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e528ce89-53e1-c71b-94be-18ff346a5666,66,M,Medicare,White (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4685b6d5-e0a5-2093-d321-8be8d9ba7f40,60,M,Medicare,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b3e09c2d-af63-002b-a293-42230f53e0d6,49,M,Medicare,Black (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,19aaec98-0e39-87a2-7141-0b3885e88f7a,68,M,Medicare,Other (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,62,M,Medicare,Asian (non-Hispanic),92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5e7ebf2c-22ec-a89b-53ab-38edddd81be9,72,F,Medicare,Hispanic/Latino,92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b2e0411b-145a-6958-740f-d76a08f796c7,54,F,Medicare,Hispanic/Latino,92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,922fb35e-148d-9e82-7e65-bfa05e3b3515,68,M,Medicare,White (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,788f3447-6913-e2f8-3901-a8426ba98e03,65,F,Medicare,White (non-Hispanic),92113,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aa616abe-1761-0c9a-7959-07544679dafd,75,F,Medicare,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6e864b80-1cb8-c82b-1312-a2feec7f90e8,72,F,Medicare,Hispanic/Latino,92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,82e8875f-75e1-adbc-ae8c-be3857ff62c0,67,M,Medicare,Other (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,7771bbba-7c4d-6876-9248-08e69e81ec2c,54,F,Medicare,Asian (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,598c8e88-a563-6ad6-4fba-85db856c839c,72,F,Medicare,Asian (non-Hispanic),91911,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8ece531a-6367-eeeb-c6dc-1702afd2f5bc,53,M,Medicare,Hispanic/Latino,92145,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5ba0a3f3-32f7-02b1-ec6a-8f568923954c,67,M,Medicare,Other (non-Hispanic),91945,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2d5fef92-5b93-765b-72b9-f2a60fa31849,48,F,Medicare,Hispanic/Latino,92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,29b08593-21af-d81d-b02e-490f9ebb30fc,73,M,Medicare,White (non-Hispanic),92131,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4da17de3-8800-bfbb-4a7f-eab77048aced,71,F,Medicare,White (non-Hispanic),92123,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,fc2798ca-88d0-3fbd-9e43-851cc245a201,65,F,Medicare,Asian (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aca42d67-45fb-9077-5ee9-91c43381cf05,73,M,Medicare,White (non-Hispanic),92102,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,add9f054-8519-7d80-051c-016ff05ba66e,73,F,Medicare,Hispanic/Latino,92101,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c3d2767e-7be3-c750-ae13-058499570a21,72,F,Medicare,Hispanic/Latino,92104,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,96131efe-aa08-ef38-3356-2bf882a2d3b5,52,M,Medicare,White (non-Hispanic),92139,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b35cc378-9d11-ce49-7a7c-4aec411fe5d4,65,F,Medicare,White (non-Hispanic),92129,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,0a80947b-a6e7-a756-d2cf-448a3e3cd5f2,70,M,Medicare,White (non-Hispanic),92037,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ebd72286-4347-2c2c-6f0d-d3220a8ac251,56,F,Medicare,Hispanic/Latino,92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,05880a71-6004-727f-a81b-85a1508160a5,71,M,Medicare,Asian (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d5178b57-fbb5-d71f-a04c-5fbd2face911,75,F,Medicare,Asian (non-Hispanic),92067,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a0fa000e-e4d8-4e9c-7cb7-874fb29623f2,55,F,Medicare,White (non-Hispanic),92114,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,aa14fd7e-1040-5a9d-228b-2aed82cc46f5,68,F,Medicare,White (non-Hispanic),91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,539bd14b-7769-bd66-2c01-5f8b9d64a8ca,50,F,Medicare,White (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,412f2188-0bd6-9ef7-96a6-3f537538edc1,49,M,Medicare,White (non-Hispanic),92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f7575684-e52e-de9f-6585-f06a48832d44,65,F,Medicare,Asian (non-Hispanic),92147,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,36c7cbbc-946b-9b7d-0ad7-72291693beee,56,M,Medicare,Asian (non-Hispanic),92131,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,a420e14b-70e3-32e4-c936-000d50bc2d91,64,M,Medicare,Asian (non-Hispanic),91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3d57dc67-56d3-841f-fee5-7811dd3d96f1,66,M,Medicare,Hispanic/Latino,92114,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,eb650003-2a29-a38d-7fa8-c77ca3f4f56b,46,F,Medicare,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,55dae7c7-8275-cf98-84b7-05585d3a7ae2,71,F,Medicare,Hispanic/Latino,92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,464d2aa7-fdff-923b-dfc5-7e31f27451f1,66,M,Medicare,White (non-Hispanic),91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,bcec2cf2-6415-81e1-a311-5076f2aa3e61,46,F,Medicare,White (non-Hispanic),92173,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,baff9088-0521-0541-cf14-c9a19c19367f,67,F,Medicare,Hispanic/Latino,91914,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,05cb9ca9-5092-9c9d-5b49-a486366cf87b,74,M,Medicare,White (non-Hispanic),92109,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ba282f15-59a4-306c-1601-8d5e4d3fa4ec,46,F,Medicare,Asian (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,334963a8-b170-3b80-0ea7-5504eff9bf11,70,M,Medicare,White (non-Hispanic),92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1e15063e-b453-6e17-9764-57c7a103221f,60,F,Medicare,White (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,56bfe342-87e1-59e7-b251-f9d6fcd2d754,51,F,Medicare,White (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,59ebb44d-2824-8612-c026-7463a49e786c,73,M,Medicare,White (non-Hispanic),92124,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e7c59416-79f4-d586-db47-260a9330f31b,68,M,Medicare,White (non-Hispanic),92154,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,cf84ceb1-6462-ef61-6f0d-b5b9cd57410c,69,M,Medicare,Hispanic/Latino,92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,79566793-ad53-e272-9ff2-afd58b3a9393,51,F,Medicare,Hispanic/Latino,92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d9fab7f4-f057-f10b-8268-a8795e24ed05,63,M,Medicare,Hispanic/Latino,92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,55f71ba3-7575-5c2d-e74f-130a748207a3,70,F,Medicare,White (non-Hispanic),92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e8d4132c-0864-ced1-e132-0ac96362442b,57,F,Medicare,White (non-Hispanic),91950,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,33df1aa7-9504-26b4-29f5-395a05e2d598,68,F,Medicare,White (non-Hispanic),92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1aef5fe0-89e1-a89f-77b0-e35c38163883,49,F,Medicare,Hispanic/Latino,92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,914c5786-c6a1-e58f-c4d7-eff4b2100d38,64,F,Medicare,White (non-Hispanic),92130,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,084f81de-d57a-5167-c138-94bdae4170a3,73,F,Medicare,Other (non-Hispanic),92103,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,564addf6-6232-a5bf-a4de-70231f580d78,64,M,Medicare,Hispanic/Latino,92120,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,1cdc08a2-70d1-027e-885f-608d387c3932,57,M,Medicare,Hispanic/Latino,91932,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,db8bc055-b743-d780-d526-ea12fcbce0d3,74,M,Medicare,White (non-Hispanic),92122,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,37c88daa-2e1a-b14a-7ad1-f32d6afc6861,52,M,Medicare,Hispanic/Latino,92128,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,bb303222-4028-c8ba-c5ce-b3d7ce919a86,51,M,Medicare,White (non-Hispanic),92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,983c70e3-54b3-4e22-03e7-c4aa3a3fd83a,71,M,Medicare,Other (non-Hispanic),92119,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f69d4317-4ebc-d0c4-e68f-5252ae1b429e,50,M,Uninsured,Asian (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,3ccd1608-53c4-957e-a93b-9708c4b1c048,47,M,Uninsured,Other (non-Hispanic),92025,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,daf01155-eaac-a8ee-ba01-4e2d71af9ea4,53,F,Uninsured,Hispanic/Latino,91915,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,15e93d16-025d-6783-4096-4b702f357d7e,60,M,Uninsured,White (non-Hispanic),92071,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,44cb91ea-6548-548c-e771-ddb2996c9ef7,46,M,Uninsured,Hispanic/Latino,92118,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8e358a6e-0590-2bb7-d6cf-a74900f6abb7,62,F,Uninsured,White (non-Hispanic),92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5a6c4e18-2ec7-e921-acf4-33b2cec1772e,53,F,Uninsured,White (non-Hispanic),91942,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4651f011-1fbc-bbfd-dc0a-1c7d97a5cdc9,52,F,Uninsured,White (non-Hispanic),92131,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e42e50b4-52ec-77cd-4e3d-8cc3a606a750,49,F,Uninsured,White (non-Hispanic),92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8a5e77db-d204-fb36-8f8d-9b1f9072ee12,52,M,Uninsured,White (non-Hispanic),92105,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,f90c4999-2cc4-a4e5-64f1-a9850ad6e766,48,F,Uninsured,Black (non-Hispanic),92064,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,2c69d807-451d-7a16-de5b-b099a10cd52d,49,F,Uninsured,Hispanic/Latino,92117,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,b1f39937-f3ad-c2ff-6865-04cb9d671101,58,F,Uninsured,Hispanic/Latino,92075,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ffdfe466-d316-4850-a897-62c90e4059c7,48,F,Uninsured,Asian (non-Hispanic),92135,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d214d11a-7a80-023e-2a9e-665998ce9665,64,F,Uninsured,Hispanic/Latino,92134,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ccc13813-9da0-4c37-e80c-dfd7bea1a9a8,49,M,Uninsured,Hispanic/Latino,92064,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,05c29541-7f3e-5d79-3599-cefa9da30798,60,M,Uninsured,Other (non-Hispanic),92115,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,5c39a9da-6fb0-3cbb-0181-add875529d46,57,M,Uninsured,Hispanic/Latino,92106,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,6a126bd3-81f4-52ba-ff40-3f8c0d166794,55,M,Uninsured,White (non-Hispanic),92126,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,cdf9f16d-82c4-f446-c865-0835069b1db9,58,M,Uninsured,Hispanic/Latino,92029,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,226e94e3-187e-c212-bc23-5ff9e2aa0d4a,49,F,Uninsured,White (non-Hispanic),92027,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,8a6b4684-2d58-c502-df4b-73f10f7d946f,50,M,Uninsured,White (non-Hispanic),92025,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,e9d6a6eb-d6ea-4e01-3d01-e70a9300f3a0,48,M,Uninsured,White (non-Hispanic),92111,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,35b353dd-402b-571a-d67a-af0a104d0854,48,F,Uninsured,White (non-Hispanic),92108,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,4632edd1-93cd-1344-d093-a94d8c287d8c,47,M,Uninsured,White (non-Hispanic),92132,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,ffa2edc3-cc3c-2a4e-91fd-a050e1ab195e,58,F,Uninsured,White (non-Hispanic),92065,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,c8056106-9602-6e41-e8d2-dd177a79b7ce,62,F,Uninsured,Other (non-Hispanic),91911,,No colonoscopy (10 yr) or FOBT (1 yr)
+COL,d5551c2d-e5fa-7c4a-69bc-abb485f376fe,47,F,Uninsured,White (non-Hispanic),92140,,No colonoscopy (10 yr) or FOBT (1 yr)
+GSD,7d201507-3df1-1a23-50cf-e91ace2da0af,63,F,Commercial,Black (non-Hispanic),92110,,No valid HbA1c in year
+GSD,4150366c-535b-fa65-3420-a02bed385275,50,F,Commercial,White (non-Hispanic),92107,,No valid HbA1c in year
+GSD,1717d7bb-8002-d228-095f-2b0f43f7c70a,42,M,Commercial,Hispanic/Latino,92121,,No valid HbA1c in year
+GSD,9de9c061-8703-12f8-d129-46e0f2e1d021,41,F,Commercial,Hispanic/Latino,92107,,No valid HbA1c in year
+GSD,01513b97-46a6-1303-6546-c8b85ab957b5,60,M,Commercial,White (non-Hispanic),92106,,No valid HbA1c in year
+GSD,c20e1720-a1f5-523c-261d-5b28f1aeea08,42,M,Commercial,Hispanic/Latino,92037,,No valid HbA1c in year
+GSD,e0f2ae88-7c28-bdd8-f06a-bc2a707ae393,57,M,Commercial,White (non-Hispanic),92126,,No valid HbA1c in year
+GSD,94796de0-a629-d960-8281-498b91b88db6,56,F,Commercial,White (non-Hispanic),91914,,No valid HbA1c in year
+GSD,28ffd05b-a23d-3547-3ccd-fc1f77ff4ace,56,M,Commercial,White (non-Hispanic),92116,,No valid HbA1c in year
+GSD,5822309a-23ce-07a1-7f3a-facaa67159a5,40,F,Commercial,White (non-Hispanic),92132,,No valid HbA1c in year
+GSD,b077e9d0-4634-9a50-4b55-1bc19796359c,61,F,Commercial,White (non-Hispanic),91915,,No valid HbA1c in year
+GSD,77b5f12c-8ebb-1d51-598d-059955c37bfa,41,F,Commercial,Hispanic/Latino,92154,,No valid HbA1c in year
+GSD,34ffbbb6-08c5-de08-eebb-3dd7f82373b0,41,F,Commercial,White (non-Hispanic),92014,,No valid HbA1c in year
+GSD,38793bd6-9217-56cf-34a5-f1915137d903,52,M,Commercial,Other (non-Hispanic),92131,,No valid HbA1c in year
+GSD,b29d1f23-f89f-e67a-02ba-1cbaa88b6300,64,M,Commercial,White (non-Hispanic),92027,,No valid HbA1c in year
+GSD,ae3bb280-2f6b-13b0-98d9-1116cfe35d04,58,F,Commercial,White (non-Hispanic),92027,,No valid HbA1c in year
+GSD,1d0b4e6a-bba8-0704-f405-3da02fc62a2f,55,F,Commercial,Asian (non-Hispanic),92140,,No valid HbA1c in year
+GSD,c33c9219-fa7e-8046-df51-307b257d3e53,52,M,Commercial,White (non-Hispanic),91950,,No valid HbA1c in year
+GSD,a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,54,F,Commercial,Black (non-Hispanic),92131,,No valid HbA1c in year
+GSD,ebe6ba1e-5a00-4b04-ce56-281e96c52f0d,37,M,Commercial,White (non-Hispanic),92106,,No valid HbA1c in year
+GSD,c6b7eb84-8474-e626-474e-1c8b9431d99f,46,M,Commercial,Black (non-Hispanic),92110,,No valid HbA1c in year
+GSD,302f7405-9f23-5548-38c9-390eda802c4a,58,F,Commercial,Hispanic/Latino,92147,,No valid HbA1c in year
+GSD,a190b534-4dd0-f251-1688-9eab550f15f3,62,F,Commercial,Asian (non-Hispanic),91915,,No valid HbA1c in year
+GSD,71618ae8-996c-79b1-100a-386ae37dd384,64,F,Commercial,Asian (non-Hispanic),92139,,No valid HbA1c in year
+GSD,902020e2-73d7-b0ab-51f5-07137486340f,58,M,Commercial,Other (non-Hispanic),92145,,No valid HbA1c in year
+GSD,5bfdc6a1-1eaa-95f7-3526-f66eab1c8efc,56,F,Commercial,Hispanic/Latino,92126,,No valid HbA1c in year
+GSD,9596033e-c10a-30da-460d-2b30ad07338e,58,M,Commercial,Hispanic/Latino,92140,,No valid HbA1c in year
+GSD,09df0285-fddb-28fc-8c77-bf765eb4871f,64,M,Commercial,Hispanic/Latino,92129,,No valid HbA1c in year
+GSD,36e78c82-a2fb-ce3c-a329-c3097fcfa4cb,54,F,Commercial,Hispanic/Latino,92135,,No valid HbA1c in year
+GSD,7c2a5b6b-6096-af13-5186-ecf3d160fe91,51,M,Commercial,Hispanic/Latino,92064,,No valid HbA1c in year
+GSD,ff5944d9-6147-74b0-eb5e-e657e8201965,45,F,Commercial,Hispanic/Latino,92129,,No valid HbA1c in year
+GSD,941c6de6-af3e-7daf-c4a3-45c87e2ff430,30,M,Commercial,White (non-Hispanic),92131,,No valid HbA1c in year
+GSD,96a88082-137f-80a2-5283-862ed9b56be9,58,F,Commercial,Hispanic/Latino,92105,,No valid HbA1c in year
+GSD,ee81f36e-d66d-a8df-227a-98aedf2d6183,64,F,Commercial,Hispanic/Latino,92071,,No valid HbA1c in year
+GSD,fde84cea-a6d5-39e3-d6cb-13212e6c89a9,42,M,Commercial,White (non-Hispanic),91911,,No valid HbA1c in year
+GSD,5623b50e-f739-5c30-ead5-a4e51b214f8f,54,M,Commercial,White (non-Hispanic),92140,,No valid HbA1c in year
+GSD,dd7b8a1e-8046-aad4-4a7d-cecc48bc4749,39,M,Commercial,Black (non-Hispanic),92065,,No valid HbA1c in year
+GSD,955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,63,M,Commercial,White (non-Hispanic),92134,,No valid HbA1c in year
+GSD,8ea68a86-65eb-539e-e643-b0e2948d8f5a,25,F,Commercial,Hispanic/Latino,92131,,No valid HbA1c in year
+GSD,c39d1a8c-4bb6-4c73-4597-a32ecbd29105,51,M,Commercial,White (non-Hispanic),92140,,No valid HbA1c in year
+GSD,9d361982-b058-0cea-4715-a66fa5d38e99,57,M,Commercial,White (non-Hispanic),92106,,No valid HbA1c in year
+GSD,5aa78374-d8c9-f421-3cf1-0607d8dc7679,60,M,Commercial,White (non-Hispanic),92131,,No valid HbA1c in year
+GSD,64b4fd5b-8667-6eeb-9563-f12e27db08d4,56,F,Commercial,Asian (non-Hispanic),92103,,No valid HbA1c in year
+GSD,0eeaee3c-5a43-4a59-0641-33d5a169b6cd,48,M,Commercial,White (non-Hispanic),92014,,No valid HbA1c in year
+GSD,6e779d5b-4826-bb1a-d8e7-b8f4a2a94c97,57,M,Dual Eligible,Hispanic/Latino,92109,,No valid HbA1c in year
+GSD,3e55277b-5aa9-d7e8-3117-9ed06b830075,71,M,Dual Eligible,Hispanic/Latino,92014,,No valid HbA1c in year
+GSD,22dd80f2-e6d1-3231-41e6-b9d799de1e63,74,F,Dual Eligible,White (non-Hispanic),92118,,No valid HbA1c in year
+GSD,3651568f-224f-59a6-7914-248f1b294d77,71,F,Dual Eligible,White (non-Hispanic),92132,,No valid HbA1c in year
+GSD,5a0d025d-db63-38ff-b1ae-6acc5f4e1f33,72,M,Dual Eligible,White (non-Hispanic),92131,,No valid HbA1c in year
+GSD,9279e5c5-aa9e-148a-111a-2e035f4ee3c6,60,F,Dual Eligible,White (non-Hispanic),91911,,No valid HbA1c in year
+GSD,b1ccaf29-b5e2-1f5f-6c95-ef96e18da529,74,F,Dual Eligible,White (non-Hispanic),92113,,No valid HbA1c in year
+GSD,a1e4d5b0-1512-073b-c684-02aa89cec791,45,M,Medicaid,Black (non-Hispanic),92173,,No valid HbA1c in year
+GSD,deb162bf-841c-a9c2-9c0b-d3264001e8e8,63,M,Medicaid,White (non-Hispanic),92129,,No valid HbA1c in year
+GSD,5192e20e-2420-098e-811c-9caedf832fad,38,M,Medicaid,White (non-Hispanic),92119,,No valid HbA1c in year
+GSD,43a05f35-d63d-d86a-f4f7-3e6d42c655dd,48,F,Medicaid,White (non-Hispanic),92132,,No valid HbA1c in year
+GSD,5652f8d4-c9f8-e2a3-88f9-105ed08b55af,51,M,Medicaid,Hispanic/Latino,92110,,No valid HbA1c in year
+GSD,80c4482e-d6f8-9a6d-d4d8-3ba76b37da8e,43,F,Medicaid,Hispanic/Latino,92114,,No valid HbA1c in year
+GSD,f9aeb048-ab31-8c20-382e-da060703187a,42,M,Medicaid,White (non-Hispanic),92027,,No valid HbA1c in year
+GSD,75a74e5b-f8f8-fb40-9b3c-5b883af96548,62,M,Medicaid,White (non-Hispanic),92113,,No valid HbA1c in year
+GSD,372f1d7c-54ad-6683-592e-93799af87d3d,59,F,Medicaid,White (non-Hispanic),92025,,No valid HbA1c in year
+GSD,f090a1a6-00db-5017-3244-b243d22cf17f,39,M,Medicaid,White (non-Hispanic),92101,,No valid HbA1c in year
+GSD,ba19bde6-ac2f-c2ac-5622-2fe203ed5151,62,M,Medicaid,Asian (non-Hispanic),91950,,No valid HbA1c in year
+GSD,564addf6-6232-a5bf-a4de-70231f580d78,64,M,Medicare,Hispanic/Latino,92120,,No valid HbA1c in year
+GSD,33df1aa7-9504-26b4-29f5-395a05e2d598,68,F,Medicare,White (non-Hispanic),92029,,No valid HbA1c in year
+GSD,1c47d02d-0fef-9635-485f-cb3a5d662a12,66,F,Medicare,White (non-Hispanic),92101,,No valid HbA1c in year
+GSD,c726816b-f317-a77b-1f50-cf84f4dd88ac,61,F,Medicare,White (non-Hispanic),92111,,No valid HbA1c in year
+GSD,0eb5aff4-0c2a-6c13-e435-5c8b39dc0df9,67,M,Medicare,White (non-Hispanic),92075,,No valid HbA1c in year
+GSD,736d6205-a1eb-091f-6c97-ddb58fb39de4,35,M,Medicare,Hispanic/Latino,92134,,No valid HbA1c in year
+GSD,72400d2d-8368-bc62-76d5-4352e64ff4ac,63,M,Medicare,White (non-Hispanic),92037,,No valid HbA1c in year
+GSD,87f97014-7ce2-4aab-e0be-95c1e3849662,58,M,Medicare,White (non-Hispanic),92122,,No valid HbA1c in year
+GSD,25231103-55cc-cf3a-87c7-de2090325fa9,72,M,Medicare,Asian (non-Hispanic),92115,,No valid HbA1c in year
+GSD,d9edcb1c-7974-df0c-ea41-bb95f2da11dc,55,F,Medicare,White (non-Hispanic),92127,,No valid HbA1c in year
+GSD,475fa17e-7ea2-bbf3-608f-46eedf9fef83,63,M,Medicare,Hispanic/Latino,92131,,No valid HbA1c in year
+GSD,8deff177-185c-7841-c675-8b8c15434bd4,72,M,Medicare,Hispanic/Latino,92127,,No valid HbA1c in year
+GSD,4af3abb2-f464-e928-d7a6-2c85a193a96d,64,M,Medicare,Hispanic/Latino,91915,,No valid HbA1c in year
+GSD,eb9ce0c2-31de-9596-8153-dfcdd9c997ae,39,M,Medicare,Asian (non-Hispanic),92140,,No valid HbA1c in year
+GSD,6047419c-a879-7748-7d02-5875cb8c9a89,60,F,Medicare,White (non-Hispanic),92154,,No valid HbA1c in year
+GSD,2e06e0f7-a404-4867-d0e4-77feb8266004,63,M,Medicare,White (non-Hispanic),92067,,No valid HbA1c in year
+GSD,b3e09c2d-af63-002b-a293-42230f53e0d6,49,M,Medicare,Black (non-Hispanic),92147,,No valid HbA1c in year
+GSD,34f138ed-2da1-2355-5733-cc8de15cb043,66,M,Medicare,Hispanic/Latino,92014,,No valid HbA1c in year
+GSD,c2b0c3f0-70d1-1dfa-337e-75a4b0045132,66,F,Medicare,Hispanic/Latino,92064,,No valid HbA1c in year
+GSD,4685b6d5-e0a5-2093-d321-8be8d9ba7f40,60,M,Medicare,White (non-Hispanic),92117,,No valid HbA1c in year
+GSD,81ca9dd4-ee80-2d0a-2bfa-f16b67413a81,74,M,Medicare,White (non-Hispanic),92113,,No valid HbA1c in year
+GSD,2dbeb246-a994-b355-cb02-1a0e9fe21168,68,M,Medicare,Hispanic/Latino,92108,,No valid HbA1c in year
+GSD,36c7cbbc-946b-9b7d-0ad7-72291693beee,56,M,Medicare,Asian (non-Hispanic),92131,,No valid HbA1c in year
+GSD,698ed74d-fdab-1ff8-684b-ccf8c06bf60a,44,M,Medicare,White (non-Hispanic),92118,,No valid HbA1c in year
+GSD,f7575684-e52e-de9f-6585-f06a48832d44,65,F,Medicare,Asian (non-Hispanic),92147,,No valid HbA1c in year
+GSD,dd5c4977-8ab2-5e61-34df-f75e4889882d,67,M,Medicare,Hispanic/Latino,92118,,No valid HbA1c in year
+GSD,161a011f-815c-6571-6932-6014a4f61352,52,M,Medicare,Hispanic/Latino,92067,,No valid HbA1c in year
+GSD,881541c0-aa90-987d-9d54-9747f2cf0fa3,57,M,Medicare,Hispanic/Latino,92101,,No valid HbA1c in year
+GSD,ba5962cc-8b00-4511-4daa-88159e402422,75,F,Medicare,White (non-Hispanic),92121,,No valid HbA1c in year
+GSD,8c15cab2-d1db-a2bf-8f49-56763b535951,56,M,Medicare,White (non-Hispanic),92115,,No valid HbA1c in year
+GSD,db8bc055-b743-d780-d526-ea12fcbce0d3,74,M,Medicare,White (non-Hispanic),92122,,No valid HbA1c in year
+GSD,c307b408-4396-3382-2bdc-4cfa61ad907f,42,M,Medicare,White (non-Hispanic),92115,,No valid HbA1c in year
+GSD,de4b5837-8061-176c-d3c5-e23254a7e716,69,F,Medicare,White (non-Hispanic),92118,,No valid HbA1c in year
+GSD,29d50bb9-e05b-9051-a151-6c6dc95b9831,60,M,Medicare,White (non-Hispanic),92135,,No valid HbA1c in year
+GSD,b44cd74f-a559-90f5-5b2b-672c6cd7d93a,68,F,Medicare,White (non-Hispanic),92064,,No valid HbA1c in year
+GSD,82312251-db0a-9697-d152-8f86a1274d79,66,F,Medicare,Hispanic/Latino,92027,,No valid HbA1c in year
+GSD,28fc4489-6f3e-4157-50d7-14e9d039ffc3,57,M,Medicare,Hispanic/Latino,91942,,No valid HbA1c in year
+GSD,03ade52e-96b9-6997-c904-d8658d6c15ee,68,F,Medicare,Hispanic/Latino,92132,,No valid HbA1c in year
+GSD,14696a21-3c65-3211-7204-042d6a207e09,66,M,Medicare,Hispanic/Latino,92107,,No valid HbA1c in year
+GSD,e91b38e7-6f79-e2f4-89ed-29f31853149d,62,M,Medicare,Hispanic/Latino,92107,,No valid HbA1c in year
+GSD,6275deb4-e6fe-ed17-ced2-7d7f9117215a,60,M,Medicare,White (non-Hispanic),92117,,No valid HbA1c in year
+GSD,c6814385-c565-06bc-cbf9-8ad36e67bba8,62,F,Medicare,Hispanic/Latino,92108,,No valid HbA1c in year
+GSD,3c1f3413-a420-229e-5e7b-8eeb77d7a841,38,M,Medicare,Hispanic/Latino,92115,,No valid HbA1c in year
+GSD,f93764f7-1d1d-5a76-5f29-2c1a67f681e5,69,M,Medicare,White (non-Hispanic),92130,,No valid HbA1c in year
+GSD,df5a7b0f-901a-c0f7-3408-e3387012c80d,66,F,Medicare,Hispanic/Latino,92132,,No valid HbA1c in year
+GSD,d961036b-3705-f9db-ef43-92afddee7915,71,M,Medicare,Hispanic/Latino,91932,,No valid HbA1c in year
+GSD,23f088c7-c8f5-3aa8-f9b3-5cdff6ea2b4e,66,M,Medicare,White (non-Hispanic),91914,,No valid HbA1c in year
+GSD,983c70e3-54b3-4e22-03e7-c4aa3a3fd83a,71,M,Medicare,Other (non-Hispanic),92119,,No valid HbA1c in year
+GSD,0453bbfc-4b53-3293-2efc-f4efea973838,72,M,Medicare,Hispanic/Latino,92109,,No valid HbA1c in year
+GSD,9d7bbe4b-198f-d9e3-ee07-5c1e30094e95,61,M,Uninsured,Hispanic/Latino,92104,,No valid HbA1c in year
+GSD,d5551c2d-e5fa-7c4a-69bc-abb485f376fe,47,F,Uninsured,White (non-Hispanic),92140,,No valid HbA1c in year
+GSD,85eb303b-33d3-5b74-eee3-2054b5299232,55,M,Uninsured,White (non-Hispanic),92029,,No valid HbA1c in year
+GSD,4632edd1-93cd-1344-d093-a94d8c287d8c,47,M,Uninsured,White (non-Hispanic),92132,,No valid HbA1c in year
+GSD,2f6a8fd0-a41d-4cac-822d-32f97963ff19,59,M,Uninsured,White (non-Hispanic),92127,,No valid HbA1c in year
+GSD,e9d6a6eb-d6ea-4e01-3d01-e70a9300f3a0,48,M,Uninsured,White (non-Hispanic),92111,,No valid HbA1c in year
+GSD,09ffc488-8762-3b8e-a680-212685bff42b,43,F,Uninsured,White (non-Hispanic),92126,,No valid HbA1c in year
+GSD,fcfd7512-884b-f594-9a6e-9dd63255b68f,59,F,Uninsured,Other (non-Hispanic),92071,,No valid HbA1c in year
+GSD,14a4723e-edcc-1124-b655-a99e02792c15,35,M,Uninsured,White (non-Hispanic),92102,,No valid HbA1c in year
+GSD,47b7dbd0-f01d-5e88-fe88-a7cd4ca07679,38,M,Uninsured,White (non-Hispanic),91942,,No valid HbA1c in year

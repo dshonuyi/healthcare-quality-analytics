@@ -1,0 +1,3 @@
+version,denominator,numerator,rate
+Raw HbA1c values (no validation),229,183,79.9
+Validated HbA1c values,229,108,47.2

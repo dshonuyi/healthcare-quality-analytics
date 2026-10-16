@@ -1,0 +1,2184 @@
+patient_id,age,gender,payer_category,acute_visits_prior_yr,active_conditions,open_care_gaps,dx_substance_use,risk_score,had_event_2025,risk_tier
+895a3bb8-ad85-183d-e445-db556969e14d,105,M,Dual Eligible,20,21,0,true,1.0,true,High (top 10%)
+f2e46f22-1947-9f88-e9be-c0c04260d6d7,81,F,Dual Eligible,24,19,0,true,1.0,true,High (top 10%)
+8e1b3fb6-85c7-ce20-22b0-adca3664b6bc,63,M,Medicaid,16,16,0,true,0.995,true,High (top 10%)
+ee81f36e-d66d-a8df-227a-98aedf2d6183,63,F,Commercial,14,19,1,false,0.988,true,High (top 10%)
+3bb2557b-e351-9adf-e6ca-e13e17558768,73,M,Medicare,10,13,1,false,0.956,false,High (top 10%)
+43a05f35-d63d-d86a-f4f7-3e6d42c655dd,47,F,Medicaid,8,14,3,false,0.924,false,High (top 10%)
+85eb303b-33d3-5b74-eee3-2054b5299232,54,M,Medicaid,7,11,1,false,0.908,false,High (top 10%)
+1f6653f1-6b02-5235-8195-a3f03bc3025a,97,M,Medicare,4,21,0,true,0.9,true,High (top 10%)
+53b3ac78-f7ac-9240-065c-3c8ada380f75,101,M,Medicare,6,18,0,true,0.871,false,High (top 10%)
+f090a1a6-00db-5017-3244-b243d22cf17f,38,M,Uninsured,6,10,1,false,0.842,true,High (top 10%)
+42471a0d-34a0-0dfa-8da1-743b7243730e,90,M,Medicare,6,18,0,false,0.809,true,High (top 10%)
+9d361982-b058-0cea-4715-a66fa5d38e99,56,M,Commercial,6,8,1,false,0.73,false,High (top 10%)
+b1ccaf29-b5e2-1f5f-6c95-ef96e18da529,73,F,Dual Eligible,1,17,1,true,0.713,true,High (top 10%)
+22dd80f2-e6d1-3231-41e6-b9d799de1e63,73,F,Dual Eligible,1,16,1,true,0.682,true,High (top 10%)
+5623b50e-f739-5c30-ead5-a4e51b214f8f,53,M,Commercial,4,8,2,false,0.622,false,High (top 10%)
+445be4e4-bd8a-1b1f-03d9-46199e279f75,29,F,Medicaid,7,2,0,false,0.575,true,High (top 10%)
+ab731f93-2e1d-7def-019c-86e0888e6aeb,79,F,Medicare,0,14,0,false,0.548,true,High (top 10%)
+9832fd60-cb5f-6800-1aa9-630feca594d1,81,M,Medicare,1,16,0,true,0.545,false,High (top 10%)
+dba91930-ba16-85b4-18f2-5846efec9e68,107,M,Medicare,2,18,0,false,0.502,true,High (top 10%)
+ba5e9a38-241f-084e-1847-5046805a83b7,95,F,Medicare,0,12,0,true,0.501,false,High (top 10%)
+db8bc055-b743-d780-d526-ea12fcbce0d3,73,M,Medicare,3,14,2,false,0.495,false,High (top 10%)
+5652f8d4-c9f8-e2a3-88f9-105ed08b55af,50,M,Medicaid,1,9,2,true,0.482,false,High (top 10%)
+fde91c9d-5b3b-59ff-9801-52aeb2d24bc5,75,M,Medicaid,0,16,1,true,0.468,false,High (top 10%)
+14a4723e-edcc-1124-b655-a99e02792c15,34,M,Uninsured,1,7,2,true,0.464,false,High (top 10%)
+4150366c-535b-fa65-3420-a02bed385275,49,F,Commercial,1,6,3,true,0.459,true,High (top 10%)
+ae329763-78e4-0389-0277-8f93d588b640,106,F,Medicare,1,14,0,false,0.459,false,High (top 10%)
+3e55277b-5aa9-d7e8-3117-9ed06b830075,70,M,Dual Eligible,2,13,2,false,0.458,false,High (top 10%)
+de4b5837-8061-176c-d3c5-e23254a7e716,68,F,Medicare,0,10,1,true,0.458,false,High (top 10%)
+a7c07df6-7a5b-89bc-4937-1b8d9b394991,77,F,Medicare,1,8,0,false,0.456,false,High (top 10%)
+09df0285-fddb-28fc-8c77-bf765eb4871f,63,M,Commercial,2,14,2,false,0.456,true,High (top 10%)
+e1a534ff-831e-94d9-5b6f-288974e0f9dd,62,M,Medicaid,2,12,0,true,0.451,true,High (top 10%)
+efa20c50-d5ab-8813-a93a-afaf04d477e5,60,M,Commercial,0,11,1,true,0.449,true,High (top 10%)
+ff5944d9-6147-74b0-eb5e-e657e8201965,44,F,Commercial,2,8,2,false,0.433,false,High (top 10%)
+ba19bde6-ac2f-c2ac-5622-2fe203ed5151,61,M,Medicaid,0,6,1,true,0.432,false,High (top 10%)
+6d8e7f8c-6e98-bad2-ef7a-2d9856aaed4b,78,F,Dual Eligible,0,13,0,false,0.427,true,High (top 10%)
+8deff177-185c-7841-c675-8b8c15434bd4,71,M,Medicare,0,15,2,false,0.426,false,High (top 10%)
+c4809220-efb3-ab08-96bc-730ab25e721a,64,F,Dual Eligible,0,14,1,true,0.424,false,High (top 10%)
+6623a20c-22d1-50ca-05ea-09bd3fe372a2,27,M,Commercial,5,2,0,false,0.422,true,High (top 10%)
+96bffe6c-b60f-9e8a-900c-af041c2e6a30,78,M,Medicare,0,15,0,false,0.418,false,High (top 10%)
+c7c2d017-008a-ccf0-2626-bdab4976c868,75,M,Dual Eligible,2,5,0,true,0.411,false,High (top 10%)
+d2a1ae69-5138-6a5d-cb7f-cd717edcedf8,85,F,Dual Eligible,1,15,0,false,0.393,false,High (top 10%)
+2ce0ad34-3115-7435-0bef-e13f6a9482cf,59,F,Medicare,1,8,1,true,0.388,true,High (top 10%)
+60882da7-1f23-f4f7-0258-6bc5dfa4a352,67,F,Medicare,2,8,0,true,0.388,false,High (top 10%)
+5822309a-23ce-07a1-7f3a-facaa67159a5,39,F,Commercial,0,9,1,true,0.387,false,High (top 10%)
+c33c9219-fa7e-8046-df51-307b257d3e53,51,M,Commercial,2,9,2,false,0.387,false,High (top 10%)
+3bab49cc-689e-cb57-ec3f-4f85f4decf2c,77,M,Medicare,3,12,0,false,0.38,false,High (top 10%)
+830c2807-5eb1-fed4-dae2-e8f21917a042,79,M,Dual Eligible,3,11,0,false,0.377,false,High (top 10%)
+4441bf25-672e-a0ab-fe23-0d7f99a3bce3,76,M,Medicare,0,16,0,true,0.377,false,High (top 10%)
+a296a2ba-b1ad-a3c5-d172-aa3dfdbcdab9,53,F,Commercial,1,12,1,true,0.376,false,High (top 10%)
+5259fba2-ee6e-9450-585c-bb748eec2504,76,M,Medicare,2,11,0,true,0.374,true,High (top 10%)
+67d3e571-9669-ba48-7b90-6c1607de065f,83,F,Medicaid,0,15,0,true,0.373,true,High (top 10%)
+db5ccb06-f79e-f11b-4fa0-ecc91a161d99,46,M,Medicaid,0,7,2,true,0.371,false,High (top 10%)
+922fb35e-148d-9e82-7e65-bfa05e3b3515,67,M,Medicare,1,18,1,false,0.364,false,High (top 10%)
+3651568f-224f-59a6-7914-248f1b294d77,70,F,Dual Eligible,0,11,1,false,0.36,true,High (top 10%)
+d276e5ca-6d64-d1f8-42fe-f241113054b6,46,M,Medicaid,1,9,1,true,0.355,false,High (top 10%)
+a5e3260f-e343-4296-263e-fb46655b0d75,103,M,Medicare,0,20,0,false,0.353,true,High (top 10%)
+77116f13-cdf1-42c8-15da-14b9239d646d,39,M,Medicaid,2,5,0,true,0.353,true,High (top 10%)
+8e63465a-8f57-7723-50c4-9caad1cf6de8,107,M,Medicare,1,15,0,false,0.352,false,High (top 10%)
+6118002a-efdc-d787-28ee-36bcc7dd37da,106,M,Medicare,0,16,0,false,0.351,true,High (top 10%)
+60bd583b-99c6-bc70-a576-e78be633a08d,87,F,Medicare,0,14,0,true,0.35,false,High (top 10%)
+5bfdc6a1-1eaa-95f7-3526-f66eab1c8efc,55,F,Commercial,0,7,1,true,0.343,false,High (top 10%)
+d42ce7a3-a910-ecbc-462a-b936cf055fa2,92,F,Medicare,0,17,0,false,0.341,false,High (top 10%)
+5aa78374-d8c9-f421-3cf1-0607d8dc7679,59,M,Commercial,0,14,1,false,0.34,false,High (top 10%)
+94796de0-a629-d960-8281-498b91b88db6,55,F,Commercial,1,6,2,false,0.34,false,High (top 10%)
+7cfa80d2-3524-69e2-3f75-3559d3214f32,45,M,Uninsured,0,7,0,true,0.334,true,High (top 10%)
+91f05dd0-f3ab-08da-5bfd-f4fdf9dfe6a4,62,F,Commercial,0,14,1,false,0.334,false,High (top 10%)
+57db6cf2-7789-73be-d21a-7a36186c6e37,104,M,Medicare,0,16,0,false,0.333,false,High (top 10%)
+4685b6d5-e0a5-2093-d321-8be8d9ba7f40,59,M,Medicare,0,10,1,false,0.33,true,High (top 10%)
+59c1cadf-e546-2767-5890-3b21fcbc1c99,35,F,Commercial,1,8,0,false,0.33,false,High (top 10%)
+23076cc7-987a-7400-1431-1388bfbd4385,26,M,Medicaid,4,4,0,false,0.33,true,High (top 10%)
+64b4fd5b-8667-6eeb-9563-f12e27db08d4,55,F,Commercial,1,8,2,false,0.328,false,High (top 10%)
+72471400-74a1-e767-27eb-7480f96e1da8,37,F,Medicaid,4,2,0,false,0.324,true,High (top 10%)
+d239a64f-3912-cc53-9853-7f91aa43416b,55,F,Medicaid,1,3,1,true,0.321,false,High (top 10%)
+d9edcb1c-7974-df0c-ea41-bb95f2da11dc,54,F,Medicare,0,7,2,false,0.321,true,High (top 10%)
+2dbeb246-a994-b355-cb02-1a0e9fe21168,67,M,Medicare,1,15,1,false,0.316,false,High (top 10%)
+ae3bb280-2f6b-13b0-98d9-1116cfe35d04,57,F,Commercial,1,7,2,true,0.313,false,High (top 10%)
+4bf6d101-9c10-1b44-914d-733791c242f8,50,F,Commercial,0,6,0,true,0.313,false,High (top 10%)
+71618ae8-996c-79b1-100a-386ae37dd384,63,F,Commercial,1,7,2,false,0.311,true,High (top 10%)
+7b372294-234a-c297-10b9-7764d79edb6b,47,F,Medicaid,1,6,1,true,0.31,true,High (top 10%)
+c6814385-c565-06bc-cbf9-8ad36e67bba8,61,F,Commercial,0,14,1,false,0.309,false,High (top 10%)
+22062255-770f-07d5-2b77-827077a2d626,29,F,Medicaid,1,4,0,true,0.308,false,High (top 10%)
+d805ebbd-3272-4d69-a866-64c646040814,51,M,Commercial,0,3,1,true,0.308,false,High (top 10%)
+2c35b5f8-b221-9e42-c5a2-6ae72598e125,81,M,Medicare,0,12,0,false,0.306,true,High (top 10%)
+ad33bb69-f3cb-31ee-46d7-7f044fe45a45,99,M,Medicare,0,13,0,false,0.305,false,High (top 10%)
+2ed77eab-3571-a72d-7fe9-16a02766ae00,70,F,Medicare,0,3,1,true,0.302,false,High (top 10%)
+ac258339-c30d-8d63-57aa-6da73edae413,89,F,Medicare,0,17,0,false,0.3,false,High (top 10%)
+5224d174-5d86-af27-bee4-df1b08b044f6,32,F,Medicaid,1,1,0,true,0.297,false,High (top 10%)
+310b0372-4f38-c0a7-1703-3d93512b7f32,29,M,Medicaid,1,6,0,true,0.296,true,High (top 10%)
+7c0e15a8-45c0-d70c-d2e8-4d8735b22aaf,25,M,Commercial,1,2,0,true,0.294,false,High (top 10%)
+1a1099a7-8be4-4abd-1748-6bfc406c2a74,92,M,Medicare,0,10,0,false,0.294,false,High (top 10%)
+3c1f3413-a420-229e-5e7b-8eeb77d7a841,37,M,Medicare,0,6,1,true,0.292,true,High (top 10%)
+4aae62aa-06a6-ffd9-9001-9ace5bb92453,93,M,Medicaid,0,12,0,true,0.291,false,High (top 10%)
+0d3ab108-3104-e943-b125-23cc078463b3,72,M,Medicare,0,10,0,true,0.291,false,High (top 10%)
+31c17b80-43b3-1002-41a2-573076cad1c3,43,F,Commercial,2,2,0,true,0.291,true,High (top 10%)
+55a8215f-e464-88b1-0394-bc1d36cbf832,61,F,Medicaid,1,7,0,true,0.29,false,High (top 10%)
+8fe5450f-c766-3891-17e3-21a4b53729c4,26,M,Medicaid,4,2,0,false,0.29,true,High (top 10%)
+a828d437-852a-3f83-3dc0-3f95fb386813,80,F,Dual Eligible,0,9,1,false,0.289,true,High (top 10%)
+881541c0-aa90-987d-9d54-9747f2cf0fa3,56,M,Medicare,0,17,2,false,0.289,false,High (top 10%)
+d8a11f55-8f95-ae80-2566-b5f605497932,58,F,Commercial,1,4,0,true,0.289,true,High (top 10%)
+785008e8-10a2-361c-3cef-d28c2ea6610c,47,F,Commercial,1,4,1,true,0.288,false,High (top 10%)
+8e841c11-f090-273e-086a-5a8bf99a3eff,43,M,Commercial,1,4,0,true,0.286,true,High (top 10%)
+63f00385-5bdc-66fb-5b6d-174facc56175,41,M,Medicaid,2,2,0,true,0.283,false,High (top 10%)
+28ffd05b-a23d-3547-3ccd-fc1f77ff4ace,55,M,Commercial,0,10,2,false,0.282,false,High (top 10%)
+475fa17e-7ea2-bbf3-608f-46eedf9fef83,62,M,Medicare,0,18,2,false,0.282,false,High (top 10%)
+8ae6a7d1-cfaf-490e-5c12-0e3a62eddbff,44,M,Commercial,1,6,0,true,0.28,false,High (top 10%)
+f9634ca0-f819-6326-2a7b-e47777a50b96,55,F,Medicare,0,13,0,true,0.279,false,High (top 10%)
+f3c59246-0bd2-05d5-2af4-bb3414c08431,77,F,Medicare,0,11,0,false,0.276,false,High (top 10%)
+b4e2cfbe-62f4-3848-2d01-529bb2276f3b,28,F,Commercial,0,1,0,true,0.276,false,High (top 10%)
+1888bd1d-48de-7570-106b-795d6677e770,56,M,Medicaid,0,12,1,true,0.275,true,High (top 10%)
+219f4da8-83e2-fedd-e7e2-f0383a55b424,77,M,Medicare,0,19,0,false,0.274,true,High (top 10%)
+da75ed4d-f990-aaab-f136-ace7d258325e,52,F,Commercial,1,6,1,true,0.274,false,High (top 10%)
+e74367bd-7385-97dc-2c7f-251b4cd9fe29,80,F,Medicare,0,14,0,false,0.273,true,High (top 10%)
+d3911a4f-396a-ba9e-9788-741b22108348,106,M,Dual Eligible,0,12,0,false,0.273,false,High (top 10%)
+2de4dd0d-f665-8a2e-4c6b-997735e14ace,82,F,Dual Eligible,0,6,0,true,0.273,false,High (top 10%)
+ffcd3257-62d4-4061-2a1a-10cd9b9a8a44,45,M,Commercial,1,4,0,true,0.272,false,High (top 10%)
+e973eb40-64bc-08f4-0cc6-975350ab9eb4,77,M,Medicare,1,7,0,true,0.271,false,High (top 10%)
+25231103-55cc-cf3a-87c7-de2090325fa9,71,M,Medicare,1,10,1,false,0.27,false,High (top 10%)
+e9d6a6eb-d6ea-4e01-3d01-e70a9300f3a0,47,M,Uninsured,0,10,2,false,0.269,false,High (top 10%)
+9279e5c5-aa9e-148a-111a-2e035f4ee3c6,59,F,Medicare,0,10,2,true,0.268,false,High (top 10%)
+f1bb1b85-8e14-8665-0af8-cf6fb25f9933,35,F,Medicaid,3,2,0,false,0.267,true,High (top 10%)
+f7575684-e52e-de9f-6585-f06a48832d44,64,F,Commercial,0,5,3,false,0.266,false,High (top 10%)
+31438dc9-02e7-e2ef-515b-b587686c0818,31,F,Medicaid,1,3,0,true,0.266,false,High (top 10%)
+ddf67b91-350b-c52a-7eb3-1a011487bd52,104,F,Medicare,1,8,0,true,0.265,true,High (top 10%)
+c726816b-f317-a77b-1f50-cf84f4dd88ac,60,F,Commercial,1,5,2,false,0.265,false,High (top 10%)
+bb204053-c946-ce31-32dd-11c812a1465f,58,M,Commercial,0,2,0,true,0.264,true,High (top 10%)
+8ea68a86-65eb-539e-e643-b0e2948d8f5a,24,F,Commercial,0,9,1,false,0.264,false,High (top 10%)
+33df1aa7-9504-26b4-29f5-395a05e2d598,67,F,Medicare,0,10,3,false,0.263,true,High (top 10%)
+ab58de89-49d7-4d5d-aef3-4ca8cc58e9e5,61,F,Commercial,0,11,0,false,0.263,false,High (top 10%)
+a518a954-f83e-0953-40af-8494a7254034,30,M,Commercial,1,3,0,true,0.262,true,High (top 10%)
+ea516128-56e4-3203-1fd6-853d4e7c483c,64,F,Medicaid,0,6,2,true,0.261,true,High (top 10%)
+e89af71d-4aa4-2237-e71d-6fa8e4b5af09,50,M,Commercial,0,4,0,true,0.259,false,High (top 10%)
+7c2a5b6b-6096-af13-5186-ecf3d160fe91,50,M,Commercial,1,8,2,false,0.258,true,High (top 10%)
+e0f2ae88-7c28-bdd8-f06a-bc2a707ae393,56,M,Commercial,1,8,1,false,0.258,false,High (top 10%)
+326580b5-448f-6772-2e89-952233f4f69f,29,F,Commercial,1,3,0,true,0.258,false,High (top 10%)
+20852a5c-dbef-c661-fe1a-8664beedac25,66,F,Medicare,0,10,2,false,0.257,false,High (top 10%)
+0eb5aff4-0c2a-6c13-e435-5c8b39dc0df9,66,M,Medicare,0,15,1,false,0.257,false,High (top 10%)
+890caa08-3c16-81e8-abeb-08bf295b2d04,42,M,Commercial,0,2,0,true,0.257,false,High (top 10%)
+14696a21-3c65-3211-7204-042d6a207e09,65,M,Medicare,0,10,1,false,0.256,true,High (top 10%)
+6047419c-a879-7748-7d02-5875cb8c9a89,59,F,Medicare,0,11,2,false,0.255,true,High (top 10%)
+f94f55db-caa5-08a1-4f8d-36cfc1865aaf,90,M,Medicare,1,11,0,false,0.255,false,High (top 10%)
+81d4a747-8711-6309-e958-a729f333cdaa,69,M,Medicare,0,11,0,false,0.254,false,High (top 10%)
+908a33e6-c215-65c3-3573-d6b3723daeb2,23,F,Medicare,1,3,0,false,0.254,false,High (top 10%)
+8fb87385-1a82-a3b6-2b7e-e9fd9be9eba8,82,M,Medicare,0,8,0,true,0.253,true,High (top 10%)
+c307b408-4396-3382-2bdc-4cfa61ad907f,41,M,Medicare,1,7,2,false,0.252,false,High (top 10%)
+a190b534-4dd0-f251-1688-9eab550f15f3,61,F,Commercial,0,5,2,false,0.251,true,High (top 10%)
+302f7405-9f23-5548-38c9-390eda802c4a,57,F,Commercial,0,10,2,false,0.249,true,High (top 10%)
+c39f716d-d92d-e6e9-405a-e94d2ecad31f,57,F,Dual Eligible,0,5,0,true,0.248,false,High (top 10%)
+11f667c0-d54b-7a9e-c1ae-2aa5611271a5,58,M,Commercial,0,7,1,true,0.247,false,High (top 10%)
+34f138ed-2da1-2355-5733-cc8de15cb043,65,M,Medicare,1,9,1,false,0.247,false,High (top 10%)
+352e5ee9-b50d-d58d-13cd-fdd770d38323,78,M,Medicare,1,7,0,true,0.245,false,High (top 10%)
+42112236-444a-5040-76b2-6a8b031549a8,74,F,Medicare,0,12,1,false,0.242,false,High (top 10%)
+dd9259d3-ca86-c64b-00c1-d65bf2c704a1,57,M,Medicaid,1,6,0,true,0.242,true,High (top 10%)
+1d67c7f6-af39-6a8b-781a-5b22d696f88d,39,F,Uninsured,2,4,0,false,0.242,true,High (top 10%)
+902020e2-73d7-b0ab-51f5-07137486340f,57,M,Commercial,0,6,3,false,0.241,false,High (top 10%)
+1e15063e-b453-6e17-9764-57c7a103221f,59,F,Medicare,1,5,1,false,0.24,false,High (top 10%)
+b5c0d0ff-d1f2-038d-368c-d8ff0680d292,45,F,Medicaid,0,5,0,true,0.24,false,High (top 10%)
+72400d2d-8368-bc62-76d5-4352e64ff4ac,62,M,Medicare,0,8,1,true,0.239,false,High (top 10%)
+c40f1c2e-44b8-e5b9-970f-da2cd2f38d73,64,M,Medicare,0,9,2,false,0.238,true,High (top 10%)
+439fc3f3-803c-9c69-04b5-9d689abca3cd,47,M,Commercial,0,5,1,true,0.238,false,High (top 10%)
+6e779d5b-4826-bb1a-d8e7-b8f4a2a94c97,56,M,Dual Eligible,0,15,1,false,0.236,false,High (top 10%)
+9de9c061-8703-12f8-d129-46e0f2e1d021,40,F,Commercial,0,5,1,false,0.235,true,High (top 10%)
+4e4bf96f-130a-2238-9dda-3e82cfc5fd2b,67,M,Dual Eligible,0,4,0,true,0.235,false,High (top 10%)
+3fdace2f-b962-b4cc-37f4-b5d39b624a7b,30,F,Medicaid,0,4,0,true,0.234,true,High (top 10%)
+8c5fa9a2-4100-1e1c-1287-7effbfe0c0d2,68,M,Medicare,0,8,1,true,0.234,false,High (top 10%)
+2fd24d3f-c0e7-7cc1-3e72-e80cfe882d67,56,F,Commercial,0,11,0,false,0.233,false,High (top 10%)
+fb1eee4b-2ce4-0af2-c0cc-6433342da8a1,51,M,Commercial,1,3,0,true,0.233,true,High (top 10%)
+9e5e1b2a-ff6f-c857-ebda-baf13036563d,72,M,Dual Eligible,0,7,2,false,0.232,true,High (top 10%)
+b44cd74f-a559-90f5-5b2b-672c6cd7d93a,67,F,Medicare,0,9,2,false,0.231,true,High (top 10%)
+e171bb92-dbf2-5dd1-8e59-a07a0b3aae6d,30,F,Uninsured,0,3,0,true,0.231,false,High (top 10%)
+0859291e-e7c6-078e-344c-eb0b85976448,37,M,Medicaid,1,3,0,true,0.231,true,High (top 10%)
+28fc4489-6f3e-4157-50d7-14e9d039ffc3,56,M,Medicare,0,13,3,false,0.23,true,High (top 10%)
+f3029c4a-9a5b-9c09-b1e9-8266aba96a52,22,F,Commercial,1,1,0,true,0.229,false,High (top 10%)
+73350663-f7f1-5e15-1e5b-16bcafc028b4,28,F,Uninsured,1,3,0,true,0.227,true,High (top 10%)
+983c70e3-54b3-4e22-03e7-c4aa3a3fd83a,70,M,Medicare,0,12,2,false,0.226,false,High (top 10%)
+c5aa5fd9-163d-17ed-7522-b77015fd624a,31,M,Commercial,0,2,0,true,0.225,false,High (top 10%)
+564addf6-6232-a5bf-a4de-70231f580d78,63,M,Medicare,0,13,1,false,0.225,true,High (top 10%)
+955dbe2e-6cad-28a6-5b0c-79a3f657c4e8,62,M,Commercial,0,7,1,false,0.224,true,High (top 10%)
+a31c8fbc-6149-d101-29aa-494aa527352a,52,F,Medicaid,0,8,0,true,0.224,false,High (top 10%)
+92e255e5-5809-be2c-31c9-d711807939b5,60,M,Commercial,0,8,0,false,0.224,false,High (top 10%)
+05c29541-7f3e-5d79-3599-cefa9da30798,59,M,Uninsured,0,7,2,true,0.224,false,High (top 10%)
+08f0f3f5-b912-534e-1e2b-e2c51dfdac77,63,M,Commercial,0,5,1,true,0.224,false,High (top 10%)
+23751e2f-eb63-35d9-00ba-30cfa9de55cc,51,F,Commercial,0,5,0,true,0.223,true,High (top 10%)
+29d50bb9-e05b-9051-a151-6c6dc95b9831,59,M,Medicare,0,11,2,false,0.222,false,High (top 10%)
+d961036b-3705-f9db-ef43-92afddee7915,70,M,Medicare,0,14,1,false,0.222,false,High (top 10%)
+b4258f57-ebc0-747e-45e9-d8614f080a42,41,M,Medicare,0,7,1,true,0.222,false,High (top 10%)
+10cfa374-c64c-8ed7-a1ad-eee476cf2e5d,74,F,Medicare,1,2,0,false,0.221,false,High (top 10%)
+0bf9e262-e31e-3cb4-fe46-16d047230ea7,64,F,Medicaid,0,6,1,true,0.221,false,High (top 10%)
+9d7bbe4b-198f-d9e3-ee07-5c1e30094e95,60,M,Uninsured,0,12,1,false,0.221,true,High (top 10%)
+01513b97-46a6-1303-6546-c8b85ab957b5,59,M,Commercial,1,5,1,false,0.22,false,High (top 10%)
+7ed32bf9-6e8a-4dd5-78e6-041937a6894f,87,F,Medicare,0,10,0,false,0.219,false,High (top 10%)
+03ade52e-96b9-6997-c904-d8658d6c15ee,67,F,Medicare,0,10,1,false,0.219,false,High (top 10%)
+0b8136ea-7126-e6ba-ce13-cb323de78743,100,F,Medicare,0,9,0,false,0.218,false,High (top 10%)
+dd5c4977-8ab2-5e61-34df-f75e4889882d,66,M,Medicare,0,8,2,false,0.217,false,High (top 10%)
+c39d1a8c-4bb6-4c73-4597-a32ecbd29105,50,M,Commercial,0,9,1,false,0.215,false,High (top 10%)
+148d5f62-4056-4e88-d999-af251eef9eef,32,F,Commercial,1,1,0,false,0.215,false,High (top 10%)
+15e93d16-025d-6783-4096-4b702f357d7e,59,M,Uninsured,0,11,2,false,0.215,false,High (top 10%)
+9596033e-c10a-30da-460d-2b30ad07338e,57,M,Commercial,0,10,1,false,0.214,false,High (top 10%)
+6f422ce6-7bc6-2cc2-1e30-1bb279eb8a09,105,F,Medicare,1,12,0,false,0.214,false,High (top 10%)
+ec410780-cffd-007c-8906-cb0be4c064f5,39,F,Medicaid,0,3,0,true,0.214,false,High (top 10%)
+698ed74d-fdab-1ff8-684b-ccf8c06bf60a,43,M,Medicare,0,5,2,false,0.212,false,High (top 10%)
+d2317422-47cb-4c88-0c2f-94e2eb6f8f6c,38,F,Uninsured,0,5,0,true,0.212,false,High (top 10%)
+f03965f5-1c40-01fc-4dea-3aaca3e7a8d8,61,M,Dual Eligible,1,3,0,true,0.212,false,High (top 10%)
+f2ce4c4c-51ee-2b83-2b58-0135d3c74ccd,66,M,Dual Eligible,1,3,0,true,0.211,false,High (top 10%)
+d5ec3a2b-8ac6-4bb5-1657-64d3630d9a8d,53,F,Commercial,0,3,0,true,0.211,false,High (top 10%)
+b85a172f-e790-42a2-847e-50950f0f25ee,57,F,Medicare,0,7,1,true,0.211,false,High (top 10%)
+b077e9d0-4634-9a50-4b55-1bc19796359c,60,F,Commercial,0,6,1,false,0.211,true,High (top 10%)
+e3af6ba4-f072-0ae8-5c96-fd3d79176b92,68,F,Medicare,0,8,0,true,0.211,false,High (top 10%)
+37503fb0-fda3-afc6-f32f-e127dbd53d52,49,M,Commercial,0,4,2,true,0.21,false,High (top 10%)
+c0eaa66a-ab27-0901-3abd-f67612a6c813,41,F,Medicaid,0,3,0,true,0.21,false,High (top 10%)
+088d07bd-75a4-697d-757a-d6306f3e1283,86,M,Medicare,1,5,0,true,0.21,true,High (top 10%)
+22929a68-92a8-362b-99c5-fd30aef7eb97,46,M,Commercial,0,6,1,true,0.21,false,High (top 10%)
+16f6c7fa-4018-afd0-746c-d7ee67a0ebe6,26,F,Commercial,1,2,0,true,0.209,true,High (top 10%)
+0a66253b-4906-0aa6-e593-17fe8f1db2a7,41,F,Commercial,1,1,0,true,0.209,false,High (top 10%)
+d2eb118d-fccf-59a7-7a65-b056ae7942be,56,M,Commercial,0,5,1,true,0.208,false,High (top 10%)
+deb162bf-841c-a9c2-9c0b-d3264001e8e8,62,M,Medicaid,0,4,2,false,0.207,false,High (top 10%)
+b3e09c2d-af63-002b-a293-42230f53e0d6,48,M,Medicare,0,16,2,false,0.206,false,High (top 10%)
+f983ac3a-6e68-aee9-f8d0-bbd42da88aff,74,M,Dual Eligible,0,11,0,false,0.206,true,High (top 10%)
+46f06816-af4f-e873-bb01-a4909be66c20,22,M,Commercial,0,1,0,true,0.206,false,High (top 10%)
+10ef12fb-14dc-88af-dde4-d620bee64195,44,M,Commercial,0,9,0,false,0.206,false,High (top 10%)
+1d0b4e6a-bba8-0704-f405-3da02fc62a2f,54,F,Commercial,0,5,1,false,0.205,false,Rising (next 20%)
+ecb02a6b-2ed9-135c-6a54-84b7a383b626,54,F,Medicaid,0,4,0,true,0.205,true,Rising (next 20%)
+cb684266-eb6d-d2e7-60a2-90aa9b1f707d,29,F,Medicaid,0,2,0,true,0.205,true,Rising (next 20%)
+6275deb4-e6fe-ed17-ced2-7d7f9117215a,59,M,Medicare,0,8,2,false,0.204,false,Rising (next 20%)
+453a6d7a-c699-33ac-591e-a11d4927f055,76,F,Medicare,2,9,1,false,0.204,true,Rising (next 20%)
+d122d0ae-6b1c-3c57-7e0c-76636b457afb,45,F,Commercial,0,1,0,true,0.204,false,Rising (next 20%)
+ce44621f-406f-233d-11a3-22cdc96f9aec,45,F,Commercial,0,3,0,true,0.204,false,Rising (next 20%)
+86320c12-1e2e-a065-7d5e-655c90aa59b8,47,M,Commercial,0,5,1,true,0.204,false,Rising (next 20%)
+7ab26875-4ca5-dcad-97dc-44b2db15e3a3,51,M,Commercial,0,4,2,true,0.204,false,Rising (next 20%)
+01b2da20-8b0d-5eee-eb72-80c1504d64a9,57,F,Commercial,0,9,1,false,0.203,false,Rising (next 20%)
+372f1d7c-54ad-6683-592e-93799af87d3d,58,F,Medicaid,0,5,2,false,0.203,false,Rising (next 20%)
+db05d34d-7c04-10db-0e87-67ebffe9c8bd,53,M,Medicare,0,6,0,true,0.203,false,Rising (next 20%)
+7ef3e453-cc48-d6de-f919-48c79f145209,18,M,Commercial,1,1,0,false,0.203,false,Rising (next 20%)
+f9aeb048-ab31-8c20-382e-da060703187a,41,M,Medicaid,0,5,1,true,0.202,true,Rising (next 20%)
+d8a3ad8b-9795-14ca-1a03-652495444be9,44,F,Commercial,0,4,0,true,0.201,false,Rising (next 20%)
+1717d7bb-8002-d228-095f-2b0f43f7c70a,41,M,Commercial,0,5,2,false,0.2,false,Rising (next 20%)
+c86c400e-ff88-a1e3-2e23-caa4d8311f47,30,M,Commercial,0,2,0,true,0.2,false,Rising (next 20%)
+ccf1aa09-8c72-6f8a-d4b6-3145bce8dcce,37,M,Uninsured,1,2,0,true,0.2,true,Rising (next 20%)
+a08dd7a3-6d1f-624d-3ff9-83fcd399bdd9,52,F,Commercial,1,2,0,false,0.199,false,Rising (next 20%)
+a87f5c0f-b16e-cb3f-5814-db286bc48090,54,M,Medicare,0,9,0,false,0.199,false,Rising (next 20%)
+df0d5df8-cda1-7729-c56b-c0edcc1de8a2,48,M,Commercial,0,3,1,true,0.199,false,Rising (next 20%)
+75a74e5b-f8f8-fb40-9b3c-5b883af96548,61,M,Medicaid,0,8,2,false,0.199,true,Rising (next 20%)
+032e5f12-51a3-9303-a236-483734dc4791,36,M,Commercial,1,1,0,true,0.198,false,Rising (next 20%)
+a2b08197-9663-72ab-8f3c-51fec35ff18f,51,F,Commercial,0,5,1,true,0.197,true,Rising (next 20%)
+ba5962cc-8b00-4511-4daa-88159e402422,74,F,Medicare,0,7,1,false,0.197,false,Rising (next 20%)
+b1feaf1f-a406-e343-1535-9fb6971a66f3,61,M,Medicaid,0,5,0,true,0.197,false,Rising (next 20%)
+5a0d025d-db63-38ff-b1ae-6acc5f4e1f33,71,M,Dual Eligible,1,9,1,false,0.196,false,Rising (next 20%)
+1e226bcd-e5de-efe8-b22f-ca83d54eb34a,33,F,Commercial,1,2,0,true,0.196,false,Rising (next 20%)
+627b096e-66b3-4e60-2300-4d0716d72794,26,F,Medicaid,0,4,0,true,0.196,false,Rising (next 20%)
+90d97aa1-2d42-c3b9-55ec-ab667bee5354,73,F,Medicare,0,8,0,false,0.196,false,Rising (next 20%)
+f0af24ba-22df-a2a6-ca80-9814fb6febff,69,F,Medicare,0,7,0,true,0.196,false,Rising (next 20%)
+e02d3061-0bcf-b4c5-865e-ac5a2577dd8e,88,F,Medicare,0,9,0,false,0.195,false,Rising (next 20%)
+8921b6d7-8af0-e300-acaa-6fca32256f80,30,F,Commercial,0,0,0,true,0.195,false,Rising (next 20%)
+bed74510-49f7-97d4-bcef-a6fc05551b01,93,M,Medicare,0,11,0,false,0.195,false,Rising (next 20%)
+f91e5186-c12b-c967-12c3-05a622aeef6a,48,M,Commercial,1,7,1,false,0.194,false,Rising (next 20%)
+9f7feabf-98d1-76de-9424-0af498bbd064,54,F,Commercial,0,2,0,true,0.193,false,Rising (next 20%)
+7e5ef194-7a64-dec9-07c3-43dab97ef9da,27,F,Commercial,0,2,0,true,0.193,false,Rising (next 20%)
+82312251-db0a-9697-d152-8f86a1274d79,65,F,Medicare,0,8,1,false,0.193,false,Rising (next 20%)
+a00cc7a8-db17-190a-fffe-fc2ec28cd52a,41,M,Commercial,1,1,0,true,0.193,false,Rising (next 20%)
+d58bae72-a757-6c87-2c81-0bd87497cad6,79,F,Dual Eligible,0,4,0,true,0.192,false,Rising (next 20%)
+af307058-83ec-3c1b-0f05-9e026020a25c,37,F,Medicaid,0,3,0,true,0.192,true,Rising (next 20%)
+04dd6dd9-2faa-05da-8a7c-52234bf92981,38,M,Commercial,1,1,0,false,0.192,false,Rising (next 20%)
+cbb159db-8df9-f819-c59e-0fe359d6a30b,69,M,Medicare,0,7,0,false,0.192,false,Rising (next 20%)
+1f492d1b-46b8-92c2-002d-420451131f23,25,M,Commercial,0,3,0,true,0.191,false,Rising (next 20%)
+f48c6372-597e-99f1-a23e-6368afdd8ebb,20,F,Commercial,1,0,0,true,0.191,false,Rising (next 20%)
+f93764f7-1d1d-5a76-5f29-2c1a67f681e5,68,M,Medicare,0,9,1,false,0.19,false,Rising (next 20%)
+0205c336-938f-d85a-6b71-618bcc57a076,18,M,Medicaid,1,3,0,false,0.19,false,Rising (next 20%)
+80c4482e-d6f8-9a6d-d4d8-3ba76b37da8e,42,F,Medicaid,0,7,1,false,0.19,false,Rising (next 20%)
+8c15cab2-d1db-a2bf-8f49-56763b535951,55,M,Medicare,0,8,1,false,0.19,false,Rising (next 20%)
+9f8b049d-b97d-e1a5-7f89-33de316ea6b7,75,F,Medicare,1,6,0,true,0.19,false,Rising (next 20%)
+d02e5132-e714-cff9-0670-32e0010cbc8b,28,F,Medicaid,0,3,0,true,0.189,true,Rising (next 20%)
+bc7f34d3-f024-0a93-c1ca-0d8560652676,43,F,Commercial,0,3,1,false,0.188,false,Rising (next 20%)
+c2ecbad3-05f1-f45b-0c7c-a27ed336e50f,39,F,Uninsured,0,3,0,true,0.188,false,Rising (next 20%)
+d5551c2d-e5fa-7c4a-69bc-abb485f376fe,46,F,Uninsured,0,5,2,false,0.185,false,Rising (next 20%)
+bc6bdf85-dda1-396b-d25f-9e9ade798a4f,63,F,Uninsured,0,4,0,true,0.185,false,Rising (next 20%)
+a79d2d29-3ab6-f3bc-2722-58f350c6ee92,22,M,Dual Eligible,0,1,0,true,0.183,false,Rising (next 20%)
+77b5f12c-8ebb-1d51-598d-059955c37bfa,40,F,Commercial,0,6,1,false,0.182,false,Rising (next 20%)
+4c3f54cf-e71b-8123-dafd-d00cbcdd4f3c,24,M,Commercial,0,1,0,true,0.182,true,Rising (next 20%)
+dfa67b0f-bdc1-7ff7-4852-249321ccdc1a,49,M,Commercial,0,2,2,true,0.182,false,Rising (next 20%)
+be9b8db8-8028-2c14-5ede-f6dacd215487,53,M,Commercial,0,4,1,false,0.182,false,Rising (next 20%)
+81489eaa-a9be-7fdb-d1f7-cb1261f1ed66,26,F,Dual Eligible,1,2,0,true,0.182,false,Rising (next 20%)
+773cbf7e-86e8-e0d4-058a-af72ff049896,55,F,Commercial,0,1,1,true,0.182,true,Rising (next 20%)
+ebe6ba1e-5a00-4b04-ce56-281e96c52f0d,36,M,Commercial,0,3,1,false,0.18,false,Rising (next 20%)
+9291fd88-398c-6212-0bf5-e2bf877402cb,55,M,Medicaid,0,4,1,true,0.18,true,Rising (next 20%)
+5c554208-e29d-3c87-370d-343f9bd7b0bb,46,F,Commercial,0,6,1,true,0.18,false,Rising (next 20%)
+0b1b278b-2e00-e569-8fc8-e48419a4f262,58,M,Commercial,0,9,0,false,0.18,false,Rising (next 20%)
+8baa239e-c364-f420-70e6-439e932f98a4,55,F,Commercial,0,2,0,true,0.18,false,Rising (next 20%)
+a577c959-6d8b-56f9-f5c7-cf51acd12093,40,F,Commercial,1,0,0,true,0.18,false,Rising (next 20%)
+d11d0f5f-8649-4e60-0781-a8457b0cb4fa,36,M,Medicaid,0,4,0,true,0.179,false,Rising (next 20%)
+c20e1720-a1f5-523c-261d-5b28f1aeea08,41,M,Commercial,0,3,1,false,0.179,false,Rising (next 20%)
+b116b69b-478a-d7a1-b732-6d03d35d7388,64,M,Commercial,0,4,0,true,0.179,false,Rising (next 20%)
+39bdbcaa-0f4c-539e-f559-87b06ad232a3,60,F,Commercial,0,3,0,true,0.178,true,Rising (next 20%)
+28dc95ea-454e-cf3c-20f1-76f5d0fed736,30,F,Uninsured,0,2,0,true,0.178,false,Rising (next 20%)
+52fa7796-9f85-2b66-7552-6e90d6d84823,46,F,Commercial,0,0,1,true,0.178,true,Rising (next 20%)
+26a2abe5-b204-1dff-791f-7fd06c38a6d1,28,F,Commercial,0,1,0,true,0.177,false,Rising (next 20%)
+d6154158-246a-091b-8f61-b7c577285216,30,F,Commercial,0,1,0,true,0.177,false,Rising (next 20%)
+34ffbbb6-08c5-de08-eebb-3dd7f82373b0,40,F,Commercial,0,3,1,false,0.176,false,Rising (next 20%)
+3abd9004-9a59-3def-dc82-2089b1e5e77b,53,F,Commercial,0,2,1,true,0.176,true,Rising (next 20%)
+2d2c8cd2-088a-6e99-3da5-ae49c5663829,49,M,Medicare,0,3,1,true,0.176,false,Rising (next 20%)
+e89c9e74-c0fd-1ccb-0e82-6a1586d00b4a,32,M,Medicare,0,4,0,true,0.175,false,Rising (next 20%)
+4dbe6dc4-6eaa-ef37-6c36-361e9450ea93,54,F,Commercial,0,1,0,true,0.175,false,Rising (next 20%)
+2e06e0f7-a404-4867-d0e4-77feb8266004,62,M,Medicare,0,13,1,false,0.174,false,Rising (next 20%)
+4bf6be7b-5874-bea7-3fc4-3163b23ab15f,32,M,Medicaid,0,3,0,true,0.174,true,Rising (next 20%)
+7feffb5f-afdf-efd7-8154-781a71bb7d3e,49,M,Medicare,0,9,1,true,0.174,false,Rising (next 20%)
+aeb5310c-e6cd-8bc4-7a41-6353a077665a,66,M,Dual Eligible,0,5,0,false,0.174,true,Rising (next 20%)
+422fae36-7b33-0227-e965-ae09bd7a5369,28,F,Commercial,0,1,0,true,0.174,false,Rising (next 20%)
+03e733d5-721a-3740-11f3-dc05fc74c8ed,31,M,Commercial,0,3,0,true,0.174,false,Rising (next 20%)
+f83a2cb7-2c14-22aa-9e89-a9c4b234beea,31,F,Commercial,0,0,0,true,0.174,false,Rising (next 20%)
+caaacebd-08b5-5173-0d99-d3ec9c501467,62,F,Medicare,0,7,0,false,0.173,false,Rising (next 20%)
+0453bbfc-4b53-3293-2efc-f4efea973838,71,M,Medicare,0,10,1,false,0.173,true,Rising (next 20%)
+487ae407-4bd2-c5f2-fc8d-45690bd72a80,49,F,Commercial,1,6,2,false,0.173,false,Rising (next 20%)
+6de3fef5-24fc-b99d-09b3-cb149aee3178,37,M,Medicaid,0,3,0,true,0.173,true,Rising (next 20%)
+5374b21c-ef7f-23a2-351f-4bc950a6a52b,26,M,Medicaid,0,3,0,true,0.173,false,Rising (next 20%)
+828e8ab2-a22d-3b75-f493-83913cb18be1,47,F,Commercial,0,0,1,true,0.173,false,Rising (next 20%)
+f628febe-999e-b826-c680-35c12f0e2bcb,49,F,Commercial,0,7,1,false,0.172,false,Rising (next 20%)
+4af3abb2-f464-e928-d7a6-2c85a193a96d,63,M,Medicare,0,10,1,false,0.172,false,Rising (next 20%)
+5192e20e-2420-098e-811c-9caedf832fad,37,M,Medicaid,0,5,2,false,0.172,true,Rising (next 20%)
+96a88082-137f-80a2-5283-862ed9b56be9,57,F,Commercial,0,4,1,false,0.172,false,Rising (next 20%)
+5643b213-c9e7-0469-0346-7b92a03debac,24,F,Commercial,0,2,0,true,0.172,false,Rising (next 20%)
+ce490afe-d6ad-8b76-e2bb-b57623330cf6,76,F,Medicare,1,9,0,false,0.172,false,Rising (next 20%)
+965c2b60-f18a-a93f-2047-7434716406da,55,F,Commercial,0,5,0,false,0.172,false,Rising (next 20%)
+b45a3b41-3cb0-c47e-348f-a28c6f19555c,27,F,Commercial,1,1,0,false,0.172,false,Rising (next 20%)
+bec25def-e2ce-2fe3-4022-747293bc775e,62,M,Commercial,1,4,0,false,0.171,true,Rising (next 20%)
+fe48d5e4-5ca9-bce6-6ff3-fae869800922,63,M,Commercial,0,2,1,true,0.171,true,Rising (next 20%)
+0126af27-a469-d3f6-eed8-af0a1c46dad8,46,F,Commercial,0,0,1,true,0.171,false,Rising (next 20%)
+eb9ce0c2-31de-9596-8153-dfcdd9c997ae,38,M,Medicare,0,8,2,false,0.17,false,Rising (next 20%)
+35bc384f-9e87-79c6-772e-46139109a59f,62,F,Commercial,0,3,1,true,0.17,false,Rising (next 20%)
+ccfb0154-57af-31e5-fc0d-42ebd1ced4bd,22,F,Commercial,0,1,0,true,0.17,false,Rising (next 20%)
+6914df7a-d11c-992e-5d1a-cf62095b7cf9,23,F,Commercial,0,0,0,true,0.17,false,Rising (next 20%)
+8ef235bb-ac8d-55f3-e1b9-cbdf2224ab16,48,M,Medicaid,0,1,1,true,0.17,false,Rising (next 20%)
+c4dfd0a8-2337-866a-4b45-e115dca1e86d,54,M,Uninsured,0,3,0,false,0.169,false,Rising (next 20%)
+fc2798ca-88d0-3fbd-9e43-851cc245a201,64,F,Commercial,1,3,1,false,0.169,false,Rising (next 20%)
+c1846d6b-e378-b46f-ccff-7e0f6e8c3658,54,M,Commercial,0,8,0,true,0.169,false,Rising (next 20%)
+aa80a924-ac72-8f3a-2640-608bcb0d42d3,55,M,Uninsured,1,10,0,false,0.169,true,Rising (next 20%)
+34909a24-77ed-f1db-526b-cf751ce6c62c,77,M,Medicare,0,1,0,false,0.169,false,Rising (next 20%)
+d63c35f5-0a3d-efe6-1231-34a280569c0e,53,M,Medicare,1,4,0,true,0.168,false,Rising (next 20%)
+4efa793b-f8f8-e114-b7c7-45579d653442,25,F,Medicaid,1,2,0,true,0.167,false,Rising (next 20%)
+7d4093b3-1347-f99f-d300-8d6927cbde88,42,M,Commercial,1,3,0,false,0.167,false,Rising (next 20%)
+b329ef8d-a18b-a62f-aa37-7b5ca4504f4b,61,M,Medicare,1,7,1,false,0.167,false,Rising (next 20%)
+14d5e8cb-a3c4-0491-7c53-4c346a2f7e43,56,M,Medicare,1,11,0,false,0.166,false,Rising (next 20%)
+adb95964-06a4-c40a-c9fd-da888d569a2d,40,F,Commercial,0,1,0,true,0.166,false,Rising (next 20%)
+2a098ee4-b472-5a9e-6f0b-d5723fb868f2,30,F,Commercial,0,0,0,true,0.166,false,Rising (next 20%)
+f5c6dcf6-8cd5-0a06-779f-28effec87678,55,F,Commercial,0,2,0,true,0.166,false,Rising (next 20%)
+5e9a75e8-6ddb-fa9b-cda1-81757737c4c7,91,F,Medicare,0,6,0,false,0.165,true,Rising (next 20%)
+c856aedf-16a4-3947-b7d5-bdede7c51657,59,F,Medicare,0,6,1,false,0.164,false,Rising (next 20%)
+5e3da4fa-93f1-9856-5888-f6c5d959c7ff,63,F,Commercial,0,6,0,false,0.164,false,Rising (next 20%)
+941c6de6-af3e-7daf-c4a3-45c87e2ff430,29,M,Commercial,0,5,1,false,0.164,true,Rising (next 20%)
+bb027d17-77f5-aee4-3be9-09e908a848a1,54,M,Commercial,0,1,0,true,0.163,false,Rising (next 20%)
+3deb75e9-7ebb-bd33-0c89-e02db3c1c167,33,M,Commercial,0,1,0,true,0.163,false,Rising (next 20%)
+aa5eb6df-53f5-3ee5-d43a-c5c0272ea983,18,M,Commercial,0,0,0,true,0.163,true,Rising (next 20%)
+36a22334-42e4-d3c9-6896-4707818caeea,25,M,Medicaid,0,3,0,true,0.162,true,Rising (next 20%)
+12e72ee6-8b43-3f6b-3713-707e8f8a9a30,50,M,Medicare,0,4,0,true,0.162,false,Rising (next 20%)
+455e2526-6bdc-71f0-80b7-f72ff05435b7,24,M,Commercial,1,2,0,false,0.162,false,Rising (next 20%)
+5177e7bc-f4f0-7b30-309a-b80013d29d90,37,F,Commercial,0,1,0,true,0.162,false,Rising (next 20%)
+fde84cea-a6d5-39e3-d6cb-13212e6c89a9,41,M,Commercial,0,3,1,false,0.162,false,Rising (next 20%)
+ac679580-bd65-fc87-efa4-2a78d8b0102f,74,M,Medicare,1,8,2,false,0.162,false,Rising (next 20%)
+61c5163b-b872-703e-0b5d-4085a3491289,22,F,Commercial,0,2,0,false,0.162,true,Rising (next 20%)
+736d6205-a1eb-091f-6c97-ddb58fb39de4,34,M,Medicare,0,7,1,false,0.161,true,Rising (next 20%)
+2f08bddf-ff57-70bd-afdf-f46007bee6d3,34,M,Commercial,0,3,0,false,0.161,true,Rising (next 20%)
+19432449-afef-e532-a174-94d4998d22fb,48,F,Commercial,0,6,2,false,0.161,false,Rising (next 20%)
+39bc3cd4-7de3-c106-1474-535f41901738,30,M,Commercial,1,2,0,false,0.161,false,Rising (next 20%)
+e19bfd73-4719-6d23-ef9e-1f469b520c21,73,M,Medicare,0,13,0,false,0.161,false,Rising (next 20%)
+d63d9d64-3bf7-0016-30c0-e0e02d2c6265,19,F,Uninsured,0,0,0,true,0.161,false,Rising (next 20%)
+b9843511-d57c-c798-1973-6128f44be1a8,47,M,Commercial,0,0,1,true,0.161,false,Rising (next 20%)
+2f6a8fd0-a41d-4cac-822d-32f97963ff19,58,M,Uninsured,0,5,1,false,0.16,false,Rising (next 20%)
+83e6289f-e56b-c7c7-904a-75089d37474a,33,F,Uninsured,0,2,0,false,0.16,false,Rising (next 20%)
+51bd070b-879c-b7e9-f7da-d9288a109f7d,76,F,Medicare,0,5,0,true,0.16,false,Rising (next 20%)
+8354b4ed-e2bd-f550-55e2-2f95c2628261,18,M,Commercial,0,2,0,false,0.16,false,Rising (next 20%)
+520b24a0-cbeb-d2c8-da9f-dca658220721,106,M,Dual Eligible,0,10,0,false,0.16,false,Rising (next 20%)
+1746240e-c6cd-a5fb-6817-40132201c7fa,19,F,Commercial,0,0,0,true,0.16,false,Rising (next 20%)
+19aaec98-0e39-87a2-7141-0b3885e88f7a,67,M,Medicare,0,10,1,false,0.159,false,Rising (next 20%)
+2c09d208-cc81-0c59-5dce-f7f4873ffa96,34,M,Medicaid,0,2,0,true,0.159,false,Rising (next 20%)
+8c100a7c-de7c-81df-de62-9b086f2b98b7,53,F,Commercial,1,2,1,false,0.158,false,Rising (next 20%)
+5d848a74-8af5-37db-9cd0-6e8705434d07,43,M,Commercial,1,2,0,false,0.158,true,Rising (next 20%)
+4017fec5-8837-eb9f-5f7b-3c66eaa22215,42,M,Commercial,0,0,0,true,0.158,false,Rising (next 20%)
+a1d5d70d-07fa-4f81-4277-468537d44ce9,42,F,Medicaid,0,3,1,true,0.157,false,Rising (next 20%)
+e32605eb-6a45-3b56-8cba-31dc2acb6f0e,63,M,Commercial,2,8,0,false,0.157,false,Rising (next 20%)
+872d4fb6-266f-7c35-2425-39441c5a0bba,23,F,Commercial,0,1,0,false,0.157,true,Rising (next 20%)
+7c913488-8c54-7aa0-a452-83dbc3ad8377,52,M,Commercial,0,2,0,true,0.157,false,Rising (next 20%)
+c2ee3b86-dd5f-2859-858c-02808c05d237,26,M,Commercial,0,1,0,true,0.157,true,Rising (next 20%)
+6196cb53-2897-f6fd-105a-721e6703d465,42,M,Uninsured,0,2,0,true,0.157,false,Rising (next 20%)
+81ca9dd4-ee80-2d0a-2bfa-f16b67413a81,73,M,Medicare,0,9,1,false,0.156,true,Rising (next 20%)
+dc5e5a7d-2a2a-fe03-1c60-e2acee8cbfb6,40,M,Medicaid,0,3,0,true,0.156,true,Rising (next 20%)
+f913f5af-0fd8-d9db-39ea-79626ec1c876,74,F,Medicare,0,11,2,false,0.156,false,Rising (next 20%)
+3921b8e6-ecee-d231-8e33-8a4c20ed7af9,18,F,Medicare,1,5,0,false,0.156,false,Rising (next 20%)
+24279c3b-8088-78d2-7e3d-316a7591dde8,29,F,Commercial,0,1,0,true,0.156,false,Rising (next 20%)
+6b21090a-38b4-58a0-c3a1-d253931550bd,29,M,Commercial,0,1,0,true,0.156,true,Rising (next 20%)
+598c8e88-a563-6ad6-4fba-85db856c839c,71,F,Medicare,1,2,1,false,0.156,false,Rising (next 20%)
+36c7cbbc-946b-9b7d-0ad7-72291693beee,55,M,Medicare,0,9,2,false,0.155,false,Rising (next 20%)
+4456bd10-e053-ca8a-ebd7-fe2dc0443b7e,55,M,Medicare,0,9,1,false,0.155,false,Rising (next 20%)
+dc42e3c6-f33e-2141-7a78-ad99cee3c2ae,20,M,Commercial,0,2,0,false,0.155,false,Rising (next 20%)
+5c92da33-609b-04d4-95cb-701331997783,29,F,Commercial,0,0,0,true,0.155,false,Rising (next 20%)
+1765429d-ba7f-5d86-0069-5b3f2d535640,83,F,Medicare,0,7,0,false,0.154,true,Rising (next 20%)
+e0d7ad35-c186-3f72-7373-aea1a94ea487,48,F,Commercial,0,2,2,true,0.154,false,Rising (next 20%)
+61f0d3ca-b4c9-52e3-eef6-e52d42080cdd,54,M,Commercial,0,2,0,true,0.154,false,Rising (next 20%)
+e731f47b-4034-da78-90a5-b34e38595eaf,26,F,Medicaid,0,1,0,true,0.154,false,Rising (next 20%)
+793c25b4-4808-3ddf-1dd1-36c9aafe5d21,47,M,Commercial,0,2,1,true,0.154,true,Rising (next 20%)
+754d8162-a1f2-127e-f2d1-4da7dba59146,41,F,Medicaid,0,0,0,true,0.153,false,Rising (next 20%)
+f41ff1c9-5d6f-81e1-3a02-a2489084c0cb,49,F,Commercial,1,2,1,false,0.153,false,Rising (next 20%)
+c4a5de61-ef43-c759-8c69-51264b9dfac2,50,F,Medicaid,0,3,1,true,0.153,false,Rising (next 20%)
+1508a0e5-67d3-1dfd-c552-5342171d8306,48,F,Medicaid,0,3,1,true,0.152,false,Rising (next 20%)
+929fdbf9-4801-37e1-fd1f-929a91f61e49,41,F,Commercial,0,1,0,true,0.152,false,Rising (next 20%)
+2bbd0974-5a0c-5ea0-a0fa-50d5bb01d3e4,55,M,Uninsured,0,2,0,true,0.152,false,Rising (next 20%)
+a8a1a9c6-8d8b-5126-2112-e90dfa734611,19,M,Commercial,0,0,0,true,0.152,false,Rising (next 20%)
+351bf4e1-3a6b-4f06-5b67-b4ee093df8e9,84,F,Medicare,0,7,0,false,0.152,false,Rising (next 20%)
+bd73e84f-b497-4420-2a9e-b1dd840ab843,32,M,Uninsured,0,3,0,false,0.152,false,Rising (next 20%)
+bee40e79-ea4b-86fb-8c45-4b0928838d36,56,M,Commercial,0,3,0,true,0.152,false,Rising (next 20%)
+505be3d9-3862-29d6-80c7-a26f730e0ce8,40,M,Commercial,0,0,0,true,0.152,false,Rising (next 20%)
+c3b1d352-f9e0-b763-0e1a-f6ca172cd029,44,M,Uninsured,0,2,0,true,0.151,false,Rising (next 20%)
+761c2ed0-21b7-dcc5-b31f-ae59a2691ec1,54,M,Commercial,0,2,0,false,0.151,false,Rising (next 20%)
+7eda3b1b-f685-ff01-c0c1-032084c7da48,27,M,Commercial,0,1,0,true,0.151,false,Rising (next 20%)
+12861e53-c53d-3b3d-bc17-644c44f74a5f,25,F,Commercial,2,0,0,false,0.15,false,Rising (next 20%)
+19bb9427-1101-2cda-904b-5e385f4aeb23,25,M,Medicare,0,4,0,true,0.15,false,Rising (next 20%)
+fc781693-6f99-c0ef-f866-1810331b8d08,51,M,Commercial,0,3,0,true,0.15,false,Rising (next 20%)
+21cb574d-8aa1-8541-ac55-68f86795dee6,26,M,Commercial,0,0,0,true,0.15,false,Rising (next 20%)
+589f53e8-3ef8-cde3-5d11-056401e06832,43,M,Commercial,0,2,0,true,0.149,false,Rising (next 20%)
+dd2bd41d-06a2-80a7-10b0-31aa720b5098,25,F,Commercial,0,0,0,true,0.149,false,Rising (next 20%)
+7d201507-3df1-1a23-50cf-e91ace2da0af,62,F,Commercial,0,11,1,false,0.149,false,Rising (next 20%)
+b42e9456-b4e1-e364-95ec-9aa0fd607c70,44,F,Commercial,0,1,0,true,0.149,false,Rising (next 20%)
+eaf7fec5-1a8d-f699-34d6-37a890e5139d,34,F,Commercial,0,3,0,true,0.149,false,Rising (next 20%)
+aafc7b4e-0170-f7a5-4ded-c9447febc8f4,51,F,Medicaid,0,6,1,false,0.148,false,Rising (next 20%)
+e5a16b2b-d446-7b10-3bc4-123e963bffd8,42,F,Commercial,0,2,0,false,0.148,false,Rising (next 20%)
+bbddf5f5-3001-3c54-5537-28aa818ebb2f,83,M,Dual Eligible,0,5,0,false,0.148,false,Rising (next 20%)
+6ca21b03-816e-8808-4b36-a83abddc09a4,61,F,Medicaid,0,3,0,true,0.148,true,Rising (next 20%)
+9618b67f-a3f5-d203-6253-8decd9e97e5f,49,F,Uninsured,0,10,1,false,0.148,true,Rising (next 20%)
+359e3dbe-3eb2-f8ad-1101-39fa7462aee2,30,M,Commercial,0,1,0,true,0.148,false,Rising (next 20%)
+4cbc0e88-f870-d21a-0c6d-4dea825c5a71,34,M,Commercial,0,0,0,true,0.148,false,Rising (next 20%)
+a988bb66-05f9-7645-713f-b55a398e46e3,26,M,Commercial,0,0,0,true,0.148,false,Rising (next 20%)
+f4e17327-2d2a-10af-5afa-d24c6e4a45e5,45,F,Medicaid,0,0,0,true,0.148,false,Rising (next 20%)
+ddd400ae-be91-aa7d-76aa-a2dfa1cef32b,61,M,Commercial,0,3,1,true,0.147,false,Rising (next 20%)
+47b7dbd0-f01d-5e88-fe88-a7cd4ca07679,37,M,Uninsured,0,3,1,false,0.147,true,Rising (next 20%)
+102ce685-32cd-8a9f-d42e-823daff4a9bd,20,F,Commercial,0,1,0,false,0.147,false,Rising (next 20%)
+387f90ae-8393-d71f-0da9-685b4baf8857,21,M,Medicaid,0,1,0,false,0.147,false,Rising (next 20%)
+1f5e460e-a26c-0249-60be-12108a34dfcb,45,M,Medicaid,0,1,0,true,0.147,true,Rising (next 20%)
+8454844c-17f3-5fa7-578a-b55cfb05a419,64,F,Commercial,1,4,0,false,0.147,true,Rising (next 20%)
+a610c31d-33aa-ab24-b15d-2887ef22f31a,83,M,Medicare,1,11,0,false,0.147,false,Rising (next 20%)
+10c22f29-deea-9b07-44ff-6648cfb37036,49,F,Commercial,0,0,1,true,0.147,false,Rising (next 20%)
+5ad422de-7167-f7c5-d0ab-b686fc25be99,27,M,Commercial,0,2,0,true,0.146,false,Rising (next 20%)
+25c733b1-fb13-5def-a75f-11524f580c9f,23,F,Uninsured,0,0,0,true,0.146,false,Rising (next 20%)
+55f71ba3-7575-5c2d-e74f-130a748207a3,69,F,Medicare,0,10,2,false,0.146,false,Rising (next 20%)
+d673cf11-4786-70f9-ef5c-bc2c4ad8d201,42,M,Commercial,0,3,0,true,0.146,false,Rising (next 20%)
+6c810f47-c1ce-19d5-d9c1-d198bd7c1f9b,21,M,Commercial,0,0,0,true,0.146,false,Rising (next 20%)
+c15baf72-138a-3cd4-337c-793a89b5bcc0,44,M,Commercial,0,4,0,false,0.145,false,Rising (next 20%)
+9a561d0e-6bda-c385-183c-37fe24cc42cc,59,F,Dual Eligible,0,5,1,false,0.145,true,Rising (next 20%)
+d2146ea6-476a-1ae5-3386-2fd5368297a7,32,F,Medicaid,0,1,0,true,0.145,false,Rising (next 20%)
+63518bf6-2606-9d4e-aa91-ac320b4f4a78,38,M,Commercial,0,0,0,true,0.145,false,Rising (next 20%)
+72260deb-4fbb-2389-4a68-b2052efdd658,24,F,Commercial,0,0,0,true,0.145,false,Rising (next 20%)
+e43f4fa7-4c2e-e132-310e-665a7b1dabcb,23,M,Commercial,0,0,0,true,0.145,false,Rising (next 20%)
+c8ed5439-96ea-3417-dfd6-23b05abf98e4,22,M,Medicare,0,1,0,true,0.144,false,Rising (next 20%)
+51164902-8454-570e-65d1-619ecb766d05,50,F,Commercial,1,1,0,false,0.144,false,Rising (next 20%)
+6d16511b-0783-7c65-b930-05e20b5d4725,46,M,Medicaid,0,2,2,true,0.143,false,Rising (next 20%)
+04b2b247-f076-c4e0-4638-5530758a184d,70,M,Dual Eligible,1,6,0,false,0.143,false,Rising (next 20%)
+83fcc289-1eaa-a9b6-fb8f-d075eb46d822,26,F,Commercial,0,0,0,true,0.143,true,Rising (next 20%)
+8bc636bb-0a59-6e6f-393e-2bd8acd7ef93,51,F,Medicare,0,3,1,false,0.142,false,Rising (next 20%)
+d3727ff2-5d7b-347f-d78c-edc4323cf890,38,F,Medicaid,0,0,0,true,0.142,false,Rising (next 20%)
+4b3f60a8-4081-0123-cfdd-d265aaefd1eb,21,M,Commercial,0,1,0,false,0.142,false,Rising (next 20%)
+791a8705-dbcb-7749-bd87-b3376e584c42,25,M,Commercial,0,1,0,false,0.142,true,Rising (next 20%)
+3e29f227-88a8-06be-dc25-7c5b9f4d59e5,24,M,Commercial,0,0,0,true,0.142,false,Rising (next 20%)
+4880f254-3512-ad4c-0138-65340767f9d2,20,M,Commercial,0,0,0,true,0.142,false,Rising (next 20%)
+9fec6b77-e456-1d4a-46b4-684ed0002c44,46,M,Commercial,0,1,1,true,0.142,false,Rising (next 20%)
+dd7b8a1e-8046-aad4-4a7d-cecc48bc4749,38,M,Commercial,0,6,2,false,0.141,true,Rising (next 20%)
+ca3eb2d5-aa4d-9d92-1c55-6cbeba4ff952,26,M,Uninsured,0,0,0,true,0.141,false,Rising (next 20%)
+87632556-3613-2820-4953-8dc95030f34f,26,F,Medicaid,0,0,0,true,0.141,false,Rising (next 20%)
+5c8956ba-3359-155e-a6f4-0e1d5bc43a77,61,F,Commercial,0,7,1,false,0.141,false,Rising (next 20%)
+a62a973c-bbfe-c7a1-cd43-88bb0096a271,51,M,Commercial,0,4,1,false,0.141,false,Rising (next 20%)
+d024f203-0d46-477e-6c9b-bfd6573c1493,24,F,Commercial,0,0,0,true,0.141,false,Rising (next 20%)
+4bf9098f-a62e-60f9-a402-67fe989c84d6,48,M,Commercial,0,2,1,true,0.14,false,Rising (next 20%)
+c958c27a-fa27-59fe-cba1-b96c141930b1,78,M,Dual Eligible,0,4,0,false,0.14,false,Rising (next 20%)
+30f08e6a-ece7-b4f0-494d-007189f9bb85,32,M,Commercial,0,1,0,true,0.14,false,Rising (next 20%)
+6bd8b4d0-ea64-02dd-771d-15c5a7865865,24,M,Commercial,0,0,0,true,0.14,false,Rising (next 20%)
+45a27a8d-0e39-f284-01c5-00563cd82ea1,54,M,Commercial,0,4,0,true,0.139,false,Rising (next 20%)
+36b3d329-c1e5-8c68-c173-e1aa0ac569ec,20,F,Uninsured,1,0,0,false,0.139,false,Rising (next 20%)
+c089f80e-c887-a33f-9195-cf1cefbf16ad,18,F,Commercial,0,0,0,true,0.139,false,Rising (next 20%)
+bcec5d06-fef8-2b77-69a9-332c43bc2233,55,F,Commercial,1,6,1,false,0.139,true,Rising (next 20%)
+6f6bbeca-1c11-2e6b-43ca-ca39cdef204a,101,F,Medicare,0,7,0,false,0.139,false,Rising (next 20%)
+37096919-2ce6-bbeb-f7c1-1907c2640f2b,23,M,Commercial,1,0,0,true,0.139,false,Rising (next 20%)
+3ac60cc0-6d0a-3f39-d431-dd0f660c7406,23,M,Medicaid,0,1,0,false,0.138,false,Rising (next 20%)
+5f3b723a-68a1-d4ff-9b2e-e8a14e0b27b0,78,F,Medicare,0,8,0,false,0.138,false,Rising (next 20%)
+d1199560-2dc6-128e-aa2b-63c53f3135bc,53,M,Commercial,0,2,2,true,0.138,true,Rising (next 20%)
+d9fab7f4-f057-f10b-8268-a8795e24ed05,62,M,Medicare,0,5,1,true,0.138,false,Rising (next 20%)
+2caefad2-5d5c-2c45-cff6-6fbf86545bba,49,M,Commercial,0,7,1,false,0.138,false,Rising (next 20%)
+96122ec2-49f6-ac4e-4153-f42b5a14b1cf,101,F,Medicare,0,11,0,false,0.138,false,Rising (next 20%)
+7e2e8efa-31c7-a59b-45bb-47b05e5c2632,60,F,Dual Eligible,1,1,0,false,0.138,false,Rising (next 20%)
+01986319-54e6-598a-f477-19f809873465,57,M,Medicare,0,5,0,true,0.138,false,Rising (next 20%)
+515665c4-2c47-85c1-0f37-8e910035ab4c,23,F,Commercial,0,0,0,true,0.138,false,Rising (next 20%)
+7b525705-756a-ed8f-e09d-ae152ef151a2,59,M,Commercial,0,1,1,true,0.138,false,Rising (next 20%)
+1e00f4b9-9e28-52cb-a096-db4a1f2b96a0,36,M,Commercial,0,0,0,true,0.137,false,Rising (next 20%)
+cee22a98-9e39-58be-06d2-fa2895aa83ff,74,F,Medicare,0,7,2,false,0.137,false,Rising (next 20%)
+e3dfca2d-d7eb-76f0-bd32-0a2623c5642d,71,F,Medicare,0,5,0,false,0.137,false,Rising (next 20%)
+1f720def-1bd4-df8f-b3cb-15d207ab121d,37,M,Commercial,0,2,0,false,0.137,true,Rising (next 20%)
+affb0758-feb8-4754-2fc9-15b54d6b398b,70,M,Medicaid,0,5,0,true,0.137,false,Rising (next 20%)
+34548186-03af-72a7-ffc9-88a6574088e6,44,F,Commercial,0,0,0,true,0.137,false,Rising (next 20%)
+2922e025-a627-0768-6d28-9f44bf0aa0d4,84,F,Medicare,0,4,0,false,0.136,false,Rising (next 20%)
+5606e96d-6084-44e1-c76e-e407e0532e9b,89,F,Medicare,1,6,0,false,0.136,false,Rising (next 20%)
+e3d5826d-c1f1-5dee-6f1a-e3ffc25f5396,27,M,Medicaid,0,1,0,true,0.136,false,Rising (next 20%)
+77f1c66f-7b83-5268-1f74-cedc45806fa0,29,M,Commercial,0,0,0,true,0.136,false,Rising (next 20%)
+f1d90bf7-8364-8c43-dd25-f86c894b9154,24,M,Commercial,0,0,0,true,0.136,false,Rising (next 20%)
+fbbe2350-6771-9767-0039-40d6264ae70d,19,F,Commercial,0,0,0,true,0.136,false,Rising (next 20%)
+7227ff56-fe7b-7235-f9ee-ab41856fa2ad,69,F,Dual Eligible,0,3,1,false,0.135,false,Rising (next 20%)
+956f4db2-2947-3a5f-5545-1f41047cafa0,41,F,Commercial,1,1,0,false,0.135,false,Rising (next 20%)
+866d23e9-e369-2a73-7419-45cdb1373ce7,45,M,Commercial,0,3,0,false,0.135,true,Rising (next 20%)
+19d11b13-231e-035e-9097-858507e4cac2,88,F,Medicare,0,3,0,false,0.135,false,Rising (next 20%)
+9bfe7b12-c65a-6723-a89c-439ce60ce6f0,52,M,Commercial,0,7,0,false,0.135,false,Rising (next 20%)
+d9e462ed-9b9a-4ecf-14f5-ce353745920c,27,M,Commercial,0,0,0,true,0.135,false,Rising (next 20%)
+271af137-6ac7-08bf-252c-872f41b9e646,51,F,Medicare,0,5,1,false,0.135,false,Rising (next 20%)
+d282c4eb-70e9-d9a9-69c9-1ce1aa6bef93,39,F,Commercial,0,1,0,false,0.135,false,Rising (next 20%)
+11487152-d64b-d12d-9c53-3f32a12a24c8,34,F,Commercial,1,1,0,false,0.135,false,Rising (next 20%)
+6ac03fcb-3005-5d6b-6258-85841f3b65e4,27,M,Uninsured,0,0,0,true,0.135,false,Rising (next 20%)
+eec4d4f2-e003-a909-128a-ddadbdec4412,52,F,Uninsured,0,0,0,true,0.135,false,Rising (next 20%)
+b29d1f23-f89f-e67a-02ba-1cbaa88b6300,63,M,Commercial,0,7,2,false,0.134,false,Rising (next 20%)
+edcf2997-99aa-bb11-c061-c0bcb31fed6f,34,F,Medicaid,1,2,0,false,0.134,false,Rising (next 20%)
+778decd6-00b3-9303-9a62-e88721a469a1,37,M,Commercial,0,1,0,true,0.134,false,Rising (next 20%)
+6c56f201-20c5-05fc-0fdd-c613ce93b885,23,F,Commercial,0,0,0,true,0.134,false,Rising (next 20%)
+749e7e34-a7fb-11e9-a049-5636a27e3574,20,F,Commercial,0,0,0,true,0.134,false,Rising (next 20%)
+aedee2e0-23a0-5435-38a5-9898960d99b8,47,M,Medicaid,0,0,1,true,0.134,true,Rising (next 20%)
+9175679b-b85f-3374-d69f-7e7177c364ea,57,F,Commercial,0,8,0,false,0.133,false,Rising (next 20%)
+3b969c93-07cb-1f15-28b3-306a5a90677b,52,M,Commercial,0,2,0,false,0.133,false,Rising (next 20%)
+29a638b7-ee8f-0f2e-d5c8-09af96f1a930,73,M,Medicare,0,12,0,false,0.133,false,Rising (next 20%)
+d361a767-6909-d449-a51e-6eb28329cd5e,31,F,Commercial,0,1,0,false,0.133,false,Rising (next 20%)
+b6dd7eee-0d26-421e-e74b-9a12d568da71,56,M,Commercial,0,6,1,false,0.133,false,Rising (next 20%)
+0a5d2b5f-276d-4afa-09b5-0604e91570f7,22,M,Medicaid,0,0,0,true,0.133,false,Rising (next 20%)
+95080439-080d-238e-c9a1-9d1e390d0d8a,26,M,Commercial,0,0,0,true,0.133,false,Rising (next 20%)
+40d92544-6fcb-75cb-b41a-ec97ee6f36bc,75,M,Medicare,0,8,0,false,0.132,false,Rising (next 20%)
+36f895c5-cf8f-4086-b2bc-7409d137c0fc,68,M,Medicare,0,8,0,false,0.132,false,Rising (next 20%)
+643af7dc-5eff-4a6e-d986-a9ac6c435211,20,M,Medicaid,0,1,0,false,0.132,false,Rising (next 20%)
+befec1e1-fa9f-eb77-213e-8bf6f8f88c3d,34,F,Medicaid,0,2,0,false,0.132,false,Rising (next 20%)
+6ee51ca0-a3c0-46c9-1eec-1ae1d307c5d2,66,M,Medicare,0,5,0,true,0.132,false,Rising (next 20%)
+0f52457a-32da-8b47-ec54-77a345990a2f,22,M,Medicare,0,1,0,true,0.132,false,Rising (next 20%)
+b2a15b27-ff91-f0eb-d190-8d35817fd270,31,F,Medicaid,0,1,0,true,0.132,false,Rising (next 20%)
+23a5eee3-ef92-bbc3-678b-176b23403d40,47,M,Commercial,0,7,1,false,0.131,false,Rising (next 20%)
+6d835be7-cf4a-42fc-8329-73c6db3c0836,32,F,Medicaid,0,2,0,false,0.131,false,Rising (next 20%)
+f54cec66-1102-d0de-86ae-b2ff95030214,26,F,Medicaid,0,1,0,false,0.131,false,Rising (next 20%)
+bc7a57a5-723b-b967-349f-e125f6fe9684,19,M,Commercial,1,1,0,false,0.131,false,Rising (next 20%)
+f39c6fc1-4ea2-9d9d-be10-d75ca1368a1b,34,F,Commercial,0,1,0,true,0.131,true,Rising (next 20%)
+1f63e0e2-d573-0aba-e7f2-5dc273498af5,32,F,Medicaid,0,1,0,true,0.131,false,Rising (next 20%)
+6902c7bb-f99a-2c29-c42f-4cb413f0bad6,29,M,Commercial,0,0,0,true,0.131,false,Rising (next 20%)
+d660127d-13fc-66f1-1ae1-a304975a74aa,44,M,Medicare,1,4,0,false,0.13,false,Rising (next 20%)
+cde60205-8c91-8b41-0d93-26a6c806be38,30,F,Commercial,0,1,0,false,0.13,false,Rising (next 20%)
+e62e872e-24c2-eb3a-80d2-5c15dc81ca92,26,F,Commercial,0,0,0,true,0.13,true,Rising (next 20%)
+d82243bb-4c73-2de5-42c1-dd2bf9c5b597,21,M,Commercial,0,1,0,false,0.13,false,Rising (next 20%)
+b8f29fe8-6cf8-2392-ff35-2f42a03e9883,21,F,Commercial,0,3,0,false,0.13,false,Rising (next 20%)
+c63eff13-f3ce-594c-efa3-9806d73f700c,77,M,Medicare,0,11,0,false,0.13,false,Rising (next 20%)
+f09bda7a-22fd-8e74-33f3-1e3576ed2b44,39,F,Commercial,0,0,0,false,0.13,false,Rising (next 20%)
+aa67c477-cb84-104b-e197-147d7a011348,30,M,Commercial,0,2,0,false,0.129,false,Rising (next 20%)
+47bcdce7-cea0-0382-dea0-6518a115b7b5,43,M,Uninsured,0,3,0,true,0.129,false,Rising (next 20%)
+bc81cea5-239b-c997-5ebc-fe505a7a135e,29,M,Uninsured,0,1,0,true,0.129,false,Rising (next 20%)
+c55c336e-985e-ac5f-aace-6577657c193b,36,M,Commercial,0,1,0,true,0.129,false,Rising (next 20%)
+2503f21b-df26-a5c8-cda1-1f0386991ca7,29,M,Commercial,0,2,0,false,0.129,false,Rising (next 20%)
+7da85e06-eb35-46e1-4d82-81005337699c,35,M,Commercial,0,5,0,false,0.129,false,Rising (next 20%)
+33704fef-efb6-c12c-9f93-8ff531a70a41,36,F,Commercial,0,1,0,false,0.129,false,Rising (next 20%)
+bac9901c-9126-07e8-cfcd-18543a3f140c,35,F,Commercial,0,0,0,true,0.129,false,Rising (next 20%)
+265323f0-0943-a199-743c-a72aa8e15a45,82,M,Medicare,0,11,0,false,0.128,false,Rising (next 20%)
+454c5efb-eb35-d0f6-72f8-92b544222ebc,26,F,Commercial,1,0,0,false,0.128,false,Rising (next 20%)
+9a574a84-f76d-12dc-0cde-7690f012514a,42,F,Commercial,0,1,0,true,0.128,false,Rising (next 20%)
+e2501f60-4695-e36d-b2d9-66fe42b5251c,39,F,Commercial,0,2,0,false,0.127,false,Rising (next 20%)
+98d4a663-002f-659f-f072-f7d9cc98d573,52,M,Dual Eligible,0,7,0,false,0.127,false,Rising (next 20%)
+8f9b0803-082c-c140-4991-446433a12e56,21,F,Commercial,1,0,0,false,0.127,false,Rising (next 20%)
+6e402d7c-213e-7555-d861-bbf9dd690d0e,47,M,Commercial,0,1,1,false,0.127,false,Rising (next 20%)
+bb303222-4028-c8ba-c5ce-b3d7ce919a86,50,M,Medicare,1,3,1,false,0.127,true,Rising (next 20%)
+96e4667e-d93d-217e-aef4-a83a2cba2ef1,40,F,Medicaid,0,1,0,false,0.127,true,Rising (next 20%)
+b6d46abe-b2e1-5302-e494-a09a93ce5434,71,M,Medicare,1,7,0,false,0.127,false,Rising (next 20%)
+a088960e-5d03-c6bc-6c87-83f17c0efb09,39,M,Commercial,0,7,1,false,0.126,false,Rising (next 20%)
+06a762e8-e6a0-f3da-f3ab-db8891ddea1f,62,M,Commercial,0,7,1,false,0.126,false,Rising (next 20%)
+5f657672-f88e-989f-e001-1dc53f969ed1,55,F,Dual Eligible,1,3,0,false,0.126,false,Rising (next 20%)
+13a18314-3830-145e-4d00-3949de34621e,74,F,Dual Eligible,0,6,0,false,0.126,false,Rising (next 20%)
+cff3b887-38dd-7d7f-aaff-1449f6a3c350,74,M,Medicare,0,5,1,false,0.126,true,Rising (next 20%)
+d76985da-18b3-aa5d-d7ea-3a02a0951a87,32,F,Medicare,1,3,0,false,0.126,false,Rising (next 20%)
+aca42d67-45fb-9077-5ee9-91c43381cf05,72,M,Medicare,0,9,1,false,0.125,false,Rising (next 20%)
+424d0a27-79df-45ee-b961-c4b63b2fec47,22,F,Commercial,1,1,0,false,0.125,false,Rising (next 20%)
+62152bfe-8124-751a-f7db-e320cd66211f,20,F,Commercial,1,0,0,false,0.125,false,Rising (next 20%)
+a8ec0d7e-b88a-5b40-f975-9eb738e8d719,75,F,Dual Eligible,0,7,1,false,0.125,false,Rising (next 20%)
+02033ef6-2e7f-1560-edf6-5066736cce86,76,M,Medicare,0,9,0,false,0.125,false,Rising (next 20%)
+307966cc-34e1-e48c-8ef1-74365535c1ef,29,F,Commercial,0,2,0,false,0.125,true,Rising (next 20%)
+609231b1-1265-e80f-9760-44034d72a13e,30,M,Commercial,0,2,0,false,0.125,false,Rising (next 20%)
+a690d8b2-57ea-212d-d247-484c8f57dc12,70,F,Medicare,0,8,1,false,0.124,false,Rising (next 20%)
+758732ce-f9c4-8cb8-5a4d-d415ec84d604,41,F,Uninsured,1,3,0,false,0.124,false,Rising (next 20%)
+2fc358d4-a205-5ab8-2cac-c2b25da242a5,94,F,Dual Eligible,0,5,0,false,0.124,false,Rising (next 20%)
+a536826a-a824-c586-4a69-af14f67f26c8,46,F,Uninsured,3,2,1,false,0.124,false,Rising (next 20%)
+b1f39937-f3ad-c2ff-6865-04cb9d671101,57,F,Uninsured,1,2,1,false,0.124,false,Rising (next 20%)
+9dc02e0c-624b-81c6-4648-829d5074bf90,76,F,Medicare,0,4,0,false,0.124,false,Rising (next 20%)
+7d02c16d-3066-94e2-7aed-3d4c593206be,19,M,Medicaid,0,0,0,true,0.124,false,Rising (next 20%)
+43cfc3f6-0984-3dc2-6760-03747a234dbb,47,F,Commercial,0,2,1,false,0.124,false,Rising (next 20%)
+4ffffc7b-9a21-d248-a28c-010114b8ef9f,66,M,Medicare,0,8,1,false,0.123,false,Rising (next 20%)
+86488c32-fd71-0b96-b021-17da56dca361,39,M,Commercial,1,2,0,false,0.123,false,Rising (next 20%)
+b4ee8126-fee1-bb77-2cda-f0144bb595c6,25,M,Commercial,0,2,0,true,0.123,true,Rising (next 20%)
+b9749922-107e-4949-ff95-fcfc019b7223,50,F,Medicaid,0,0,0,true,0.123,false,Rising (next 20%)
+1476d15d-eaee-a45a-d6f7-d1702871d826,38,M,Commercial,0,1,1,true,0.123,false,Rising (next 20%)
+38793bd6-9217-56cf-34a5-f1915137d903,51,M,Commercial,0,6,2,false,0.123,false,Rising (next 20%)
+6e0dea40-e2fc-2370-075a-56cfae531f98,23,F,Commercial,1,1,0,false,0.123,false,Rising (next 20%)
+6d425337-3795-1a77-af6e-1c1f0aee2cc1,73,F,Medicare,0,7,0,false,0.123,false,Rising (next 20%)
+8c8ada4e-c0d8-4abb-5cf8-adecff77bd35,23,F,Commercial,1,0,0,false,0.123,false,Rising (next 20%)
+483e25a3-67ac-6cf9-d374-28ee0adc2035,54,M,Uninsured,0,2,0,true,0.122,false,Rising (next 20%)
+b9aec9d8-f0e8-9a7f-661e-bf5496a0117d,34,M,Commercial,0,0,0,true,0.122,false,Rising (next 20%)
+0d9d9f81-b2ab-7b08-6614-300d15c6f992,57,F,Commercial,0,4,1,false,0.122,false,Rising (next 20%)
+220f299b-95df-592e-6865-8036463278d8,55,F,Medicaid,0,7,0,false,0.122,false,Rising (next 20%)
+335b9834-6d45-11e5-958d-5393f280ec49,31,M,Commercial,0,2,0,false,0.122,true,Rising (next 20%)
+50493d0f-5411-bdb1-f53f-3a3d5e563724,62,F,Medicare,0,9,0,false,0.122,false,Rising (next 20%)
+55423fb4-9042-830d-01be-1441988078a2,24,M,Commercial,0,2,0,false,0.122,false,Rising (next 20%)
+ece36c66-fef8-a1b0-ac22-fd1af1ad3880,37,M,Medicaid,0,1,0,true,0.122,false,Rising (next 20%)
+99620c40-40eb-65ca-57df-2e4c7dbe38d2,55,F,Medicare,0,6,1,false,0.121,false,Rising (next 20%)
+fa26d14b-de2a-dc17-fc07-45ae59de3a07,56,M,Commercial,0,5,1,false,0.121,false,Rising (next 20%)
+9b2ed43b-0359-b5fa-a4b0-c65561f29e8a,58,M,Commercial,0,5,1,false,0.121,false,Rising (next 20%)
+78647c52-55a2-2a69-942c-06c72f0eba9b,44,F,Medicaid,1,2,0,false,0.121,true,Rising (next 20%)
+baff9088-0521-0541-cf14-c9a19c19367f,66,F,Medicare,1,5,1,false,0.12,false,Rising (next 20%)
+0eeaee3c-5a43-4a59-0641-33d5a169b6cd,47,M,Commercial,0,6,2,false,0.12,false,Rising (next 20%)
+8acbb51b-2f3c-439c-61ae-fbc8d6025e5e,30,F,Commercial,0,2,0,false,0.12,false,Rising (next 20%)
+bcec2cf2-6415-81e1-a311-5076f2aa3e61,45,F,Medicare,1,4,0,false,0.12,false,Rising (next 20%)
+179faead-d106-032a-00aa-674d53b71faa,30,M,Commercial,0,0,0,true,0.12,false,Rising (next 20%)
+79566793-ad53-e272-9ff2-afd58b3a9393,50,F,Commercial,1,4,1,false,0.12,false,Rising (next 20%)
+945719e6-f8bd-c14f-0b5b-e097a573cea6,82,F,Medicare,0,9,0,false,0.12,false,Rising (next 20%)
+788f3447-6913-e2f8-3901-a8426ba98e03,64,F,Commercial,0,0,1,false,0.12,false,Rising (next 20%)
+18cbb615-420a-8641-133c-af71cbb769be,53,M,Commercial,0,0,1,true,0.12,false,Rising (next 20%)
+7771bbba-7c4d-6876-9248-08e69e81ec2c,53,F,Medicare,1,3,1,false,0.119,false,Rising (next 20%)
+4c82fa07-5d85-c79b-3407-e9ee30655a6a,69,M,Medicare,0,8,0,false,0.119,true,Rising (next 20%)
+18cbf540-6843-3963-f019-37ec256241d7,85,M,Dual Eligible,0,3,0,false,0.119,false,Rising (next 20%)
+55dae7c7-8275-cf98-84b7-05585d3a7ae2,70,F,Medicare,1,2,1,false,0.119,true,Rising (next 20%)
+c6a87648-b1c0-c0a8-7dc7-452f3b2543ee,26,M,Commercial,0,3,0,false,0.119,false,Rising (next 20%)
+274413e8-c95f-c321-f0f9-64e5ce1b6a1a,43,F,Medicare,0,2,0,false,0.119,false,Rising (next 20%)
+334963a8-b170-3b80-0ea7-5504eff9bf11,69,M,Medicare,0,8,1,false,0.118,false,Rising (next 20%)
+bf6b88b4-2489-cee4-b658-b75995cd7e26,49,F,Medicare,0,4,1,false,0.118,false,Rising (next 20%)
+4ef9d178-efd8-d95a-624d-64b6bb864447,63,F,Medicare,0,8,1,false,0.118,false,Rising (next 20%)
+4b5b953f-9e62-3194-7760-696204a3ab2c,104,M,Medicare,0,9,0,false,0.118,false,Rising (next 20%)
+5dc885db-4102-2edd-ba46-6cf309c09026,20,M,Commercial,0,1,0,false,0.118,false,Rising (next 20%)
+439dd810-19ff-3370-b6c0-5d34785bb82e,33,F,Commercial,0,1,0,false,0.118,false,Rising (next 20%)
+493579f1-011e-bf6c-7371-40f878baffce,29,F,Uninsured,1,1,0,false,0.118,false,Rising (next 20%)
+a367c9a5-fdb7-b61d-3aac-d2fa33029838,45,F,Commercial,0,1,0,false,0.118,false,Rising (next 20%)
+62f60bdb-cc5c-8305-b98b-f2b229a55eca,25,F,Commercial,1,0,0,false,0.118,false,Rising (next 20%)
+90fc8e82-07ce-6d82-1e5a-a26d280b0f79,25,F,Commercial,1,0,0,false,0.118,false,Rising (next 20%)
+b63f99f1-5eab-3fed-b7fe-9305c6220c5b,46,F,Commercial,0,2,1,false,0.117,false,Rising (next 20%)
+ebd99308-e504-3e18-5b05-b7c4199a22eb,30,M,Commercial,1,3,0,false,0.117,false,Rising (next 20%)
+b5ee0b3b-3b60-64aa-f342-09c729f7c791,65,F,Medicare,0,10,0,false,0.117,false,Rising (next 20%)
+d20bc0bc-3051-ae6f-f391-ceec7ec0370f,36,F,Uninsured,0,2,0,false,0.117,false,Rising (next 20%)
+32cc0b83-f353-e71c-c432-80b2c29e8555,40,F,Commercial,1,4,0,false,0.117,false,Rising (next 20%)
+d003cf24-0222-c943-8343-c8f4a326b5bf,38,F,Commercial,0,0,0,false,0.117,true,Rising (next 20%)
+be5aa32b-9652-6835-825a-d58e9a38ad43,29,M,Medicaid,1,0,0,false,0.117,false,Rising (next 20%)
+e42521b8-3f40-2bb9-51e7-66e3dd878992,58,F,Medicare,0,8,1,false,0.117,false,Rising (next 20%)
+c3d2767e-7be3-c750-ae13-058499570a21,71,F,Medicare,0,7,1,false,0.117,false,Rising (next 20%)
+18236d51-ba17-e04c-1901-71c0495f6221,40,M,Uninsured,0,2,0,true,0.117,true,Rising (next 20%)
+208a9f09-abb5-b783-f380-4607c6088e9c,27,M,Commercial,1,1,0,false,0.117,false,Rising (next 20%)
+fcfd7512-884b-f594-9a6e-9dd63255b68f,58,F,Uninsured,0,6,1,false,0.116,false,Rising (next 20%)
+43afdd74-a39d-1f76-3bec-cadc3c558d01,72,F,Medicare,0,8,0,false,0.116,false,Rising (next 20%)
+05e47734-a2d3-8a46-fdfd-6f9204f8eb51,21,M,Commercial,0,1,0,false,0.116,false,Rising (next 20%)
+dd2f9f22-c181-4030-3137-50de66e26163,66,M,Medicare,0,3,0,true,0.116,false,Rising (next 20%)
+646440c7-39fb-d7e8-fe2a-da8a5fd48aa7,98,F,Medicare,0,8,0,false,0.116,false,Rising (next 20%)
+a5ccf2b2-35dc-b159-a248-a8d0f671485d,59,F,Uninsured,0,7,1,false,0.116,false,Rising (next 20%)
+161a011f-815c-6571-6932-6014a4f61352,51,M,Medicare,0,10,1,false,0.116,false,Rising (next 20%)
+d4025cf5-7db9-15b0-e80b-fcf0db6653d2,70,F,Medicare,0,8,0,false,0.116,false,Rising (next 20%)
+5231b84a-d200-7881-98b9-100cd0c7a7ec,43,F,Commercial,1,0,0,false,0.116,false,Rising (next 20%)
+6988866c-03fd-7216-6ac5-4a0744f885cc,41,M,Commercial,0,4,1,false,0.115,false,Rising (next 20%)
+57bf073a-85a8-1760-afee-319de6d398c7,69,F,Medicare,1,1,0,false,0.115,false,Rising (next 20%)
+be9fdc47-4766-5236-58d3-95e5d28efbe1,50,M,Commercial,0,6,1,false,0.115,false,Rising (next 20%)
+9d586071-cd83-7054-7ee1-bf275fd340c4,51,F,Commercial,0,2,1,false,0.115,false,Rising (next 20%)
+7c51320b-a45e-e1a9-224d-74efd55a3f25,30,F,Commercial,0,0,0,false,0.115,true,Rising (next 20%)
+62660772-0a51-bf54-297c-3aca84451717,58,F,Commercial,0,0,0,false,0.115,false,Rising (next 20%)
+63f4d267-4d83-647e-99ed-6a3af4e4f812,54,F,Commercial,0,5,1,false,0.114,false,Low
+201320b1-6cb6-72de-035f-41afd4baf532,27,M,Commercial,1,0,0,false,0.114,false,Low
+b0b838d0-6d4d-1a89-4ea5-0333715bbb3d,36,F,Commercial,0,0,0,false,0.114,false,Low
+4eae15cd-a2e9-23cb-d896-130af09b83e4,31,F,Commercial,1,0,0,false,0.114,false,Low
+21cb4452-b958-9992-9c6b-b727ffacd336,49,F,Commercial,0,2,2,false,0.114,false,Low
+afb09ddd-fdf7-0488-1490-86490ffca4ab,47,F,Medicaid,0,5,1,false,0.114,false,Low
+d31aa8f9-0bc7-e965-97e6-af9d97fc5d17,35,F,Commercial,1,1,0,false,0.114,false,Low
+6aec3f78-4608-6cf6-9ccf-987011d7b827,21,F,Commercial,0,0,0,false,0.114,false,Low
+9661a432-4630-2cd9-142c-386845fae837,34,M,Commercial,0,0,0,true,0.114,true,Low
+6a402e10-8d3b-efc9-9450-a6ad401949c0,50,M,Commercial,0,1,1,false,0.114,false,Low
+33c6a998-1b9c-bb04-84f1-edf86e6d0742,48,F,Commercial,0,2,2,false,0.113,false,Low
+c08267b8-72b4-9103-731a-53c15ea797eb,72,F,Dual Eligible,0,4,1,false,0.113,false,Low
+b71283a9-ef11-7417-ff8d-ab1d853ddd1e,21,M,Commercial,1,2,0,false,0.113,false,Low
+d5ccc11b-8f52-be82-1d8f-86b67bc393dc,55,F,Dual Eligible,0,2,0,false,0.113,false,Low
+eaf1d74a-d006-a60c-b12c-833c7c7f063f,82,F,Medicare,0,4,0,false,0.113,false,Low
+d69cd746-3241-7dab-9a0d-11623bd248fe,71,F,Medicare,0,7,0,false,0.113,false,Low
+9d45987e-2b92-c024-cc8d-0ce97d745e1b,61,M,Commercial,0,8,0,false,0.113,false,Low
+404b5911-ec7a-162f-d447-5c533a92da6c,40,M,Medicaid,0,1,0,true,0.113,false,Low
+f21a9288-48c9-e416-69ff-d48f627ecbe4,51,F,Commercial,0,4,0,false,0.113,false,Low
+7f760110-7d94-4f26-57e0-89da42e74df0,22,F,Uninsured,1,0,0,false,0.113,false,Low
+322d2eb8-0c80-96f1-ef96-062b9d87ae43,60,M,Medicare,0,6,1,false,0.113,false,Low
+0783bf83-a77e-df51-a42d-51e311654280,40,F,Commercial,0,3,1,false,0.113,false,Low
+b35cc378-9d11-ce49-7a7c-4aec411fe5d4,64,F,Uninsured,0,4,2,false,0.113,false,Low
+429c0ce7-01f1-b23c-fe3c-0a1d24bc3cb9,57,F,Commercial,0,3,0,false,0.113,false,Low
+ff9f65d8-a5e0-fc61-bc6a-58bbe3d63efd,43,M,Commercial,0,1,0,false,0.113,false,Low
+2fae7a06-e7f5-19fb-1165-b41260d35056,35,M,Commercial,0,1,0,true,0.113,false,Low
+2d864144-61e2-de38-d4c4-345445db93f8,93,F,Medicare,0,6,0,false,0.113,false,Low
+3a698cd1-c3be-fc3a-c278-411c0cf8a708,55,F,Commercial,0,4,0,false,0.113,false,Low
+f8a5baf9-2e3a-1643-4cf1-ed22b07ee03c,68,M,Medicare,0,2,0,false,0.113,false,Low
+d0baf132-43b4-decb-7549-905ca3250a1c,38,F,Commercial,0,0,0,false,0.113,false,Low
+01ce818c-8f9f-924a-1db7-9925dbb3dfe3,20,M,Commercial,0,0,0,true,0.113,false,Low
+4651f011-1fbc-bbfd-dc0a-1c7d97a5cdc9,51,F,Medicare,0,3,1,false,0.112,true,Low
+2d5fef92-5b93-765b-72b9-f2a60fa31849,47,F,Medicare,0,6,1,false,0.112,false,Low
+6edb4bf3-96d1-2182-ecab-b6dff7899470,76,M,Medicare,0,9,0,false,0.112,false,Low
+fd9b24cc-7bd0-64b5-e4a1-327beb253407,27,F,Commercial,0,6,1,false,0.112,false,Low
+a6267273-bee7-1e5e-6f4d-248ac67f18fe,64,M,Commercial,2,3,0,false,0.112,false,Low
+45054e04-8ca2-e599-b89e-4348248deb67,62,F,Commercial,0,5,0,false,0.112,false,Low
+cbfb5753-490e-d266-458a-4c36665c30df,45,F,Commercial,0,1,0,false,0.112,false,Low
+3ccd1608-53c4-957e-a93b-9708c4b1c048,46,M,Uninsured,0,1,1,false,0.111,false,Low
+fb645e52-146a-6024-b1f4-42f0e873f2b5,63,M,Commercial,0,4,0,false,0.111,false,Low
+4144364f-2265-28fa-ca44-c2042cb41126,33,M,Commercial,1,1,0,false,0.111,false,Low
+ef612be7-d23e-37b2-8355-f68c7c69f98a,92,F,Medicare,0,3,0,false,0.111,false,Low
+0ed551f1-148d-ca02-89f4-085adab73ade,34,F,Medicare,0,2,0,false,0.111,false,Low
+5ae409cd-8be6-a559-052f-fab459e23ad3,28,M,Commercial,0,0,0,true,0.111,false,Low
+184d403d-a1ec-6f40-58e4-5d8fe95c2249,56,F,Commercial,0,2,1,false,0.111,false,Low
+e8d4132c-0864-ced1-e132-0ac96362442b,56,F,Medicare,0,6,1,false,0.111,false,Low
+ef80486c-46ef-68e6-2995-af47f4321cca,26,M,Medicare,1,3,0,false,0.111,false,Low
+1675291c-6b14-fd25-cfca-792d52b2ac4a,44,M,Commercial,1,2,0,false,0.111,false,Low
+aef76267-1bf6-a000-ba6a-527b566fdcfa,21,M,Commercial,0,1,0,false,0.111,false,Low
+c4e00dc4-83e0-26cb-09c5-987e52832a2a,36,F,Commercial,0,1,0,true,0.111,false,Low
+536052d7-546a-655e-6642-eebd67dd3363,25,F,Uninsured,0,0,0,false,0.111,true,Low
+364f2d45-df6d-39b0-16c1-da0e3c56a9fa,19,M,Medicaid,0,0,0,true,0.111,false,Low
+e5280b6f-e37f-bb0b-15b2-2c6ceaffcd4a,51,F,Medicaid,1,2,0,false,0.11,false,Low
+aaf11fe2-9654-5eac-e9f2-8ae39a992d92,41,M,Commercial,0,2,0,false,0.11,false,Low
+b675eb24-42fd-a1ae-fcf0-4d56d65ace27,34,M,Commercial,1,0,0,false,0.11,false,Low
+3487d097-833b-5fcf-a566-31965596d270,54,F,Commercial,0,7,1,false,0.11,false,Low
+2e9b1698-0505-99a0-e9e4-08a980a92642,69,F,Medicare,1,2,0,false,0.11,false,Low
+6cd3f839-efd8-bf91-999f-7a0ce9024d24,62,F,Commercial,0,6,0,false,0.11,false,Low
+2924da49-d719-85a1-89e1-7d3bfd474790,37,M,Medicaid,0,1,0,false,0.11,false,Low
+f088a66f-70c4-fd8b-6cb9-0526b1c3e08b,72,F,Dual Eligible,0,3,0,false,0.11,false,Low
+275504f7-ddc4-b1c1-e0e9-0cc62683b977,35,M,Commercial,0,1,0,false,0.11,false,Low
+7e9f9a1c-2ade-9092-9718-520549a61802,59,F,Commercial,0,2,0,false,0.11,false,Low
+a1ca0d37-09ab-c856-fa48-94be431798fa,29,F,Commercial,0,1,0,true,0.11,false,Low
+d15b23ed-02d5-3e28-efbd-2604425317c5,38,F,Commercial,1,0,0,false,0.11,false,Low
+976a3b86-3a71-bc9f-8f2f-ed77de96fad5,38,F,Commercial,0,0,0,true,0.11,false,Low
+91dcd28f-7beb-1387-a1d5-6ef953909367,54,F,Commercial,1,2,1,false,0.109,false,Low
+d5178b57-fbb5-d71f-a04c-5fbd2face911,74,F,Medicare,0,2,1,false,0.109,false,Low
+585386f7-f7ab-3771-73e5-65a65137a8a8,53,F,Commercial,0,5,0,false,0.109,false,Low
+7ae397b6-195c-f16e-f15d-535e74d985f1,30,M,Commercial,0,2,0,false,0.109,false,Low
+3a738417-6d7e-6b44-d09c-023fab36d499,39,M,Medicaid,0,7,0,false,0.109,false,Low
+81daf718-e677-df1c-748f-af213fc6c6fc,22,M,Medicaid,0,0,0,true,0.109,false,Low
+d46682f7-9d30-7534-f679-ee1e5009724b,23,F,Commercial,0,0,0,false,0.109,false,Low
+cdb14f96-20ad-694c-d4fd-5c21b57afff2,31,M,Commercial,0,0,0,true,0.109,false,Low
+9ce697b1-8bb0-ab80-ca4c-2e34e257c3b6,47,F,Commercial,0,2,1,false,0.109,false,Low
+072c7291-f02c-909b-4763-71ac0130b331,47,M,Dual Eligible,0,2,1,false,0.109,false,Low
+941f4546-0854-903d-4d61-c533703ce4d2,48,F,Commercial,0,3,1,false,0.109,false,Low
+9d89ddde-a099-b257-154e-30bbf4012f77,44,M,Commercial,2,2,0,false,0.109,false,Low
+cce6dc9d-3aee-295b-d376-1ef4502e9a98,33,M,Commercial,1,1,0,false,0.109,false,Low
+df2f3ddb-2760-b3c7-40be-f2fbee474089,61,M,Commercial,0,5,0,false,0.109,false,Low
+0b21ffe1-a273-9a1c-6cd9-b85e78c4ea3d,53,F,Commercial,0,2,0,false,0.109,false,Low
+20526ee7-17ba-b863-b5f1-776defcde2e6,49,F,Commercial,0,2,1,false,0.109,false,Low
+c3510851-c452-9de3-ecfb-b9d16fdd83cb,73,F,Medicare,0,5,1,false,0.109,true,Low
+05880a71-6004-727f-a81b-85a1508160a5,70,M,Medicare,0,9,1,false,0.108,false,Low
+378f5f5f-1bcf-284d-d989-c24185c87437,54,F,Commercial,0,2,0,false,0.108,false,Low
+d98d01bd-5a04-af29-7fc2-639d41649cc0,26,F,Commercial,0,1,0,false,0.108,false,Low
+d087f974-5765-d7a2-3655-f1cd7d5682e5,54,F,Commercial,0,3,0,false,0.108,false,Low
+9c64cd22-7db9-f618-2e18-0203189c1c22,55,F,Commercial,1,2,0,false,0.108,false,Low
+a550b34d-36a1-0b5f-d655-9635abea2475,39,F,Commercial,1,2,1,false,0.108,false,Low
+b86b8014-c50b-a191-4e34-db8a6aa8aac4,29,F,Medicaid,0,1,0,false,0.108,false,Low
+54baf78c-32c3-8cd9-5cb6-ca96e982fd08,20,M,Commercial,0,1,0,false,0.108,false,Low
+d97cc771-88b6-7361-9685-44ed3bf8e4f3,41,F,Commercial,1,1,0,false,0.108,false,Low
+e0e97507-d412-21ae-6374-d332cc65019d,26,M,Medicare,1,1,0,false,0.108,false,Low
+c2aadfa1-256b-c450-bcd5-442316fa4fe9,73,M,Medicare,0,6,0,false,0.108,false,Low
+389e2ea0-3c1b-1238-e36e-08579f757c75,29,F,Commercial,0,0,0,false,0.108,false,Low
+356a05d5-08f1-799a-deaa-71088abd9d8f,47,F,Medicaid,1,0,1,false,0.108,false,Low
+e5893298-747c-7902-264a-d30e90b9d963,37,F,Medicare,0,3,0,false,0.107,false,Low
+6626819a-5fc9-ebc7-0c58-570085f58a44,55,F,Commercial,0,6,0,false,0.107,false,Low
+dfe91243-39ed-7541-f125-fbebcb6cda63,29,M,Commercial,0,1,0,false,0.107,false,Low
+70d16d3b-59da-bfc3-5dcc-fa69a72d4237,27,M,Medicaid,0,3,0,false,0.107,false,Low
+541e1d81-cd8b-9935-927a-020cdefa7369,66,F,Medicare,0,2,1,false,0.107,false,Low
+1278badd-5ccf-9699-4dd1-8f73632353d1,83,M,Medicare,0,6,0,false,0.107,false,Low
+584ca417-a515-69fb-61cf-51ac1c7c4221,21,F,Commercial,0,1,0,false,0.107,false,Low
+294b84dd-0309-41d1-ecce-150dd01a6c40,74,F,Medicare,0,8,0,false,0.107,false,Low
+d5ee7334-a44f-e0bb-6779-682ca27cc774,45,M,Commercial,0,2,0,false,0.107,false,Low
+5350ed96-8c9c-36a2-91e4-13af2c7cf06a,78,F,Medicare,1,1,0,false,0.107,false,Low
+f1cb47d3-c76a-a145-699e-264fc2d7d726,54,M,Medicare,0,7,0,false,0.106,false,Low
+c2b0c3f0-70d1-1dfa-337e-75a4b0045132,65,F,Medicare,0,7,0,false,0.106,false,Low
+b274b53d-66eb-0cfe-9d2c-0da7e3d0aa26,45,F,Commercial,0,2,0,false,0.106,false,Low
+4ab2e5e1-672b-4ff6-f8b4-75d37ac454d0,33,M,Commercial,1,2,0,false,0.106,false,Low
+df17c6b8-84a1-84b5-06d8-5e56ba999242,58,M,Medicare,0,2,0,false,0.106,false,Low
+6261590d-d7d6-6717-12fa-0b33084fd9f8,95,F,Medicare,0,6,0,false,0.106,false,Low
+b3e2bbde-ab80-dbd9-160b-0efaa415d51c,54,M,Medicaid,0,7,1,false,0.105,false,Low
+f6551cf2-a3ff-3194-689c-5f8b162050a1,49,F,Uninsured,0,2,1,false,0.105,false,Low
+57f68301-b2fe-a5b2-74e2-98c94632b14e,68,F,Dual Eligible,0,2,0,false,0.105,false,Low
+39270d94-4f13-24ff-4590-764a69c6c9dd,60,F,Commercial,0,3,0,false,0.105,false,Low
+96b6d552-da61-e5e6-8dbc-2168f17d2a29,19,M,Commercial,0,0,0,true,0.105,false,Low
+4603f076-185b-11f9-3f25-57e2f50494a1,46,M,Commercial,0,2,1,false,0.105,false,Low
+c6b7eb84-8474-e626-474e-1c8b9431d99f,45,M,Commercial,0,6,1,false,0.105,false,Low
+623e1444-3bcc-285a-7bd5-e0dc946430be,54,F,Commercial,0,2,1,false,0.105,false,Low
+dccda9f6-3b08-4832-bdf4-d6056057451d,70,F,Medicare,0,3,0,false,0.105,false,Low
+70ad0e6f-cb1d-337a-00e0-d2949579df57,56,F,Commercial,0,2,0,false,0.105,false,Low
+9d09f81c-0eb1-fc68-137c-fc929526d9f0,57,F,Medicare,0,5,0,false,0.105,false,Low
+fe60e930-09cc-ab85-82d9-55ad7863c11e,59,F,Dual Eligible,0,3,1,false,0.104,false,Low
+7cd8a8ad-746b-549e-e70d-0c0feb8ebc69,47,M,Commercial,0,6,1,false,0.104,true,Low
+44bf5b9e-e94f-fbd1-aa65-3a39cf795964,51,M,Medicaid,0,4,1,false,0.104,false,Low
+75422a41-b1bc-2cd6-9dd7-7afa5953bdf9,71,M,Medicare,0,7,1,false,0.104,false,Low
+c7db0082-95f4-8753-897f-35cfee1b8e1f,24,M,Medicare,1,5,0,false,0.104,false,Low
+e9ca0b18-59f9-7422-6084-900c1715352c,62,M,Commercial,0,4,0,false,0.104,false,Low
+0c6cfdb0-0d6a-b176-14a6-b053805f2347,24,F,Commercial,1,2,0,false,0.104,false,Low
+eb650003-2a29-a38d-7fa8-c77ca3f4f56b,45,F,Medicare,0,4,0,false,0.104,false,Low
+82a598dd-5566-65ec-2578-f75c964fc676,63,M,Commercial,0,4,0,false,0.104,true,Low
+53c74c59-1d51-0d6f-a0eb-2e3395c7289e,73,M,Medicare,0,8,0,false,0.104,false,Low
+c8d42a6f-a163-f86d-8aa6-30aaf8b4cca7,33,F,Medicaid,0,3,0,false,0.104,false,Low
+1a6a6539-4801-ed9e-a527-e48d5194cc1f,60,F,Dual Eligible,0,4,0,false,0.104,false,Low
+73e1e456-06c1-96dc-6b10-3768d7f434dd,50,F,Commercial,0,2,1,false,0.104,false,Low
+9a213619-1a2c-65d3-ee32-f1518ce3ff56,61,F,Commercial,1,1,0,false,0.104,false,Low
+eb37afea-0b19-757e-b0fb-69e46007598b,24,F,Commercial,1,0,0,false,0.104,false,Low
+bbdc4bdf-fb96-ac5c-cbf0-262589db054a,58,M,Dual Eligible,0,5,1,false,0.103,false,Low
+82e8875f-75e1-adbc-ae8c-be3857ff62c0,66,M,Medicare,0,4,2,false,0.103,false,Low
+715724a5-2018-a4ef-8f62-42ec13f9c91d,45,F,Commercial,0,1,0,false,0.103,false,Low
+599edf53-47bf-8a32-3b8c-a0be0bcf27af,36,M,Uninsured,0,5,0,false,0.103,false,Low
+5883f5be-c69a-7c1d-dc96-80463979de91,53,M,Medicare,0,6,0,false,0.103,false,Low
+7f50d0ba-ca6b-eaa7-d4f7-50dc977f2e50,52,F,Commercial,0,3,0,false,0.103,false,Low
+4e1cf354-ff72-5da0-8cbb-7a3edc61deb3,56,F,Commercial,0,1,1,true,0.103,false,Low
+778e69e1-da53-711c-e56b-27e7a235f652,47,F,Commercial,0,1,1,false,0.103,true,Low
+628cc530-9840-deaa-5533-a01307c9f283,44,F,Medicare,0,4,0,false,0.103,false,Low
+d6c8be3b-28ac-85c8-dd6c-a6fc305ee143,57,M,Uninsured,0,8,0,false,0.103,false,Low
+85dd9947-9d29-114e-8e1b-68fa2741133b,68,F,Medicare,1,1,0,false,0.103,false,Low
+65d1ee25-5ad8-b915-bea7-e26c19ea87ba,26,F,Commercial,1,1,0,false,0.103,false,Low
+bd2d34fc-0725-5ef5-7746-bef212b7c0ba,40,M,Commercial,1,0,0,false,0.103,false,Low
+e666eab6-0e03-f1eb-df79-b2d648174013,40,F,Commercial,0,0,0,false,0.103,false,Low
+f8ad2dc3-a08c-f75c-fbe3-6a5aca1e42f5,40,M,Commercial,1,0,0,false,0.103,false,Low
+f46d1297-f104-644c-f70e-a08306274e56,47,M,Commercial,0,3,2,false,0.102,false,Low
+5dd21251-db83-9f98-cbe3-56616cab6ce8,64,F,Medicare,0,8,0,false,0.102,false,Low
+8c1b0d0c-4209-6c22-1308-e7e9aabc9b7a,74,F,Medicare,0,6,0,false,0.102,false,Low
+291eef3f-a432-2174-8c47-57de835b15c3,54,F,Commercial,0,4,0,false,0.102,false,Low
+665c6110-6ff5-9ae1-6362-f15bebfd0395,30,F,Medicaid,0,2,0,false,0.102,false,Low
+cf33d965-2338-e565-fe36-3c6ec686cbad,32,F,Medicaid,0,2,0,false,0.102,false,Low
+9c37cf42-4af2-cf26-bc09-71ce2630d59d,43,F,Commercial,0,0,0,false,0.102,false,Low
+54044028-168d-0ce8-ad8b-6b707726d844,21,F,Commercial,0,0,0,false,0.102,false,Low
+1cdc08a2-70d1-027e-885f-608d387c3932,56,M,Medicare,0,9,1,false,0.102,true,Low
+a420e14b-70e3-32e4-c936-000d50bc2d91,63,M,Medicare,0,9,1,false,0.102,false,Low
+eb5910f1-26e6-bc6f-b300-716eae678d6f,33,M,Medicare,0,4,0,false,0.102,false,Low
+64d261e3-b2ea-88aa-4679-9cc9c39734a7,36,M,Medicaid,0,2,0,true,0.102,false,Low
+beb75318-41a2-5f74-50b4-f6371cdcf3d0,23,F,Uninsured,0,0,0,false,0.102,false,Low
+7eeabe6a-37e3-8efa-3373-4f7c0adb93d8,22,M,Commercial,1,0,0,false,0.102,false,Low
+65859a06-2f27-f547-251c-9a619c3b3283,64,F,Medicare,0,5,2,false,0.101,false,Low
+047ee4ec-c50b-b504-9f50-75bbd5ef0be7,60,M,Dual Eligible,0,4,0,false,0.101,false,Low
+4fd9e1ba-c41f-b7e3-dabf-78dfffe24bc8,63,M,Commercial,1,2,0,false,0.101,false,Low
+71ecfed4-6d63-cb23-d844-e295cf9a3629,25,F,Commercial,1,1,0,false,0.101,false,Low
+1af9c94d-34ef-178e-73b4-057f39021ad4,31,F,Medicaid,0,1,0,false,0.101,false,Low
+53f9d990-dded-50ce-683b-41edcb6e1d43,47,F,Commercial,0,1,1,false,0.101,false,Low
+1ae5dfee-f861-a959-b2cf-867f70116ea9,47,F,Commercial,0,3,1,false,0.101,false,Low
+d707c8f8-6924-79b3-b590-ffc4a2d641bd,44,F,Commercial,0,2,0,false,0.101,false,Low
+ff3fcae9-21b9-5cba-b5f8-f672b145f822,72,M,Medicare,0,6,0,false,0.101,false,Low
+efc76742-1d95-a1ff-dbad-788111861630,27,M,Commercial,0,2,0,false,0.101,false,Low
+57e2bd16-fedf-7d64-498b-bd753f5283b2,24,M,Commercial,0,1,0,false,0.101,false,Low
+4ab72258-6d6c-f8a5-305f-de0b1f397a2b,21,F,Commercial,1,0,0,false,0.101,false,Low
+b42861f7-474b-c2cb-6232-011968d314f7,58,M,Commercial,1,0,1,false,0.101,true,Low
+7b95b9d0-664b-20c8-b97b-51e24e73bf7d,49,F,Commercial,0,3,1,false,0.101,true,Low
+bcd6dbd5-6109-791e-2dcc-452b1ddedf8b,49,M,Medicare,1,4,1,false,0.1,false,Low
+9b49b93a-dce0-6ed9-01bf-a2358dde64bb,34,F,Commercial,0,1,0,false,0.1,false,Low
+2b999228-9ebb-3076-42a4-221cf940f690,81,F,Dual Eligible,0,4,0,false,0.1,false,Low
+065fd330-0373-1cee-1d3a-29f8f2d065b4,97,F,Medicare,0,3,0,false,0.1,false,Low
+047697e3-dcee-86e1-7241-cf08406b9969,58,M,Medicare,0,3,0,false,0.1,false,Low
+4198773d-39b4-9b12-4ba0-a2abb9def392,24,F,Commercial,0,1,0,false,0.1,false,Low
+63080cc8-8ddc-3b6a-c2ea-2d275e020b5a,43,M,Commercial,0,1,0,false,0.1,true,Low
+984980b6-bbec-8d1d-e6df-b9add10e36c2,67,M,Medicare,0,6,1,false,0.1,false,Low
+56c63f3e-f7e7-0710-53e3-43223194b7b6,57,M,Medicare,0,9,0,false,0.1,false,Low
+89e977dc-362e-8166-84db-36192167fd39,44,F,Commercial,0,2,0,false,0.1,false,Low
+3f9967ef-3af8-1778-181a-bc7401338a5e,82,F,Medicare,1,5,0,false,0.1,false,Low
+7fd15d35-45f8-c383-6e43-ad07d8d9f39f,21,F,Commercial,0,1,0,false,0.1,false,Low
+c62f3d5d-9ada-399e-a9bb-e8086a335381,33,F,Commercial,0,0,0,false,0.1,false,Low
+ea923aa8-577e-21a3-c8ca-47472326e662,26,F,Commercial,0,0,0,false,0.1,false,Low
+24774252-2c6b-089b-8175-f9b66a9d7ddf,44,M,Medicare,0,4,1,false,0.099,false,Low
+412f2188-0bd6-9ef7-96a6-3f537538edc1,48,M,Medicare,0,7,2,false,0.099,false,Low
+a1e4d5b0-1512-073b-c684-02aa89cec791,44,M,Medicaid,0,7,1,false,0.099,false,Low
+9432ec87-13f3-6c0a-daf8-807d8b733be7,66,F,Medicare,0,2,2,false,0.099,false,Low
+77ebccc9-dbe9-c770-fc2e-2f1a06fa411d,22,F,Commercial,0,1,0,false,0.099,false,Low
+a7b9d95d-b1c7-c5a4-12f1-f36a79cfaa2f,44,M,Commercial,0,2,0,false,0.099,false,Low
+f1a7ddf9-358e-85dd-caa5-4c36c40cd736,55,F,Medicare,1,2,0,false,0.099,false,Low
+c94d5b52-5789-ac17-aaa0-28ddf2fe1d79,42,M,Dual Eligible,0,1,0,false,0.099,false,Low
+c44d7e19-2098-5997-cedc-efe120fbc8e6,26,F,Commercial,0,0,0,false,0.099,false,Low
+e897c312-63dd-1da4-87a3-66bfd79268ff,32,F,Commercial,0,0,0,false,0.099,false,Low
+76308649-168f-5dcd-e5a9-7c2c88aef86b,28,F,Commercial,0,0,0,false,0.099,false,Low
+880f6337-503c-307f-686c-a0cb070151ba,22,M,Commercial,1,0,0,false,0.099,true,Low
+261baccc-fb99-50da-d552-84e17dfb59e7,35,M,Medicare,0,4,1,false,0.099,false,Low
+e6d68fb3-7ee0-ba28-84ee-dd0266bd7e50,35,M,Dual Eligible,0,4,1,false,0.099,false,Low
+e528ce89-53e1-c71b-94be-18ff346a5666,65,M,Medicare,0,3,1,false,0.099,false,Low
+2474a716-f77f-8720-d17c-ca7a86b45efe,40,F,Commercial,0,1,0,false,0.099,false,Low
+ed98a5bb-b95f-646e-7ea9-0141bb0c5589,53,M,Commercial,3,2,0,false,0.099,false,Low
+c8962ab1-fc02-67fd-e49b-b5d831efda4e,51,M,Dual Eligible,0,4,0,false,0.099,false,Low
+9ba0f700-1e6c-c4c7-41b5-ea7ca68643c3,65,F,Medicare,0,6,0,false,0.099,false,Low
+c926583b-946f-d14b-7cfc-bc79a732ca1f,39,M,Commercial,0,1,0,false,0.099,false,Low
+2e89c719-5d08-085e-3c1b-a9d82cb20d65,52,F,Commercial,0,0,0,false,0.099,true,Low
+64e8aba8-8912-3270-ab29-84749d4d2c58,54,F,Commercial,0,0,1,false,0.099,false,Low
+33a6f1a7-d1b3-1369-ac63-9e2ece58eb33,62,M,Commercial,0,6,1,false,0.098,false,Low
+489ec322-d49b-f826-cbc7-a2d5092c5bb4,56,M,Commercial,0,4,1,false,0.098,false,Low
+7e39a00b-8f94-7418-4b32-ba58f874ba8d,44,F,Commercial,1,1,0,false,0.098,false,Low
+7ac1c653-b2b4-7abc-afdd-64e0116e4bfa,33,F,Commercial,0,1,0,false,0.098,false,Low
+bf887e5a-8c85-f234-c454-268992af9c00,37,M,Commercial,0,2,0,false,0.098,false,Low
+a8e768cd-ec58-be11-39e9-64631eb2416c,29,F,Medicare,0,2,0,false,0.098,false,Low
+7019c958-b30b-30f0-0e4e-4ec127533bfa,37,F,Uninsured,1,1,0,false,0.098,false,Low
+577044ea-dc07-7ea5-b662-0d1607c3b0dd,63,F,Commercial,0,1,0,false,0.098,false,Low
+a2ba2bd2-5888-baae-fc3d-752b4254c11f,31,F,Medicare,0,2,0,false,0.098,false,Low
+d02990d0-eae1-fd47-0684-6c7db05047a7,21,F,Commercial,0,0,0,false,0.098,false,Low
+a61aaeb8-8451-96f9-862d-b14b7908d3fd,20,F,Commercial,0,0,0,false,0.098,false,Low
+f75caf9c-ba51-5e74-1461-a54b3d07b53f,28,F,Commercial,0,0,0,false,0.098,false,Low
+2f14578f-142e-120d-e2bb-f5aea5b934c1,25,F,Commercial,1,0,0,false,0.098,false,Low
+ebd72286-4347-2c2c-6f0d-d3220a8ac251,55,F,Medicare,0,3,1,false,0.098,false,Low
+c106e6f4-e583-3947-a962-23e09a28d0ce,50,M,Commercial,1,3,1,false,0.098,false,Low
+c66e4f6a-5dd7-04e6-a6c2-b9f4122446d2,48,M,Dual Eligible,0,4,1,false,0.098,false,Low
+8e358a6e-0590-2bb7-d6cf-a74900f6abb7,61,F,Medicare,0,2,1,false,0.098,false,Low
+9547e531-5274-2198-2c0c-396c598feb30,42,F,Medicare,0,3,0,false,0.098,false,Low
+3bdc062d-481b-05bb-8fd9-4b47f9b67f43,27,M,Uninsured,0,1,0,false,0.098,false,Low
+2a79084b-df5c-41f9-fdc5-c496629a6d3b,23,F,Commercial,0,0,0,false,0.098,false,Low
+a63936e9-4b45-da8f-b78b-dbaa7fc0722f,24,F,Commercial,0,0,0,false,0.098,false,Low
+b9b2b380-da68-4947-f29f-80aa1fe0b6ca,46,M,Commercial,0,3,2,false,0.097,false,Low
+57a7d3e2-16ff-f352-e98c-e3fec0f2c495,49,F,Commercial,0,1,1,false,0.097,false,Low
+b0144b74-6ccc-27b0-d3fc-d19b7f8c0003,49,M,Commercial,1,1,1,false,0.097,true,Low
+5790261c-adea-8e0a-168f-b5da0b252178,56,F,Commercial,0,2,0,false,0.097,false,Low
+2fb62ca5-b037-fe29-6102-a5555442f469,66,F,Medicare,0,6,0,false,0.097,false,Low
+032ec4eb-84a5-3e3f-f228-25b5eb3c13b7,38,M,Commercial,0,2,0,false,0.097,false,Low
+9ab5e7ea-e553-f839-2dc1-d53c29c6447b,79,F,Medicare,0,5,0,false,0.097,false,Low
+67560f08-6072-6fb1-7e99-1855c0381e5d,66,F,Medicare,0,4,0,false,0.097,false,Low
+81b2f870-5ce3-d933-dd78-ec9571743eda,50,M,Commercial,1,1,0,false,0.097,false,Low
+6c30a7ac-3f17-007c-7d05-24be58ba81bf,23,F,Commercial,1,0,0,false,0.097,false,Low
+b6c6ccf8-8654-ec94-de78-f48194c7ec7f,46,F,Commercial,0,1,1,false,0.097,false,Low
+2caac3fb-f250-9c3a-2c70-a5adecd10864,46,M,Commercial,0,2,1,false,0.097,true,Low
+a025492d-8368-f119-fbb7-53509a3b4499,26,M,Medicare,1,2,0,false,0.097,true,Low
+e2ed41c8-40e9-c524-e853-4168cfe2a581,60,M,Commercial,0,2,0,false,0.097,false,Low
+8fd6e146-009d-24ae-4dfc-5e825cdace8f,23,M,Dual Eligible,0,3,0,false,0.097,false,Low
+6d0f1adc-986d-cbd3-a105-39c69dba8f56,57,M,Commercial,0,3,0,false,0.097,false,Low
+30331ffd-6cb2-e716-3174-90b4832d49fd,42,F,Medicaid,4,1,0,false,0.097,false,Low
+5e41e387-9b47-bf08-9dd3-a19348efbe68,32,F,Medicaid,0,1,0,false,0.097,false,Low
+13199f1b-9a57-6e58-4e85-2ba71d90740a,27,F,Commercial,0,0,0,false,0.097,false,Low
+7b5ae25b-27b2-5620-f6c9-d0158acd9d19,30,M,Commercial,1,0,0,false,0.097,false,Low
+e7080fc3-5982-efb0-8ca5-29f471bf5e4e,48,F,Commercial,0,0,1,false,0.097,false,Low
+464d2aa7-fdff-923b-dfc5-7e31f27451f1,65,M,Medicare,0,5,1,false,0.096,false,Low
+a8c77a8e-d239-a259-13cd-bbe25d1c917f,74,F,Medicare,0,4,1,false,0.096,false,Low
+4c7439ca-2bfb-e977-c199-1bf842f12d41,47,F,Commercial,0,2,1,false,0.096,false,Low
+49299eb6-3b07-ba3a-b7a1-d50aebc101fe,46,M,Commercial,0,2,1,false,0.096,false,Low
+a31eb0ed-ed60-061d-deb0-08cf274d76b4,49,M,Medicaid,0,7,1,false,0.096,false,Low
+49b69739-987b-c18a-6598-0d0722431fc5,76,F,Medicare,0,3,0,false,0.096,false,Low
+4b00a2c5-14ea-ee7c-770e-7667b64c9750,52,M,Uninsured,0,4,0,false,0.096,true,Low
+32e78bc3-8506-a26a-bd8c-80603dd9e287,50,M,Uninsured,0,4,0,false,0.096,false,Low
+739f81bb-b25d-53f5-b633-cba689cbb4b2,19,F,Commercial,0,1,0,false,0.096,false,Low
+869668f8-3af3-bb56-526d-d4de8cf6fc8b,21,F,Medicare,0,1,0,false,0.096,false,Low
+a051f89a-fbf9-a8ab-cc04-a841d5f37e47,44,M,Medicare,0,3,1,false,0.096,false,Low
+4a3660b4-9af6-5fbb-5d47-895d40fac0ce,25,F,Commercial,0,1,0,false,0.096,false,Low
+cf22cde5-48e9-1907-78ec-42abd6782fbe,82,F,Medicare,0,1,0,false,0.096,false,Low
+d47da248-4064-8df6-7a0e-efdf314f2b55,44,M,Commercial,0,0,0,false,0.096,false,Low
+8f052f5d-cae9-086e-94a8-98287720e90f,20,F,Commercial,0,0,0,false,0.096,false,Low
+ffdfe466-d316-4850-a897-62c90e4059c7,47,F,Uninsured,0,1,1,false,0.096,false,Low
+f2691972-8e06-1a1a-27fe-08c4388a3605,50,F,Commercial,0,0,1,false,0.096,false,Low
+aee7bbe1-0c45-c028-1e62-1f4cdb30c273,50,F,Commercial,0,1,1,false,0.095,false,Low
+6a1b0672-2a43-2596-ee46-1e4a71d9f5ab,32,M,Commercial,0,3,1,false,0.095,false,Low
+f75f7812-976f-d1b8-6b65-ceca58b607f5,47,F,Commercial,0,1,1,false,0.095,false,Low
+d08fe246-9b2a-552b-2ffc-72e29bb7dde4,48,M,Commercial,0,6,2,false,0.095,false,Low
+94c7a034-23c4-27c9-328e-531f6b4857e5,77,M,Medicare,0,3,0,false,0.095,false,Low
+bbe61b35-e872-4cde-5f78-a54f5d8b681a,43,F,Commercial,0,2,0,false,0.095,false,Low
+a2fb233f-60e0-b477-cd38-af3923f792a3,29,F,Commercial,0,1,0,false,0.095,false,Low
+3c50fad0-b325-2375-16f7-68a0dabddae5,39,F,Commercial,0,1,0,false,0.095,false,Low
+7ac1d72d-775e-2ea3-ac6c-6aadc40a4552,53,M,Dual Eligible,0,3,0,false,0.095,false,Low
+80744a28-5c0e-1907-e781-d60d49fd160b,22,F,Commercial,0,0,0,false,0.095,false,Low
+99d263f7-e9f2-0b93-6943-0ed96a90d7bc,29,M,Commercial,1,0,0,false,0.095,true,Low
+56d08a73-b0ad-4ca7-38f2-0207d7e18b68,69,M,Medicare,3,4,1,false,0.095,false,Low
+da2bc262-e76d-4ffe-249b-7cce8b5425a3,45,M,Commercial,0,2,1,false,0.095,false,Low
+0e205e2d-543b-28ab-6ca3-e0d6b67a0082,61,M,Commercial,0,2,1,false,0.095,false,Low
+a7891acb-c033-b37e-e73f-db8dbd63abe9,72,M,Medicare,0,3,1,false,0.095,false,Low
+fb4ca068-e606-13f7-3191-b199d4edc018,44,F,Commercial,0,1,1,false,0.095,false,Low
+a4c3ab62-27b7-d34d-7a11-fa511d62fe81,65,F,Medicare,0,6,0,false,0.095,false,Low
+740ee37e-42f8-be14-1cc4-ea1920d2c422,50,F,Medicaid,0,3,0,false,0.095,false,Low
+a77ad126-0ccc-9bb2-76ce-2c5d84ed7928,34,F,Commercial,0,1,0,false,0.095,true,Low
+fced8ecf-f88f-0098-c6a2-abd7535e2c41,35,F,Medicaid,0,2,0,false,0.095,false,Low
+3d2d34bb-1891-db3e-eadc-529d38fcdbd6,26,F,Commercial,0,0,0,false,0.095,false,Low
+539bd14b-7769-bd66-2c01-5f8b9d64a8ca,49,F,Medicare,0,2,1,false,0.094,false,Low
+e01626b2-b1a6-5793-6b81-6ef93c67075d,26,F,Medicare,0,2,0,false,0.094,false,Low
+486a264b-5383-dc26-daca-24de1a8c23f1,64,M,Medicare,0,3,0,false,0.094,false,Low
+b2d8da34-05c5-6235-f2a3-fd575e146b9c,27,F,Medicaid,0,3,0,false,0.094,false,Low
+6a6e849d-168a-d232-f2e6-88aabb952cc8,35,F,Medicaid,0,2,0,false,0.094,false,Low
+da175c34-f184-1ded-e316-c95188b9ed52,79,M,Medicare,0,4,0,false,0.094,false,Low
+3d7ffa67-e3dc-b3df-966c-7e36231e34b3,81,M,Medicare,0,7,0,false,0.094,false,Low
+258adedd-a3fb-a6a3-efcb-8fda70ad9d0d,36,F,Commercial,0,2,0,false,0.094,false,Low
+61a7ccc9-b42c-0380-d14c-562aec96d777,18,F,Commercial,0,0,0,true,0.094,true,Low
+914c5786-c6a1-e58f-c4d7-eff4b2100d38,63,F,Commercial,0,5,2,false,0.094,false,Low
+8ccb6d88-5dcb-d845-59c9-3fcbd603dfa6,65,F,Medicare,0,7,0,false,0.094,false,Low
+d3777c2e-6031-ec1c-3d1e-62a1a4c1ab65,23,M,Commercial,1,1,0,false,0.094,false,Low
+ce6f720f-4684-925e-f578-83283f042772,32,F,Medicaid,0,3,0,false,0.094,false,Low
+3a95383e-dcb8-456a-952b-4f2a9770f213,65,M,Medicare,0,7,0,false,0.094,false,Low
+b9e042d0-823d-0396-d50a-87eadb3e0fd3,59,M,Medicare,0,3,0,false,0.094,false,Low
+fb56e683-529c-e183-db72-515693f13dd5,81,F,Medicare,0,8,0,false,0.094,false,Low
+9cfc3902-05ed-a715-c5ca-9b3eecfa0c91,24,F,Commercial,0,1,0,false,0.094,false,Low
+1a7114ec-d2f1-4beb-c9c2-3152275e3ddd,29,F,Commercial,0,0,0,false,0.094,false,Low
+2d487497-28fb-9da5-6b45-e43b7afa8cb4,19,M,Uninsured,1,0,0,false,0.094,false,Low
+2fd4d5da-96ab-f21b-4ff0-bd2e893469ed,66,F,Medicare,0,5,1,false,0.093,false,Low
+6e45b2c6-a613-4492-ca43-ba2c7c80d708,53,F,Medicare,0,5,0,false,0.093,false,Low
+626b4607-6100-921e-b787-a82d5d8d05ea,23,F,Commercial,0,2,0,false,0.093,false,Low
+6e5189d7-af69-2eb7-40db-d265fa5f975f,80,M,Medicare,1,3,0,false,0.093,false,Low
+bc6a65a7-4a80-2e31-8804-0626b936499f,77,M,Medicare,0,4,0,false,0.093,false,Low
+9f736313-9313-815f-e6d5-4e7f9e5d7e8e,23,F,Medicaid,0,1,0,false,0.093,false,Low
+d6ed9810-93e9-742d-be4f-54e8afadccc7,32,F,Medicare,0,1,0,false,0.093,false,Low
+873a193d-2e25-df92-8e0f-f2e4db71974e,84,F,Medicare,0,4,0,false,0.093,false,Low
+ecc8414c-e66d-cfd8-0419-8b2e86690416,41,M,Commercial,0,3,0,false,0.093,false,Low
+1fb7a994-e4f9-240a-6689-5d8f45da6488,35,F,Commercial,0,1,0,false,0.093,false,Low
+90653d25-c8b6-ed1b-565a-5c84b2394c3e,44,F,Commercial,0,0,0,false,0.093,false,Low
+545d9709-6fc2-3ee6-ea17-b5e297854a33,25,F,Commercial,0,0,0,false,0.093,false,Low
+086bd61a-213a-915b-8990-d02a9cb3a69b,20,F,Commercial,0,0,0,false,0.093,false,Low
+47deef21-32b0-7d3a-ed62-d75eb92d08db,41,M,Commercial,0,0,0,false,0.093,true,Low
+52df43f3-79fb-0bbc-ab1a-170b5c66b469,38,M,Commercial,0,0,0,false,0.093,false,Low
+fef24842-365a-37f8-4c7f-55d7414a0fc1,28,M,Commercial,1,0,0,false,0.093,false,Low
+7757e4de-3e20-c256-cc50-6426f514434d,46,F,Commercial,0,4,2,false,0.093,false,Low
+132074e8-9d74-8f18-0e61-4734cdd9f956,65,F,Medicare,0,3,1,false,0.093,false,Low
+6db1aa66-5bb1-112b-b6f5-6eb48d85d118,47,M,Commercial,0,4,1,false,0.093,false,Low
+dc1e06e6-60d1-fa4f-39b9-e96da33631e0,49,M,Commercial,0,2,1,false,0.093,false,Low
+b9021b80-6214-1964-85f6-5656dbb0c6ba,47,F,Medicaid,0,2,1,false,0.093,false,Low
+af7b87f2-236d-2f90-de73-9c1bfd000b30,43,F,Commercial,0,2,0,false,0.093,false,Low
+ba282f15-59a4-306c-1601-8d5e4d3fa4ec,45,F,Medicare,0,1,0,false,0.093,false,Low
+b8222d5c-fda2-5bd0-4733-1faef6761f76,61,F,Uninsured,0,2,0,false,0.093,false,Low
+4d5cbaac-6c11-132e-1b86-2c1e25c1726d,55,F,Commercial,0,5,0,false,0.093,false,Low
+abb08df9-e1fe-309d-76f8-24f14aba6fa0,41,F,Commercial,2,4,0,false,0.093,true,Low
+d9ac2d36-6c6a-b179-31c1-6545f16148b9,75,M,Medicare,0,6,0,false,0.093,false,Low
+bf8d4632-87be-e3bf-ed94-5a9dc7297d40,35,F,Commercial,0,1,0,false,0.093,false,Low
+eef78f9c-d4e7-ecde-5a51-aa8b4618edd9,30,F,Commercial,0,1,0,false,0.093,false,Low
+8ece531a-6367-eeeb-c6dc-1702afd2f5bc,52,M,Medicare,0,2,1,false,0.093,false,Low
+b7d35203-e54b-74b8-4342-bb3d940bd2da,49,F,Commercial,0,0,1,false,0.093,false,Low
+76a5927f-f88b-8fd5-8dcd-554b874449d3,51,M,Commercial,0,3,1,false,0.092,false,Low
+c8056106-9602-6e41-e8d2-dd177a79b7ce,61,F,Uninsured,0,1,1,false,0.092,false,Low
+b991d386-150b-ef40-c18b-2d1887ad2268,57,M,Medicaid,0,1,1,false,0.092,false,Low
+dbb51eb3-1358-f66b-dbc6-146ff97c07ae,27,F,Commercial,0,1,0,false,0.092,false,Low
+fe4349b4-6b2b-96ca-a3ee-da52ac8e8d1f,57,F,Commercial,0,3,0,false,0.092,false,Low
+4527f213-a57b-ceef-2069-f2e6eaad4f2b,64,F,Commercial,0,3,0,false,0.092,false,Low
+01f72a06-0d81-377c-3e8e-53535071af7d,43,F,Medicare,0,3,0,false,0.092,false,Low
+a2323bce-60ca-ae9d-42fe-5091abe27ef9,56,F,Commercial,0,1,0,false,0.092,false,Low
+e69609d3-9285-d325-9284-96d60f750d10,37,M,Medicaid,0,3,0,false,0.092,false,Low
+8635d560-82ad-1d64-9a41-cc7a8000b073,50,F,Medicaid,0,1,0,false,0.092,false,Low
+2eeb7532-520e-d315-ab10-07a801373ee0,23,F,Commercial,1,0,0,false,0.092,true,Low
+27af11aa-2603-d62b-1b8a-1803394a6633,37,F,Commercial,1,0,0,false,0.092,false,Low
+84ee9557-3a51-6d4a-3392-5688de324bc2,41,M,Medicaid,0,0,0,false,0.092,false,Low
+815e3b61-03d7-899b-96b2-7515cc447b0b,29,F,Medicaid,0,0,0,false,0.092,false,Low
+ee328072-2b9b-16fd-ad67-b15479d318cc,49,F,Commercial,0,1,1,false,0.092,true,Low
+0955adaa-a76f-8e05-ecf9-7313c116279e,92,F,Medicare,0,9,0,false,0.092,false,Low
+b67c3499-c332-7471-2101-ecf9bcac2e53,50,F,Commercial,0,4,0,false,0.092,false,Low
+0b6b1053-30a9-439c-ffa0-4ca19a70c0c3,45,M,Commercial,0,2,0,false,0.092,false,Low
+6347e35a-15aa-3a09-22f5-85ce37f51b64,35,M,Commercial,0,0,0,false,0.092,false,Low
+3717c133-c036-a9db-f505-31e4a356123f,55,M,Commercial,0,2,1,false,0.092,false,Low
+0957d7e0-06ff-ed0e-a2cb-923af1598470,47,M,Commercial,0,0,1,false,0.092,false,Low
+e38079a6-19b2-f6e8-b875-6a8c6d61d568,46,M,Medicaid,0,2,2,false,0.091,false,Low
+0b27adc0-66d0-539d-7ae5-0a51a0ad6dd4,58,F,Medicaid,0,1,0,false,0.091,false,Low
+45926ced-1d4c-55e0-9c5a-1c83eda9ac5f,18,M,Commercial,0,2,0,false,0.091,false,Low
+c0c6682a-11e3-4496-ce59-0e9929396f34,45,F,Commercial,0,1,0,false,0.091,false,Low
+c2294d1b-3417-1a39-9031-a8263428d382,37,M,Commercial,0,1,0,false,0.091,false,Low
+e23e4bbc-f14e-ef73-79be-585c23adddde,79,F,Medicare,0,7,0,false,0.091,false,Low
+6415b890-b12c-2fe4-cdc6-454d62f49f80,102,F,Medicare,0,5,0,false,0.091,false,Low
+cca127d2-6bda-a3ef-b5aa-fd2948a0f62f,51,M,Commercial,0,2,0,false,0.091,false,Low
+7bdd30f5-7598-e44a-c32c-f928becb9d5e,25,F,Commercial,0,0,0,false,0.091,false,Low
+ce0c6c95-89d9-7109-8ea2-08b3b512c406,24,F,Commercial,0,0,0,false,0.091,false,Low
+7a6e9935-c118-1bf8-e2b7-6382e9d8c668,21,F,Commercial,0,0,0,false,0.091,false,Low
+4fac2649-60ee-2ddd-0b31-0bea004d3c6a,61,F,Commercial,0,1,1,false,0.091,false,Low
+cad77190-e5ad-5ce7-fffb-b13b4fcc4737,26,F,Medicaid,0,1,0,false,0.091,false,Low
+b14939b9-5481-dad9-3ad6-1589d13b717d,37,F,Commercial,0,1,0,false,0.091,false,Low
+39a9f648-9e90-e24a-b5be-165d50cb1587,57,F,Commercial,0,5,0,false,0.091,false,Low
+329429b6-f9d9-03e0-bfec-81ba64e2e48e,41,M,Uninsured,0,2,0,false,0.091,false,Low
+210e7241-3e4f-dfd5-3bd4-ee07a6f80846,42,M,Dual Eligible,0,3,0,false,0.091,false,Low
+1b79641c-a011-48b3-c488-f5fd37e5c715,65,F,Medicare,0,3,0,false,0.091,false,Low
+ad88f10d-8ddb-22cc-6f90-f342ad57028a,41,F,Commercial,0,2,0,false,0.091,false,Low
+80ea990b-2489-352a-ab4e-663206e1f291,33,F,Commercial,0,1,0,false,0.091,false,Low
+b08cd82f-4b6b-b670-c053-a2adc43ff838,33,F,Commercial,0,0,0,false,0.091,false,Low
+5d41d7ea-bd4a-de48-eb8d-f826a6c90a69,19,F,Commercial,0,0,0,false,0.091,false,Low
+c25c016a-1fa6-f010-f7a3-04c84e8bfeae,24,F,Commercial,0,0,0,false,0.091,false,Low
+ed97ff75-4b0d-0b19-b4d6-6dfd6f311c6f,51,F,Commercial,0,2,1,false,0.091,false,Low
+82a11f14-84d0-ca98-92fc-78ca19be2186,48,M,Commercial,0,1,1,false,0.09,false,Low
+6e864b80-1cb8-c82b-1312-a2feec7f90e8,71,F,Medicare,0,5,1,false,0.09,false,Low
+024c5e20-999b-09b2-5fc3-b492f59ceb84,100,F,Medicare,0,6,0,false,0.09,false,Low
+76b20010-c318-5754-8c85-983aa538522f,23,F,Uninsured,0,1,0,false,0.09,false,Low
+6bb007b9-8692-0656-5d87-7fe7db858543,41,F,Medicare,0,3,0,false,0.09,false,Low
+0c7f9ef0-cfa4-6265-f790-85e4416165ca,43,F,Commercial,0,1,0,false,0.09,false,Low
+5879527b-c46f-db15-aefd-5a4fc3c4f133,41,F,Commercial,0,4,0,false,0.09,false,Low
+fa36d9d3-6d54-d62e-291e-db95879ace02,43,M,Medicare,0,5,0,false,0.09,false,Low
+9d7ea7c3-f00d-a6e7-4f3c-46d74d51d5a0,79,F,Medicare,0,4,0,false,0.09,true,Low
+fa14931f-ccde-4988-79be-e368c9b2c698,60,F,Commercial,0,1,0,false,0.09,false,Low
+406006b3-1780-8634-035d-d76acd78b161,23,M,Commercial,0,1,0,false,0.09,false,Low
+a58beb58-2925-6f5a-9c99-fb8481bdc2fa,32,F,Commercial,0,0,0,false,0.09,false,Low
+ad89ed39-f5c9-975c-5913-70238431b2bd,42,F,Commercial,0,3,1,false,0.09,false,Low
+af1221a6-407b-72b7-b60a-2d170e8c4d87,52,M,Commercial,0,2,0,false,0.09,false,Low
+df85862b-3302-d5d4-0009-ed02624466f9,54,M,Medicare,0,7,0,false,0.09,false,Low
+947c82ee-1735-c9ed-8210-38cb93d8070c,36,M,Commercial,0,3,0,false,0.09,false,Low
+2358d215-09d5-835a-a6b8-cfd1681d8a23,27,F,Commercial,0,0,0,false,0.09,false,Low
+a5117a7f-ff2f-277b-3271-d41786161a0c,21,F,Commercial,0,0,0,false,0.09,false,Low
+f2459d63-f228-edb1-a26a-1d565d481d2b,29,F,Medicaid,0,0,0,false,0.09,false,Low
+239ee417-8147-4096-d42a-9d7e2816c051,31,F,Commercial,0,0,0,false,0.09,false,Low
+be4c35ad-0b99-1cd9-fc0e-526521e6788a,32,F,Medicaid,0,0,0,false,0.09,false,Low
+c46215b0-1b6b-deac-45f5-b274e5b2d919,21,F,Commercial,0,0,0,false,0.09,false,Low
+0a80947b-a6e7-a756-d2cf-448a3e3cd5f2,69,M,Medicare,0,1,1,false,0.09,false,Low
+4da17de3-8800-bfbb-4a7f-eab77048aced,70,F,Medicare,0,3,1,false,0.089,false,Low
+f69d4317-4ebc-d0c4-e68f-5252ae1b429e,49,M,Uninsured,0,2,1,false,0.089,false,Low
+1f9fdced-98fb-d2cc-656d-e81309ea8a4e,48,F,Commercial,0,1,1,false,0.089,false,Low
+06fe0fa1-aba9-b4f6-6231-5f41bd42492d,57,M,Commercial,0,4,2,false,0.089,false,Low
+2c69d807-451d-7a16-de5b-b099a10cd52d,48,F,Uninsured,0,2,1,false,0.089,false,Low
+55c70186-9c0f-56b2-fb07-3e9fc4abcff4,71,F,Medicare,0,7,0,false,0.089,false,Low
+62641c6a-4565-5551-1ed0-b16b2e7085fe,24,F,Commercial,0,1,0,false,0.089,false,Low
+a45a4f4b-cce0-7f46-b66b-357faee22427,57,F,Uninsured,0,4,0,false,0.089,false,Low
+81fd5c88-44e9-6c72-ab37-40e4b25f83f3,68,M,Medicare,0,3,0,false,0.089,false,Low
+b2d0ace3-b7fa-6b7c-d675-a5c1ad728d89,50,F,Commercial,0,1,0,false,0.089,false,Low
+63d30905-6d2c-8bd4-2820-e4ab77d2c356,76,F,Medicare,0,9,0,false,0.089,false,Low
+fba2b9e6-a9b0-0af4-e22e-32c2c8a61c60,38,F,Commercial,0,1,0,false,0.089,false,Low
+c2f7a928-e287-1a7a-d86c-1b4dab580468,58,M,Uninsured,0,3,1,false,0.089,false,Low
+4dc26679-1a73-bf82-6865-6a31d59e99bd,62,M,Medicare,0,5,1,false,0.089,false,Low
+451fc588-6811-c070-c6ea-b2523fffeda6,47,M,Commercial,0,3,1,false,0.089,false,Low
+4ec7c8f0-0b3f-ba74-3e13-ce529c36cfa3,60,F,Medicare,0,5,1,false,0.089,false,Low
+f2717940-d113-bb12-ad2c-3353e4bb5182,45,F,Commercial,0,1,0,false,0.089,false,Low
+0fed2443-9479-996b-6031-af23e5026104,34,F,Commercial,0,1,0,false,0.089,false,Low
+f3a5c0aa-10f2-b2e8-e439-3cfac51a3775,105,F,Medicare,0,3,0,false,0.089,false,Low
+14b4237b-95dd-cd17-97f2-e995d9b0144f,36,M,Medicaid,0,2,0,false,0.089,false,Low
+e0cd8003-26e6-9dd2-ac50-566a9c6e6237,72,M,Medicare,0,3,0,false,0.089,false,Low
+51d536eb-b0d8-57a9-bc50-8ece2bd73548,58,F,Commercial,0,2,0,false,0.089,false,Low
+2b6adf7d-df39-1086-2921-33debb4b27de,36,M,Medicaid,1,1,0,false,0.089,false,Low
+d1ab608b-a805-c435-1125-782998d47ba9,23,F,Commercial,0,0,0,false,0.089,false,Low
+85120612-3f5b-8f1e-2fa1-f20f630afcd3,30,F,Medicaid,0,0,0,false,0.089,false,Low
+d5b6f211-16b4-0e87-d377-6ccc1c904355,34,F,Commercial,0,0,0,false,0.089,false,Low
+8f8ee559-6675-16fb-0126-35f3614163a3,34,F,Commercial,1,0,0,false,0.089,false,Low
+96131efe-aa08-ef38-3356-2bf882a2d3b5,51,M,Medicare,0,5,1,false,0.089,false,Low
+8cb51635-1731-0881-a970-f00d10ca631d,47,M,Medicare,0,4,1,false,0.089,false,Low
+777cc353-f9dc-6051-b5ac-bf0110aef45d,49,F,Commercial,0,0,1,false,0.089,false,Low
+7204d645-0198-57e5-ec01-59c06c05b537,48,F,Commercial,0,0,1,false,0.089,false,Low
+87f97014-7ce2-4aab-e0be-95c1e3849662,57,M,Commercial,0,9,1,false,0.088,true,Low
+85009e2d-9906-66b8-dce9-a18b2b3a9d0a,22,F,Medicaid,0,1,0,false,0.088,false,Low
+3a2978f5-5447-2483-67f1-55ce5ac45734,45,F,Commercial,0,1,0,false,0.088,false,Low
+eb3d5afd-46f8-5b12-1205-eaace856bb9a,53,M,Medicare,0,1,0,false,0.088,true,Low
+e58df2c1-7655-0eb8-03a0-f0d957f0693d,34,M,Commercial,0,1,0,false,0.088,false,Low
+0dbf2ba6-39af-b055-f24d-f33caecca013,18,M,Commercial,0,1,0,false,0.088,false,Low
+2a89ee40-606f-4df2-9e77-80aeb1304f4f,65,F,Medicare,0,6,0,false,0.088,false,Low
+88021644-61ed-6ca5-e977-698bbb2875b0,26,F,Medicare,0,2,0,false,0.088,false,Low
+16799b90-aec6-f51c-f8d5-4e2ba6dd2a74,70,M,Dual Eligible,0,3,0,false,0.088,true,Low
+aeac45e1-edc8-ebb6-6843-050986698ef3,35,M,Commercial,0,1,0,false,0.088,false,Low
+270ef1b8-bd71-e9bb-4ff4-9e27ad397ea0,50,F,Commercial,0,3,0,false,0.088,false,Low
+79a7db5e-008b-154d-b1cf-72802185c052,77,M,Medicare,0,7,0,false,0.088,false,Low
+6948b05e-02a5-e978-fa1d-04f5a273f4b7,29,M,Medicare,0,2,0,false,0.088,false,Low
+d6298a03-04c8-4c19-0609-8e53c15bbec5,24,F,Commercial,0,0,0,false,0.088,false,Low
+5ddd059e-697a-3aad-fb04-22c5db128b1f,19,F,Commercial,0,0,0,false,0.088,false,Low
+688dfcd4-b821-bbb4-9c61-d0b0271b12ea,41,F,Commercial,0,0,0,false,0.088,false,Low
+6eade54c-7253-3caa-d037-23e3165cdfe5,22,F,Commercial,0,0,0,false,0.088,false,Low
+77f0eaef-7962-4587-1b79-80450b848c8e,55,M,Commercial,0,1,1,false,0.088,false,Low
+58c1bb1e-d181-6646-3f8b-515742b7e763,55,M,Medicare,0,5,0,false,0.088,false,Low
+a343f027-1825-f6cf-e87b-3b0279520752,35,M,Medicare,0,1,0,false,0.088,false,Low
+acacbac3-c5e4-1d85-3884-e8829523de07,68,M,Medicare,0,6,0,false,0.088,true,Low
+e414e73c-65ba-04b0-f736-7619cf60f62f,26,F,Commercial,0,2,0,true,0.088,true,Low
+09ffc488-8762-3b8e-a680-212685bff42b,42,F,Medicare,0,2,0,false,0.088,false,Low
+9e091bc7-3613-8bee-0c3a-6b9be1164869,40,M,Commercial,0,2,0,false,0.088,false,Low
+8d296cd7-75fd-5094-58a6-474ff0c32b69,94,M,Medicare,0,6,0,false,0.088,false,Low
+f4b59904-d86c-856e-08e2-e94f15dc6990,32,F,Commercial,0,1,0,false,0.088,false,Low
+ccb5c10e-c957-e692-1d4d-e91666bb0545,30,F,Commercial,0,0,0,false,0.088,false,Low
+9f9a042e-84bb-3aaf-61c8-424c4e3df281,52,F,Commercial,0,0,0,false,0.088,false,Low
+636d7569-f975-d719-7e26-6e6ed1b3c7c3,25,F,Commercial,0,0,0,false,0.088,true,Low
+c9c6bd81-9608-c0ab-675e-c7006766a85f,33,F,Commercial,0,0,0,false,0.088,false,Low
+3a5e2ef0-e9eb-245d-34b9-bd35cfe25aa5,38,F,Commercial,0,0,0,false,0.088,false,Low
+35432f52-0690-837a-6fd1-15f6aedc30dc,49,F,Commercial,0,1,1,false,0.088,false,Low
+5139d4a7-1df9-f206-a4c5-e2a3f3bfe0ea,52,F,Commercial,0,2,1,false,0.088,false,Low
+a594dda3-b3a6-6382-316a-6f0ea4b49640,47,M,Commercial,0,0,1,false,0.088,false,Low
+5ba0a3f3-32f7-02b1-ec6a-8f568923954c,66,M,Medicare,0,8,1,false,0.087,false,Low
+a80c6c57-530f-60f4-ca31-789069587943,47,F,Commercial,0,1,2,false,0.087,false,Low
+39b76937-cbc8-6fc4-f343-4d03aaaa5ab2,42,F,Commercial,0,7,1,false,0.087,false,Low
+4632edd1-93cd-1344-d093-a94d8c287d8c,46,M,Uninsured,0,3,1,false,0.087,false,Low
+af8d62a8-d88b-4633-2d50-f0f346299a94,57,F,Medicare,0,2,0,false,0.087,false,Low
+56e7a0ff-79d5-ba70-8be5-d8146406a50d,23,F,Medicare,0,1,0,false,0.087,false,Low
+92ff3fee-f5c8-4ed5-fddc-8edc60edbd3c,45,M,Medicaid,0,1,0,false,0.087,false,Low
+d4cdcf32-38e1-07c8-59f1-c5aae35f4df9,65,M,Medicare,0,4,0,false,0.087,false,Low
+c128d199-3f25-21e2-7188-15118539a2ee,54,F,Medicare,0,2,0,false,0.087,false,Low
+d7859536-25d6-a5bd-5c14-7d3cf6364ca2,72,F,Medicare,0,5,0,false,0.087,false,Low
+f1574d16-34d8-7e6b-9bd5-b44cba54aac8,52,F,Medicare,0,6,0,false,0.087,false,Low
+e5cb5486-2f65-3a5b-92c4-68d9ab8cc401,65,F,Dual Eligible,0,1,0,false,0.087,true,Low
+7264c2cb-aebb-9658-d024-fbdb1a923962,33,F,Medicaid,0,3,0,false,0.087,false,Low
+a66ac766-26d6-8ac4-7b06-c8db052a4252,24,M,Medicare,0,2,0,false,0.087,false,Low
+3c2e37d8-99de-31bb-ddb0-c7936ec180cb,27,F,Medicaid,0,1,0,false,0.087,false,Low
+ba467ad8-d126-8df0-f032-663a9a71e968,22,M,Commercial,1,1,0,false,0.087,false,Low
+e0237f48-ecdd-99f1-3d6f-0433b92c672a,34,F,Commercial,0,3,0,false,0.087,false,Low
+1aab82e0-bdd8-4de0-a3c9-ca75cb4ab132,20,F,Medicaid,0,0,0,false,0.087,false,Low
+926ca542-b5e5-d124-dd4f-db3bbe0a9389,18,F,Medicaid,0,0,0,false,0.087,false,Low
+96349f60-1e22-89a0-4868-9a4d7f7a7914,23,M,Commercial,0,0,0,false,0.087,false,Low
+7b04ab97-56cf-7cc3-8496-81768c206c70,34,F,Commercial,0,0,0,false,0.087,false,Low
+db5e8021-fc46-740b-241c-481ec96319cb,59,M,Commercial,0,4,2,false,0.087,false,Low
+56bfe342-87e1-59e7-b251-f9d6fcd2d754,50,F,Medicare,0,3,1,false,0.087,false,Low
+c820fd09-d1a9-fed6-b1d0-9b6bda00eb1c,49,M,Commercial,0,2,1,false,0.087,false,Low
+f2406923-0614-442e-60bb-0226cb3f3bf8,50,F,Uninsured,0,1,0,false,0.087,true,Low
+a122abe2-d5bd-1836-6d70-b04dc142df26,43,M,Commercial,0,2,0,false,0.087,false,Low
+e315a16e-f169-7eed-edaa-cc3fdd858a5d,73,F,Medicare,0,1,0,false,0.087,false,Low
+c5636267-9108-50da-40c7-75bc430ea926,24,F,Uninsured,0,1,0,false,0.087,false,Low
+fc85d954-5112-747f-c924-8461a706d43b,58,F,Uninsured,0,1,0,false,0.087,false,Low
+bcfc568d-8ea8-6335-5f3b-7a138be6fe97,26,M,Medicaid,1,0,0,false,0.087,false,Low
+303b4bc9-8e43-bda6-e0e2-27121d9df270,44,F,Commercial,0,0,0,false,0.087,false,Low
+8508d703-f06e-694b-17a2-2e52afd0257f,22,F,Commercial,0,0,0,false,0.087,false,Low
+6e6a4d89-4709-5549-d696-94a38122b047,27,M,Commercial,1,0,0,false,0.087,false,Low
+2d56633f-71fd-d363-6d1a-c8c1432fb259,31,M,Commercial,0,0,0,false,0.087,true,Low
+6c5ca436-d8ee-3970-60f8-544e73912c0f,60,F,Commercial,0,3,1,false,0.087,false,Low
+644c8a7a-7a6f-3906-f247-55707ad5740f,54,F,Commercial,0,1,1,false,0.087,false,Low
+49b00c6f-8d1b-b304-e3e3-e4985f283897,46,M,Commercial,0,4,1,false,0.086,true,Low
+2ae1e8b1-7fb2-8f1c-7376-ef106012eb58,46,M,Commercial,0,1,1,false,0.086,true,Low
+f37af715-7d02-1ed4-3c10-8ba1689bf52e,51,F,Commercial,0,1,1,false,0.086,false,Low
+d216a259-cb57-ebdc-35dc-06dc06dd6488,48,F,Commercial,0,1,2,false,0.086,false,Low
+9b81557e-93ba-5c2f-0252-c43d362efd42,79,M,Medicare,3,1,0,false,0.086,false,Low
+c99d5aab-8f41-e741-1b76-0dea8b739e93,19,M,Commercial,0,1,0,false,0.086,false,Low
+92cf63a9-9fc0-2d83-bf4a-339c6f2d1537,39,F,Commercial,0,1,0,false,0.086,true,Low
+e0858dd9-896b-b66d-83fe-ccbe8233bbc9,30,M,Commercial,0,0,0,false,0.086,false,Low
+f71e65a8-df54-4791-4d66-c5a7f1b570f6,27,F,Commercial,0,0,0,false,0.086,false,Low
+ff0411b3-402f-4b11-a55f-3937f613fd6b,54,F,Commercial,0,2,1,false,0.086,false,Low
+1aef5fe0-89e1-a89f-77b0-e35c38163883,48,F,Medicare,0,1,1,false,0.086,false,Low
+212e87f0-6fac-0ff7-dbe7-80dbd7fffecc,57,M,Commercial,0,6,1,false,0.086,false,Low
+641128ac-9d67-7925-8017-733e8d5980c6,60,F,Uninsured,0,1,0,false,0.086,false,Low
+b23f489d-8477-5553-8689-ddd5aca428e2,55,M,Commercial,0,3,0,false,0.086,false,Low
+74333a8d-4ec4-8cdc-1cd7-1b19ab1e0707,64,F,Medicaid,0,3,0,false,0.086,false,Low
+cfac3edb-5c55-a291-b427-40f16ccb4e85,94,F,Medicare,0,3,0,false,0.086,false,Low
+1a578c2a-84e6-3705-622a-333ff6951ed9,43,F,Commercial,0,3,0,false,0.086,false,Low
+82b366b0-003a-6a63-274b-ce90a6c735ce,23,F,Commercial,0,1,0,false,0.086,false,Low
+1853adea-bd0c-516c-69ce-fbd13f947cce,22,M,Commercial,0,1,0,true,0.086,false,Low
+8060bfb4-4360-e266-5ee2-04787707bf60,28,F,Commercial,0,2,0,false,0.086,false,Low
+89f551cd-f865-884f-cd14-8232084e1b1c,58,F,Commercial,0,2,0,false,0.086,false,Low
+92af1769-f021-9382-d06b-752899ed8350,21,M,Commercial,0,0,0,false,0.086,false,Low
+d18213ca-2edd-3206-ed94-19afe856df6b,20,M,Commercial,0,0,0,false,0.086,false,Low
+8bb6f6a8-1600-7614-c10d-4932cd694704,32,F,Commercial,0,0,0,false,0.086,false,Low
+0d968006-46f3-aae8-69c2-4f1cfebaeb24,58,F,Commercial,0,1,1,false,0.086,false,Low
+023d14fa-8b29-07fb-31c0-99f07969e4dc,63,M,Commercial,0,3,1,false,0.086,false,Low
+2201f761-9b24-e098-1eed-88d5d746886b,53,F,Medicare,0,6,1,false,0.085,false,Low
+2b42a968-c9dc-d930-c000-0ed1379e61f2,47,M,Commercial,0,3,1,false,0.085,true,Low
+af558a2f-26b9-ea24-43da-8426bb94d41d,47,M,Medicare,0,2,1,false,0.085,false,Low
+e12ccbe4-dd48-be80-05a2-aca2c2aa1070,21,F,Medicaid,0,1,0,false,0.085,false,Low
+523ab25b-52ff-1f73-f59a-a9d089dda2ad,57,F,Commercial,0,2,0,false,0.085,false,Low
+c7dcec46-43c5-36a2-202f-f91bf9698dd3,42,M,Commercial,0,2,0,false,0.085,false,Low
+3201c092-faee-8d07-643c-4302b59e14cf,60,M,Commercial,0,2,0,false,0.085,false,Low
+115d900f-6932-89cf-b90a-1693d60d5199,29,F,Commercial,0,2,0,false,0.085,false,Low
+2e3c3108-70f2-7f33-f752-1d48c16cd6ea,80,M,Dual Eligible,0,2,0,false,0.085,false,Low
+dca839e2-8694-6ec8-960a-483efbc76413,71,F,Medicare,0,5,0,false,0.085,false,Low
+2a801a9c-9341-ed04-0874-28b18899783f,30,M,Medicaid,0,2,0,false,0.085,false,Low
+c67c76e1-668a-4cb5-48d5-ea6c6bdedf99,50,M,Commercial,0,4,0,false,0.085,false,Low
+82a61219-7467-e7ca-c928-99689e66045d,32,F,Commercial,0,2,0,false,0.085,true,Low
+3be27949-408d-0e0e-b566-4158a4bde518,42,F,Uninsured,0,3,0,false,0.085,false,Low
+1b3a73cf-f85d-0e27-f48f-c2dd66c47edc,25,M,Dual Eligible,0,2,0,false,0.085,false,Low
+bf8143a4-9a35-026f-9c4f-a713ab611149,58,F,Commercial,0,1,0,false,0.085,false,Low
+f1698104-2ab6-b3b7-72d3-0006ee1b2c9e,25,M,Commercial,0,0,0,false,0.085,false,Low
+fb8c44e9-7616-95d6-39bc-5104d87598c2,40,F,Commercial,0,0,0,false,0.085,false,Low
+1c7e06b6-7da5-69dd-b868-c800a0a37e36,28,F,Commercial,0,0,0,false,0.085,false,Low
+e1254d44-cbb0-e9fc-1685-e7c4f4868cdf,24,F,Commercial,0,0,0,false,0.085,false,Low
+016a1a5e-4450-7aaa-e5f6-16dc61e33ae6,74,F,Medicare,0,4,1,false,0.085,false,Low
+36e78c82-a2fb-ce3c-a329-c3097fcfa4cb,53,F,Commercial,0,2,1,false,0.085,false,Low
+d214d11a-7a80-023e-2a9e-665998ce9665,63,F,Uninsured,0,4,1,false,0.085,false,Low
+178c01a3-2a21-ca97-161d-778b0dbba063,30,F,Uninsured,0,1,0,false,0.085,false,Low
+92cc1dc9-edc0-5486-c339-cb1365983237,41,M,Commercial,0,1,0,false,0.085,false,Low
+77b9f9e8-5587-0306-ae8a-c51e068c7b58,55,M,Commercial,0,4,0,false,0.085,false,Low
+bc205de3-ac6a-55dd-87fe-c1263efeb62a,67,F,Medicare,0,5,0,false,0.085,false,Low
+42b6b019-20c8-27a4-71c6-0c8072c46857,50,F,Commercial,0,3,0,false,0.085,false,Low
+74620a6a-4137-444f-3486-beb4a84a7e18,57,M,Commercial,0,1,0,false,0.085,false,Low
+ebb9f2d1-82d6-e6d7-9279-6c7452952a44,39,F,Commercial,0,1,0,false,0.085,false,Low
+ce440a66-036f-62dd-50b0-08bd3af3525e,18,F,Medicare,1,1,0,false,0.085,false,Low
+7326b419-eecb-b324-3d22-2970721356ad,39,F,Commercial,0,1,0,false,0.085,false,Low
+926e365c-d6fd-c36c-e7f1-04f9bbdc5373,52,F,Uninsured,0,3,0,false,0.085,false,Low
+520d9db0-38d4-e3e8-7b11-5467c7306c2f,41,F,Commercial,0,1,0,false,0.085,false,Low
+73501c39-9fb8-23e3-c7b3-f6f347b732af,32,F,Commercial,0,1,0,false,0.085,false,Low
+75ed7c26-a149-be20-a945-cb7bdab9791f,20,F,Commercial,0,0,0,false,0.085,false,Low
+2b192cee-fe62-521f-a60e-53d3e66d20bf,18,F,Medicaid,0,0,0,false,0.085,false,Low
+9d6a1668-7c30-8305-9858-d94dfde3b736,20,M,Medicaid,1,0,0,false,0.085,true,Low
+be0831c8-8382-849c-29bf-8f56a2ae791f,20,M,Commercial,0,0,0,false,0.085,false,Low
+d46159cf-d215-2255-4684-a1e2b2b6215e,59,F,Commercial,0,2,1,false,0.085,false,Low
+95504355-4148-bab3-2be6-c7e85e80845c,49,M,Commercial,0,1,1,false,0.085,false,Low
+5d9da0ef-85bf-2694-9554-10f94123c02d,46,M,Commercial,0,0,1,false,0.085,false,Low
+068c2e7c-62cf-7b91-e7d8-8a1676e32c30,49,F,Commercial,0,0,1,false,0.085,false,Low
+71afc052-fe25-a0d8-475f-498e66eb6974,70,M,Medicare,0,5,1,false,0.084,false,Low
+29b08593-21af-d81d-b02e-490f9ebb30fc,72,M,Medicare,0,5,1,false,0.084,false,Low
+c27f17a1-6f00-f0e7-ac5b-faf3f2908893,48,M,Medicaid,1,1,1,false,0.084,false,Low
+b20b52c7-ca5b-e674-0422-a0c06d13ae76,68,M,Medicare,0,5,1,false,0.084,false,Low
+5d28ec37-f1b8-692d-be00-68d135b4a376,46,M,Medicare,0,5,1,false,0.084,false,Low
+51d6a22a-ba4c-62db-6009-c1b326b11040,36,F,Medicare,0,3,0,false,0.084,false,Low
+4fa5075b-2239-01cf-8482-a38f7d99d677,39,M,Commercial,0,1,0,false,0.084,true,Low
+f40aa9d1-4a99-f3f3-7eca-8a19bfbe606c,30,M,Commercial,0,2,0,false,0.084,false,Low
+d25deaa9-e42d-6346-f328-481a382e8e88,38,M,Commercial,0,1,0,false,0.084,false,Low
+13212a7b-a7ba-4ded-0694-ab5e3c14b2d1,28,M,Commercial,0,0,0,false,0.084,false,Low
+6bb0b29a-6c6a-69d8-031b-8bdc829911ff,21,F,Commercial,0,0,0,false,0.084,true,Low
+380d3232-935f-fdc4-3ff4-4946e9bdf49c,24,F,Commercial,0,0,0,false,0.084,false,Low
+b7493ffd-71e3-1a60-6122-f68ac9340394,34,F,Medicaid,0,0,0,true,0.084,false,Low
+45ea9e13-ccca-9334-92f3-01719b19660f,21,F,Commercial,0,0,0,false,0.084,false,Low
+e91b38e7-6f79-e2f4-89ed-29f31853149d,61,M,Medicare,0,10,2,false,0.084,false,Low
+37bddf43-7b9c-43b9-1465-1ffa8ddb618e,67,F,Medicare,0,3,1,false,0.084,false,Low
+6142e354-6f40-1504-754c-0a19ffdf48ba,46,M,Commercial,0,3,1,false,0.084,false,Low
+06d9b168-6ea1-82f4-043b-576aa738a3e7,37,F,Commercial,0,2,1,false,0.084,false,Low
+080b069b-5108-46b6-ecef-6aacd3b9ef3f,41,M,Medicare,1,4,0,false,0.084,false,Low
+bcdc6f93-e6b0-e3bc-0c09-3d36a81e15f1,21,M,Commercial,0,1,0,false,0.084,false,Low
+31533e40-3e99-a073-5317-47acefd4afdd,26,F,Commercial,1,1,0,false,0.084,false,Low
+d355997d-e85c-2fa7-ae66-c8e73529f9dd,35,F,Medicaid,0,1,0,false,0.084,false,Low
+7d5d40eb-f458-3d1a-a437-c345082eb2d9,27,F,Commercial,0,1,0,false,0.084,false,Low
+758b4e32-b186-92c3-51da-c89898c9f220,22,F,Commercial,0,0,0,false,0.084,false,Low
+5a702621-682b-c7fa-f993-ae92b844b252,25,F,Commercial,0,0,0,false,0.084,false,Low
+a05202c2-dad6-6846-4dfe-423fa1736e02,28,M,Commercial,0,0,0,false,0.084,false,Low
+f72ca905-a6e4-e51e-0802-e1ede702ef60,58,F,Commercial,0,1,1,false,0.084,false,Low
+e7c59416-79f4-d586-db47-260a9330f31b,67,M,Medicare,0,0,1,false,0.084,false,Low
+b4e555f9-d758-7e8e-8759-345008373b54,49,M,Medicaid,0,3,1,false,0.083,false,Low
+d3cd07ef-f611-6cd6-b8e3-bdd4d4b2a40a,51,M,Commercial,0,3,1,false,0.083,false,Low
+b2e0411b-145a-6958-740f-d76a08f796c7,53,F,Medicare,0,4,1,false,0.083,false,Low
+6111a518-0080-ae91-0964-087921762f09,53,M,Medicare,0,6,1,false,0.083,false,Low
+74da3a31-18e1-1e15-b5c5-04025c5d66b0,65,M,Dual Eligible,0,2,0,false,0.083,false,Low
+27807178-b6f9-9547-4403-67542fdc44bf,34,F,Uninsured,0,1,0,false,0.083,true,Low
+364c439b-3ca4-d8e6-65e6-f835db43a2ef,59,F,Medicare,0,3,0,false,0.083,false,Low
+c066da6c-5426-79bc-1a69-d70cdf6c6a3d,92,F,Medicare,0,3,0,false,0.083,false,Low
+b97cb293-e914-d7c5-d56e-69824491857c,38,M,Commercial,0,1,0,false,0.083,false,Low
+1e1c2fac-caa8-1b64-6407-a906ed91caa6,50,F,Uninsured,0,4,0,false,0.083,false,Low
+4a7bef3a-7876-6de6-a4c2-27183364ed40,43,M,Commercial,0,1,0,false,0.083,false,Low
+c7ccb397-544c-d750-51ee-f10e987a57e5,32,M,Commercial,0,1,0,false,0.083,false,Low
+f68f1577-020a-7751-2084-c8f4620c0d25,103,M,Medicare,0,9,0,false,0.083,false,Low
+1fee85c9-7061-f223-eda9-a18dc7a51473,50,F,Commercial,0,2,0,false,0.083,false,Low
+958b8ebb-e217-c5f8-a60f-17f23b49a375,43,M,Commercial,0,1,0,false,0.083,false,Low
+9f10defe-3bb8-e9d5-fa6e-1243474e6bff,20,F,Commercial,0,1,0,false,0.083,false,Low
+54838577-af47-0b3a-663c-6420f59defa9,33,M,Commercial,0,2,0,false,0.083,false,Low
+a9b9aefe-65ca-63c9-9ebd-8df8aca6c4b7,41,F,Commercial,0,0,0,false,0.083,true,Low
+a02ee4ea-9e95-d64a-fe31-8574cecc68bc,29,M,Commercial,0,0,0,false,0.083,false,Low
+6fb2e20a-16c8-263b-a4db-4db858f79801,33,F,Commercial,0,0,0,false,0.083,false,Low
+cb61baf0-7f6f-398d-6878-3de1ab609306,31,F,Medicaid,0,0,0,false,0.083,true,Low
+8b8f1e13-b68f-5d5f-4230-0ac867267002,28,M,Commercial,0,0,0,false,0.083,true,Low
+a475675c-7153-5da6-f8be-61c2217f7292,19,M,Commercial,0,0,0,false,0.083,false,Low
+7e73e7d3-48ff-9f71-a2db-c9352ea2b423,61,M,Commercial,0,1,1,false,0.083,false,Low
+3bedaa97-61e9-06ab-3b9d-c60f17375bf3,31,F,Commercial,0,3,1,false,0.083,false,Low
+e7bdba64-21c4-8d3a-d061-37eab138bade,58,F,Commercial,0,1,1,false,0.083,false,Low
+d2bfeab4-a47f-4b25-61ce-03bfb275a4b1,51,M,Medicare,0,4,1,false,0.083,false,Low
+084f81de-d57a-5167-c138-94bdae4170a3,72,F,Medicare,0,5,1,false,0.083,false,Low
+27d44017-ab24-4e1b-79cf-71aceeb1c7fa,46,F,Medicaid,0,3,1,false,0.083,false,Low
+869627cc-0b17-73fa-2de8-fcb52f13a99d,49,F,Medicaid,0,1,1,false,0.083,false,Low
+ee2f9415-335b-91cf-46f5-93d3c837b6a4,40,M,Commercial,0,6,0,false,0.083,false,Low
+0399299d-024a-c139-e8b4-6ae7c67bc004,24,M,Medicaid,0,1,0,false,0.083,false,Low
+13590cc1-6c0d-d7b0-a681-682073a3ffd8,105,F,Medicare,0,5,0,false,0.083,false,Low
+09a2ab02-bbcf-9b47-fdaa-78b8d6234c8f,71,M,Medicare,0,4,0,false,0.083,false,Low
+150d2bd4-42df-badc-f9a4-81e7b33729bf,27,M,Commercial,0,2,0,false,0.083,false,Low
+c0554a7b-3a79-b327-c842-0dae0f3d77f4,22,F,Commercial,0,2,0,false,0.083,false,Low
+c1e60762-c5a6-5344-cc4f-a155bbad0f58,37,F,Commercial,0,2,0,false,0.083,false,Low
+b96986e8-1fcf-d4e2-fdf3-4e838e2471fb,27,F,Medicaid,0,0,0,false,0.083,false,Low
+9fefc0ee-e91d-b781-dabe-a30eddcedd43,20,M,Commercial,0,0,0,false,0.083,false,Low
+fc1c0851-dd8d-2fb4-3bfc-3980026b4312,24,F,Commercial,0,0,0,false,0.083,true,Low
+8662ce61-e788-6244-93f8-5e00d9821279,26,M,Commercial,0,0,0,false,0.083,false,Low
+61dc49b6-a95d-df5a-4e41-2591f135fd53,36,F,Medicaid,0,0,0,false,0.083,false,Low
+17e9a88b-30dd-4396-0529-db35d8d2af27,49,M,Commercial,0,1,1,false,0.083,false,Low
+520e6e72-a964-eaf5-8495-b41c77eff668,46,M,Commercial,0,0,1,false,0.083,true,Low
+9b8332ff-461e-f321-a238-7c6c02f8ca26,62,F,Commercial,0,0,1,false,0.083,false,Low
+c0bb881e-4fa6-71b4-5a36-77201ae7a402,60,F,Commercial,0,1,1,false,0.082,true,Low
+9b536366-b23e-c63a-e8f8-fb419c503369,68,F,Medicare,0,5,1,false,0.082,false,Low
+e35cd866-7ad4-fa33-1ebf-b713df12543c,68,M,Medicare,0,5,1,false,0.082,false,Low
+bd6a7414-f691-85d1-7be3-54d768cd1c0b,36,M,Commercial,0,2,1,false,0.082,false,Low
+cdca3d57-8914-7639-06a6-927b3e2e481a,41,M,Medicare,0,3,0,false,0.082,false,Low
+1624c58c-458a-404a-3bec-2f90f3fa9010,51,F,Commercial,0,2,0,false,0.082,true,Low
+42937bcb-01e4-7ef4-131e-05cb361e0ffc,21,F,Medicaid,0,1,0,false,0.082,false,Low
+d6734bf0-742e-ecd6-cbcf-cf13935222a6,66,M,Medicare,0,4,0,false,0.082,false,Low
+d4f93515-fba8-646a-b396-b74a29e04f2d,40,F,Medicaid,0,3,0,false,0.082,false,Low
+2db0bb26-6b9a-0465-462e-75fce2690f0a,44,F,Commercial,0,2,0,false,0.082,true,Low
+ae44d54d-cbea-a17d-f345-ee7e0f5bb553,37,M,Medicaid,0,2,0,false,0.082,true,Low
+1a9d77bd-337f-3ffc-f8eb-08870d8873ad,65,M,Medicare,0,7,0,false,0.082,false,Low
+178a423a-4f3c-4276-bc72-ae8d5671c610,33,M,Commercial,0,1,0,false,0.082,false,Low
+25544d64-3ba8-3dfe-7919-6d498e808ea0,26,M,Commercial,0,1,0,false,0.082,true,Low
+378b5b63-42a4-2859-4238-e9f98b2716bc,24,F,Commercial,0,0,0,false,0.082,false,Low
+b48ad5b7-1576-fd91-209c-e1e1eadaf83e,19,F,Commercial,0,0,0,false,0.082,false,Low
+90e0f3ca-3333-f8ca-f660-dac445289707,44,F,Medicaid,0,0,0,false,0.082,false,Low
+6515770b-b4f4-455f-7539-474942548022,47,F,Commercial,0,1,1,false,0.082,false,Low
+5a6c4e18-2ec7-e921-acf4-33b2cec1772e,52,F,Uninsured,0,1,2,false,0.082,false,Low
+fa17a053-1fd3-2a0c-9379-83ec41344a5f,49,F,Commercial,0,1,2,false,0.082,false,Low
+12ae0a60-cb75-df45-980a-6fc6ee1a6b67,61,F,Commercial,0,2,1,false,0.082,false,Low
+212687bc-2bfc-e503-e55d-0ef9d7cd44cc,71,M,Medicaid,0,5,0,false,0.082,false,Low
+f9dd6522-9d7a-93cd-c9c9-4fe118627441,50,F,Commercial,0,2,0,false,0.082,false,Low
+41643174-fd02-1c3c-b62c-5a1dce0e0fba,35,F,Commercial,0,1,0,false,0.082,false,Low
+74730a78-2286-f187-be6d-c8db0d0b78cf,19,F,Commercial,0,1,0,false,0.082,false,Low
+aed64267-2889-a60b-a3ea-07af32575de7,52,F,Commercial,0,1,0,false,0.082,false,Low
+745fbada-90d4-cbb9-4bc1-3d6b109b8e3f,62,F,Commercial,0,2,0,false,0.082,false,Low
+831291fd-e4b5-f6a7-d0c0-2eb0a8faeec3,18,M,Commercial,0,1,0,false,0.082,false,Low
+3f606e35-4415-bc7e-1c25-c80e9adba8f4,33,M,Medicare,0,2,0,false,0.082,false,Low
+920c35bc-a49a-138a-5f07-6faa0864f4fb,57,F,Commercial,0,1,0,false,0.082,false,Low
+a366a3e0-fee3-8f97-b2dd-e7b6be9d11a1,32,M,Commercial,0,0,0,false,0.082,false,Low
+7d65432a-6e0f-bd62-73ef-24a4d27452ab,19,F,Commercial,0,0,0,false,0.082,false,Low
+eb8bdc3c-a12c-430c-6185-648a0a0ae959,23,M,Commercial,0,0,0,false,0.082,false,Low
+5f717f67-cedb-f96c-dc1f-c8f27c346dd8,21,M,Commercial,0,0,0,false,0.082,false,Low
+ccc13813-9da0-4c37-e80c-dfd7bea1a9a8,48,M,Uninsured,1,0,1,false,0.082,false,Low
+49ab2d4b-2483-ccb9-dbd8-cb5a93478a56,53,F,Medicaid,0,2,1,false,0.081,false,Low
+eae808c0-76b5-ab62-0e43-77f9e3f574de,41,M,Medicare,0,5,0,false,0.081,false,Low
+509f9e22-d090-eebb-2824-c6c66b86d59e,43,M,Commercial,0,1,0,false,0.081,false,Low
+368b436b-071f-f268-ac84-dabb57b63ac5,50,F,Commercial,0,2,0,false,0.081,false,Low
+e9537114-a077-9aeb-7ff3-4b325cefa822,29,M,Commercial,0,2,0,false,0.081,false,Low
+3ae407fa-7b32-4ba2-85c4-981833628402,43,M,Medicare,0,3,0,false,0.081,false,Low
+0fedc868-ae30-8408-69ae-5dd0d5bcd21b,64,F,Medicare,0,2,0,false,0.081,false,Low
+f61d8de3-c18f-2ed5-fe57-7a91f138c751,36,M,Medicaid,0,3,0,false,0.081,false,Low
+f53aa670-a562-51fc-c5f7-c4876a6c0511,23,M,Commercial,0,1,0,false,0.081,false,Low
+e3e256f7-5d7c-c07f-1926-5c2fc8f41b58,32,F,Medicaid,0,0,0,false,0.081,false,Low
+27a483fb-e60c-3fb6-731d-92826bfaadd6,28,M,Commercial,0,0,0,false,0.081,true,Low
+11a50515-48c1-9cb9-a890-336ba1027ac3,41,F,Commercial,0,0,0,false,0.081,false,Low
+dee27dcc-c900-3619-1b76-2f2cafd480f4,25,F,Commercial,1,0,0,false,0.081,false,Low
+5036cecd-d267-accd-ffc5-7de94396702e,39,M,Commercial,0,0,0,false,0.081,false,Low
+e4aef409-02f8-78b6-aa2c-650fd5cd12cf,48,F,Commercial,0,1,1,false,0.081,false,Low
+0cc8b4ab-e908-a6cb-6710-ef0bbacc256a,75,F,Medicare,0,2,1,false,0.081,false,Low
+0cb24d24-cb62-5e83-ae95-cd6d585d2485,58,F,Commercial,0,2,1,false,0.081,false,Low
+5e7ebf2c-22ec-a89b-53ab-38edddd81be9,71,F,Medicare,0,3,1,false,0.081,false,Low
+3f8330ee-9e4a-acce-9b61-640b41660203,49,M,Commercial,0,1,1,false,0.081,false,Low
+4eaaeb01-b9e5-760f-29f9-653a93c40d77,31,F,Commercial,0,1,1,false,0.081,true,Low
+ba1b42b4-92e3-f252-12c2-e5e413a98f00,44,F,Medicaid,0,1,0,false,0.081,false,Low
+5856d1dc-086b-64e6-cc37-dfcfafb6aa4b,30,M,Uninsured,0,3,0,false,0.081,false,Low
+b6cb81f3-b9e1-b0b9-90d5-d1e7fbcd785c,57,M,Commercial,0,2,0,false,0.081,false,Low
+7c61e3ee-02b1-e8c5-ebed-d9edfdf0485b,29,F,Medicare,0,3,0,false,0.081,false,Low
+8c990a57-8cca-6d26-c409-76624ceb74d8,38,F,Commercial,0,0,0,false,0.081,false,Low
+56f9aa9c-814a-a5fa-defa-c4f5540dc0a8,28,F,Medicaid,0,0,0,false,0.081,false,Low
+d8f31ad7-7113-4bdb-e0f1-da0134f8c6c6,20,F,Commercial,0,0,0,false,0.081,false,Low
+fb336911-2f1d-ef06-5318-a92acd632814,38,M,Commercial,0,0,0,true,0.081,false,Low
+ecd4f3b6-77df-6a35-d486-e8dadb46c208,34,F,Uninsured,0,0,0,false,0.081,true,Low
+86005bfd-d892-31f9-0673-562bf1a75fb2,49,M,Commercial,0,1,1,false,0.081,true,Low
+541c815b-f845-f154-e834-5305410bdf96,52,M,Commercial,0,2,1,false,0.081,true,Low
+20e28446-8e46-8d4a-4d40-616fdeb86a19,56,F,Commercial,0,0,1,false,0.081,false,Low
+05cb9ca9-5092-9c9d-5b49-a486366cf87b,73,M,Medicare,0,4,1,false,0.08,false,Low
+1bfe9dff-1e82-5076-5382-5af4b9aa10f1,59,M,Commercial,0,3,0,false,0.08,false,Low
+ea3222f7-7ec1-b873-66b4-925ce630359a,36,M,Commercial,0,1,0,false,0.08,false,Low
+a85a2152-0654-0593-a2a1-9b3c2dcfae14,52,M,Commercial,0,4,0,false,0.08,false,Low
+b46d46d6-b8f7-5b0f-86a7-7d1087737c81,22,M,Commercial,0,1,0,false,0.08,false,Low
+ca45c67f-dbfd-f723-8c4a-490ef7553946,42,F,Commercial,0,1,0,false,0.08,false,Low
+ed1b8adf-1334-8fae-b0bc-48c20c3e90e5,25,F,Commercial,0,2,0,false,0.08,true,Low
+d22612e5-f80b-6c4f-393d-8b1938e8c3df,53,M,Commercial,0,3,0,false,0.08,false,Low
+d1682758-f939-44a9-d5ca-e3a3d3c838e6,52,M,Medicare,0,5,0,false,0.08,false,Low
+dd3219bb-d977-330a-f3e1-f5c502e6d2a2,62,F,Medicare,0,4,0,false,0.08,false,Low
+1bbcfc3b-d045-f651-72dd-04c379b2628f,65,F,Medicare,0,3,0,false,0.08,false,Low
+355d5f82-4db9-11d6-d651-c97f876baf87,53,F,Medicare,0,3,0,false,0.08,false,Low
+2b201776-a170-1a2d-b931-6d2b621fb1e3,39,F,Medicaid,0,1,0,false,0.08,false,Low
+6c0ad5e9-e672-3406-3085-02538200daa8,32,M,Commercial,0,3,0,false,0.08,true,Low
+6bfc4203-aa9b-5db8-e5e3-1011a4c0cc02,55,F,Commercial,0,1,0,false,0.08,false,Low
+f8edcca4-3b6d-4b35-3234-1452562effcc,41,M,Commercial,0,2,0,false,0.08,false,Low
+4a8ff8d2-3210-6965-b925-a12cee1a2430,19,F,Commercial,0,2,0,false,0.08,false,Low
+290a20b1-f3c0-69df-5cdd-f1d10fa6c31a,53,F,Commercial,0,0,0,false,0.08,false,Low
+d3ca81a4-8e86-9863-0b04-e1dbc76d17c0,47,M,Commercial,0,1,1,false,0.08,false,Low
+24f4a8d9-e64c-e3ef-ea10-69c58666096d,63,F,Medicaid,0,3,1,false,0.08,false,Low
+a4bff8f8-bf78-e4cf-0705-878f82437cca,46,M,Commercial,0,1,2,false,0.08,false,Low
+90cc6828-5206-8b01-3e59-c90a1d0d8b49,46,F,Commercial,0,1,1,false,0.08,false,Low
+9778b0a3-f8e0-bd6e-b27e-e4986af76cda,61,M,Commercial,0,4,0,false,0.08,true,Low
+22bfda0f-f26b-a7e0-676c-52e5dfc923e0,26,F,Uninsured,0,1,0,false,0.08,false,Low
+7c780f50-c9c6-8969-e679-7ec64aec9c15,63,F,Commercial,0,1,0,false,0.08,false,Low
+46acfc22-b7e9-6148-2719-3fe64400c9d7,45,F,Commercial,0,3,0,false,0.08,false,Low
+5cbcf860-9fd5-4f79-9575-683b82f93bac,66,M,Medicare,0,1,0,false,0.08,false,Low
+12d6a3b3-a0f0-446e-2acc-c0ea4fbd09a8,18,M,Commercial,0,1,0,false,0.08,false,Low
+ce86c570-e9d0-bc6d-b4ec-4997fe03d590,27,F,Commercial,0,1,0,false,0.08,false,Low
+c1cc034a-6ce4-92ac-e104-4dc601b73e95,20,M,Medicaid,0,1,0,false,0.08,false,Low
+1330658a-7c01-7bed-ba4e-29a8121d3d55,18,M,Commercial,0,2,0,false,0.08,true,Low
+11ea9e54-1cf1-655e-1207-2de06969874a,37,F,Uninsured,0,1,0,false,0.08,true,Low
+d01918cd-da33-90ed-d46a-b4cabfdbf4f0,20,F,Commercial,0,0,0,false,0.08,true,Low
+84417c0d-0db8-dc7c-4a7d-f80a70b0d7e7,24,M,Commercial,0,0,0,false,0.08,false,Low
+851599ba-c33c-e8b1-81b8-98a51d70aae8,26,F,Commercial,1,0,0,false,0.08,false,Low
+8085fceb-170e-3f5c-1723-63782e8ab97e,39,F,Commercial,0,0,0,false,0.08,true,Low
+909fbcb1-8923-567c-b41f-424c11fb5369,19,M,Commercial,0,0,0,false,0.08,false,Low
+d03fa130-7dc0-1463-61b6-2224a9f84d38,25,F,Commercial,0,0,0,false,0.08,true,Low
+1a752e23-12e2-ba55-110f-4149a178afcf,36,F,Commercial,1,0,0,false,0.08,false,Low
+c6cfdbf3-4226-cad9-51ae-9005a618f847,36,M,Commercial,0,0,0,false,0.08,false,Low
+5ca33bea-3c69-e843-dec0-672700032aef,41,F,Uninsured,0,0,0,false,0.08,false,Low
+8a6b4684-2d58-c502-df4b-73f10f7d946f,49,M,Uninsured,0,2,1,false,0.08,false,Low
+67c79e79-1629-6368-3614-22013a2ca4dd,48,M,Commercial,0,2,1,false,0.08,false,Low
+49af39ac-985f-75ef-a239-4617bc6cae8b,58,M,Commercial,0,2,1,false,0.08,false,Low
+34de9eb8-9d37-215e-3c2f-4aa447e6d3f5,48,M,Commercial,0,2,1,false,0.079,false,Low
+df707c93-92a8-b9f0-7a4d-2d710816f300,70,F,Medicare,0,3,0,false,0.079,false,Low
+a7d8d5ec-8b0e-003c-99fd-38a30aa16f2a,57,M,Commercial,0,3,0,false,0.079,false,Low
+e919f7d2-dc44-5e5f-7455-775d94cb5cc6,81,M,Dual Eligible,0,3,0,false,0.079,false,Low
+9c15125c-32e0-ab2f-c524-8e38419f0d73,39,M,Medicare,0,2,0,false,0.079,false,Low
+1461ae1d-c357-fb97-f8d4-4ef1dd6a81be,55,F,Commercial,0,1,0,false,0.079,false,Low
+db0b5a3f-bf9e-96c3-d028-72278adfe267,21,M,Commercial,0,1,0,false,0.079,false,Low
+eb9326b0-1f60-e13e-6af2-4ec274ab1dcb,53,M,Commercial,0,3,0,false,0.079,false,Low
+e91e8d01-5153-5e57-ff04-57c6d70fcff4,62,M,Commercial,0,5,0,false,0.079,false,Low
+071acfc8-2154-ac43-0a0c-d991ed95827e,51,F,Commercial,0,1,0,false,0.079,false,Low
+68ed51d8-5ef4-5277-c8ad-21222eee36a2,30,M,Commercial,0,2,0,false,0.079,false,Low
+09f2a1aa-20ad-d4db-dd0e-1aa054571561,39,M,Uninsured,0,1,0,false,0.079,true,Low
+c507ce58-4d43-22e3-43f6-f863c2b1ad4a,65,F,Medicare,0,2,0,false,0.079,false,Low
+322af8b2-a1f4-5e36-48de-8524f7632f50,23,M,Commercial,0,1,0,false,0.079,false,Low
+fed64d56-eb2b-f7ca-a790-c8b99d9af7dc,30,M,Commercial,0,2,0,false,0.079,false,Low
+830e7d84-ce66-f4b6-0e6c-07c76abbeb8a,26,M,Commercial,0,0,0,false,0.079,false,Low
+3d7fdcfa-4d52-29e0-c9cc-a02c17d618e3,23,F,Commercial,0,0,0,false,0.079,false,Low
+36deb4e8-cfd4-07d1-185d-2e8c34908e4e,19,M,Commercial,0,0,0,false,0.079,false,Low
+05d39322-006c-95d6-611a-ba82f297b768,21,F,Commercial,0,0,0,false,0.079,false,Low
+021142be-3a32-af72-8a9c-06958b3dba9f,27,F,Uninsured,0,1,1,false,0.079,false,Low
+866bf58f-00ed-8603-744a-ed0c07324e8f,48,F,Commercial,0,2,1,false,0.079,false,Low
+c23290f3-2c28-d526-e0d5-7aaad42b0b85,33,F,Uninsured,0,2,1,false,0.079,false,Low
+13c3d085-8419-1059-b8cb-e668d6a20661,59,F,Uninsured,0,3,1,false,0.079,false,Low
+6c57ebe0-13d4-4725-aed4-693d4a14dc84,67,M,Medicare,0,4,1,false,0.079,true,Low
+855e0d68-20b0-1133-9d02-8eb2ab436f3a,35,M,Commercial,0,1,0,false,0.079,false,Low
+6bb9f6e8-d0c7-3e0d-579f-57da9f1f3515,53,F,Medicare,0,5,0,false,0.079,false,Low
+957afd15-c954-c971-9fd6-09a943d2288a,26,F,Commercial,0,1,0,false,0.079,true,Low
+a4360391-b54f-0a78-ad7e-bd0f6cf990ac,26,F,Commercial,0,1,0,false,0.079,false,Low
+96543def-9510-9324-3927-3df37ec2d478,33,M,Commercial,0,1,0,false,0.079,false,Low
+d71037ea-9732-2a09-8948-91e12c044979,44,F,Commercial,0,1,0,false,0.079,false,Low
+86266564-efb8-532c-244a-67fa5348ac96,28,M,Commercial,0,2,0,false,0.079,false,Low
+5260a993-2f2c-2d7b-49c5-c8d7e521b19b,54,F,Commercial,0,2,0,false,0.079,false,Low
+e0c2b7fd-6115-8de7-786b-0d1eb794a630,50,F,Commercial,0,1,0,false,0.079,false,Low
+a0c03c21-c7e2-54b4-175d-a01e8ba6de7b,33,F,Medicare,0,2,0,false,0.079,false,Low
+d5542e74-bdd2-b0e1-e1d0-48349b07bdc3,37,M,Commercial,0,0,0,false,0.079,false,Low
+68767ac4-cfcf-6d72-ece6-baa085c9e981,43,F,Commercial,0,0,0,false,0.079,false,Low
+01bd7d75-9405-280a-85da-953f723b86df,28,M,Commercial,0,0,0,false,0.079,false,Low
+7766f5bb-ff1a-5e0a-bc75-29852ddf5e77,35,M,Commercial,0,0,0,false,0.079,false,Low
+cc79f45c-25c2-9475-f9cd-90dbafdc8fba,21,F,Commercial,0,0,0,false,0.079,false,Low
+ec8aeb8b-c90d-270c-ae55-a3304a350e6f,20,M,Commercial,1,0,0,false,0.079,false,Low
+b9b70ff7-6ecb-a8df-d07f-a6cc89ab5849,30,F,Commercial,0,0,0,false,0.079,false,Low
+59ab1510-dc9f-eb37-0b66-302890c11871,23,F,Commercial,0,0,0,false,0.079,false,Low
+c9ff8bf0-625f-1881-89f2-a180531e4b16,38,M,Medicaid,0,0,0,false,0.079,true,Low
+f1fa59dc-cf0e-73d6-dae5-20646129b8d1,54,F,Commercial,0,0,1,false,0.079,false,Low
+f7b02394-3138-0a1b-55b5-5457ded0fb93,56,M,Commercial,0,2,1,false,0.079,false,Low
+aa14fd7e-1040-5a9d-228b-2aed82cc46f5,67,F,Medicare,0,0,1,false,0.079,true,Low
+b73f5258-fd49-ce9b-1b83-93472e985397,51,M,Commercial,0,3,1,false,0.078,false,Low
+37c1f380-dd85-c971-012b-316db66b156b,46,M,Commercial,0,2,1,false,0.078,false,Low
+6fe01c51-5ce6-80f4-cdbe-9ab81998cab4,47,F,Commercial,0,1,1,false,0.078,false,Low
+229e86a7-f7d2-3d36-5060-aae0af8c650c,53,F,Medicaid,0,2,1,false,0.078,false,Low
+31ae0161-174f-fcf1-deea-92ce397e99d9,36,F,Commercial,0,1,0,false,0.078,false,Low
+acf0e611-c6ab-6031-a85a-8cbd037bd0de,108,M,Medicare,0,4,0,false,0.078,true,Low
+1742504b-9d2c-1099-b6cc-fe6523c2afd8,32,F,Medicare,0,3,0,false,0.078,false,Low
+731b4e8a-0c87-150b-0551-ec59a652149f,27,F,Commercial,0,1,0,false,0.078,false,Low
+bb9c23b1-de20-3c88-bb02-41dba8281d0a,43,M,Medicaid,0,1,0,false,0.078,false,Low
+c5e76e9e-9a09-3a7e-c248-90237982c8d9,56,F,Commercial,0,1,0,false,0.078,true,Low
+1d7dcc8a-2226-3c4b-c792-7e564b03c645,43,M,Commercial,0,4,0,false,0.078,false,Low
+57353590-4d42-983f-aa33-5c85143426db,22,F,Commercial,0,1,0,false,0.078,false,Low
+ceeea1a1-bb5c-04bb-b8e8-4bef689f27dc,62,F,Medicaid,0,1,0,false,0.078,false,Low
+73314ac0-c2b8-ea5e-34eb-c7f14ab0130a,43,M,Uninsured,0,1,0,false,0.078,false,Low
+2372de44-5560-bbe7-1e06-3c1655fff1f0,24,F,Commercial,0,1,0,false,0.078,false,Low
+e9cefaa0-33c4-ddf2-e2b1-c4b328fe71cf,20,M,Commercial,0,1,0,false,0.078,false,Low
+910dddd2-4190-68c5-eb44-0062f57e3962,39,F,Commercial,0,1,0,false,0.078,false,Low
+289919b6-33cc-df6a-9698-8ac84bb41ceb,55,M,Commercial,0,2,0,false,0.078,false,Low
+b247d724-ee5d-abac-feb4-ebaba4212537,44,M,Medicaid,0,0,0,false,0.078,false,Low
+bc0933f2-24c9-b0a9-0891-bd53291a9c67,24,M,Commercial,0,0,0,false,0.078,false,Low
+0b9ae72a-4873-5d31-9d6c-d103cb4a42d0,39,F,Commercial,1,0,0,false,0.078,false,Low
+ca752df8-52e6-685d-c454-c0ebeac985ef,21,F,Commercial,0,0,0,false,0.078,false,Low
+dc8007c8-b8eb-8932-5168-fad54ce74094,24,F,Commercial,0,0,0,false,0.078,false,Low
+44309147-e4fa-4703-1252-a86036fa6b71,29,F,Commercial,0,0,0,false,0.078,false,Low
+069d1f4a-1b6f-6d04-6965-d9e9d3d0b04d,25,M,Commercial,0,0,0,false,0.078,false,Low
+28ee526a-6974-f41f-b273-48a42e2235ea,24,M,Commercial,0,0,0,false,0.078,false,Low
+eef15e77-ce6e-c831-054c-1625e8bcbc98,23,M,Commercial,0,0,0,false,0.078,false,Low
+2e7b57f0-013d-c2e6-18d0-588dfe2bb503,27,M,Commercial,0,0,0,false,0.078,false,Low
+fdd3d5e1-4161-1586-2ab6-b7a411d22da5,54,F,Commercial,0,0,0,false,0.078,false,Low
+440ac322-1225-a6fb-aa62-0188596031b2,23,M,Commercial,0,0,0,false,0.078,false,Low
+add9f054-8519-7d80-051c-016ff05ba66e,72,F,Medicare,0,4,1,false,0.078,false,Low
+06e1cc1c-d3f8-b9cb-38fc-380010c4d4cf,35,M,Commercial,0,1,1,false,0.078,false,Low
+9cfc49e3-f7c3-f36a-94ec-19dec97dce83,50,F,Commercial,0,2,1,false,0.078,false,Low
+48a90fc3-0f9a-8e47-c0a7-7a02b055cf5e,46,M,Medicaid,0,3,1,false,0.078,false,Low
+3e22b384-9b1b-76c6-2dc9-91f08a682138,41,M,Commercial,0,1,0,false,0.078,false,Low
+44729341-5f48-ea06-2266-fbecf10fc3c8,82,M,Medicare,0,4,0,false,0.078,false,Low
+72d50708-0c51-5ea2-c36a-e8a7d8c0bba3,22,M,Medicaid,0,2,0,false,0.078,false,Low
+bc689e78-9cd4-5c92-8646-f2b0b04bfe75,29,F,Commercial,0,1,0,false,0.078,false,Low
+49f23112-5ea8-e5a6-e016-ad5e64ef9664,22,M,Commercial,0,1,0,false,0.078,false,Low
+1c30fd55-59a3-c025-c164-359504b9dee3,69,F,Medicare,0,4,0,false,0.078,false,Low
+fef2697b-cf9c-6d7a-7454-246be42bc678,28,M,Uninsured,0,1,0,false,0.078,false,Low
+f3bb858d-9711-5c43-c051-b73fc246a4c8,53,F,Medicaid,0,2,0,false,0.078,false,Low
+95d3f020-18d2-5378-0c75-01e9f83da39c,34,F,Commercial,0,1,0,false,0.078,false,Low
+dad2e18e-2fea-5a18-0164-d9092b6cf6e3,50,F,Commercial,0,1,0,false,0.078,false,Low
+c20e3ef0-17fe-82f0-251f-8db73bee527f,21,M,Commercial,0,0,0,false,0.078,false,Low
+29d74600-ef86-2063-5960-8ea3ad2b234e,29,F,Commercial,0,0,0,false,0.078,false,Low
+7bbb8846-0461-da30-f789-b05e9d24ac4e,27,F,Commercial,0,0,0,false,0.078,false,Low
+e7b1983a-56b8-953c-0f78-236511cc3176,27,F,Commercial,0,0,0,false,0.078,false,Low
+a34b6d3a-50ca-236e-7895-135a4de10008,20,M,Commercial,0,0,0,false,0.078,false,Low
+019cda32-2557-7f65-2cc7-785839725ee1,49,F,Medicaid,0,1,1,false,0.078,false,Low
+2bd6134b-a178-5d14-2b5b-e84bcec64825,46,F,Commercial,0,1,1,false,0.077,false,Low
+97b10be1-867f-db7e-53e8-e9ba4ba1a3d8,49,M,Medicaid,0,3,1,false,0.077,false,Low
+18b101ed-6582-7193-5a1a-cac8e8de151c,58,F,Commercial,0,2,0,false,0.077,false,Low
+cd291e72-82e7-9e2f-e2be-0134037a383a,18,M,Commercial,0,1,0,false,0.077,false,Low
+2d692066-b5f1-4afa-5981-66d0a621efd3,85,F,Medicare,0,1,0,false,0.077,false,Low
+ebb64509-a83e-72ef-6d8f-f32a6c824d4a,32,F,Commercial,0,1,0,false,0.077,false,Low
+7b2b6017-6947-c42b-e84c-b995c3368ccd,50,F,Commercial,0,3,0,false,0.077,false,Low
+9d0941e4-8b2f-293f-8ee0-823f76c756c0,21,M,Medicare,0,1,0,false,0.077,false,Low
+bdbaf8eb-9988-cb31-0685-626a3c52a50a,53,M,Commercial,0,3,0,false,0.077,false,Low
+5a5c1bf6-a2bd-f32b-ab92-06a1be782e00,56,F,Commercial,0,1,0,false,0.077,false,Low
+e915529c-97ae-22a0-1c5e-faabc340b469,78,M,Medicare,0,4,0,false,0.077,false,Low
+184d84b2-d496-273f-b976-f228e9788264,30,F,Commercial,0,3,0,false,0.077,false,Low
+60dbdb8d-80e4-d9ed-c1ed-52cc3802210e,45,F,Commercial,0,1,0,false,0.077,false,Low
+f28958ec-421d-40fa-978b-958f1d5c6486,54,F,Commercial,0,2,0,false,0.077,false,Low
+75245312-06e9-839b-093a-be68b3486393,21,M,Commercial,0,1,0,false,0.077,true,Low
+f43d9ec2-fe51-f6af-4d9c-c81db0c48620,39,M,Commercial,0,1,0,false,0.077,false,Low
+b8be3742-f69d-0d39-8a84-0f2799e0b145,27,M,Commercial,0,1,0,false,0.077,false,Low
+520daaa0-c35a-3663-3eea-03a04a9755fc,32,M,Commercial,0,1,0,false,0.077,false,Low
+40a0514c-8e0a-d5c0-d5bd-bcb165a835c7,24,F,Commercial,0,0,0,false,0.077,false,Low
+81113746-beac-709a-1a8b-e1af73947ef0,21,F,Medicaid,0,0,0,false,0.077,false,Low
+075c319c-5d10-4b7a-df6f-ff3eec95feea,33,F,Commercial,0,0,0,false,0.077,false,Low
+0d82452b-5d70-c48a-3049-91cfa333c1a9,56,F,Commercial,0,1,1,false,0.077,false,Low
+46976cf7-b0bf-be20-39a5-9f425a52886d,37,F,Commercial,0,1,0,false,0.077,false,Low
+f4377b2d-92ce-cca8-1fc7-c9f593425245,24,M,Commercial,0,2,0,false,0.077,false,Low
+ba419d35-0dfe-8af7-347c-eebf02485a56,51,F,Medicare,0,2,0,false,0.077,true,Low
+b7ed3321-6d80-aa81-4a37-29064cf253bd,26,F,Uninsured,0,1,0,false,0.077,false,Low
+d3f2d97d-929e-11df-c89f-88a264c0b414,53,M,Medicaid,0,1,0,false,0.077,false,Low
+5156cae7-4e0e-e7ee-7bfc-c84f987de307,44,M,Commercial,0,3,0,false,0.077,false,Low
+6775ae25-d94c-1c53-6f44-6d809ce01895,79,F,Medicare,0,3,0,false,0.077,true,Low
+1fa2738d-d2ce-221d-7bbe-c0ec628994a5,43,F,Commercial,0,1,0,false,0.077,false,Low
+613e7ccb-a6fa-eac5-55c5-32cdafddf523,41,M,Commercial,0,1,0,false,0.077,false,Low
+976a24da-7a6e-c407-c19e-3cf55fde79f1,26,F,Commercial,0,0,0,false,0.077,false,Low
+78b1aae3-bd02-58fb-0535-c06e9b6d263f,27,F,Commercial,0,0,0,false,0.077,false,Low
+5e754ba8-5913-9877-e703-70ff54d76def,33,F,Commercial,0,0,0,false,0.077,false,Low
+1be7d604-e5c9-4c1e-332d-a1f011b4e7bd,32,F,Commercial,0,0,0,false,0.077,false,Low
+e640f321-89d8-5f79-b9cb-62f93dd3edba,39,F,Commercial,0,0,0,false,0.077,false,Low
+47d23d2f-686b-45e5-59fa-5a35c69c3477,26,M,Commercial,0,0,0,false,0.077,false,Low
+eaef472e-6ec4-a0fa-67fb-36720e9173fb,26,F,Commercial,0,0,0,false,0.077,false,Low
+acef2454-0418-e396-f055-cdffb904ee5b,59,M,Commercial,0,1,1,false,0.077,false,Low
+0eb21e20-1003-01ba-a9d2-7b725764d134,63,M,Commercial,0,1,1,false,0.077,false,Low
+ffa2edc3-cc3c-2a4e-91fd-a050e1ab195e,57,F,Uninsured,0,1,1,false,0.076,false,Low
+20760a1b-8cb0-eaa2-d232-1d31939c2d31,93,M,Medicare,0,11,0,false,0.076,false,Low
+51e97b6b-c963-89a9-5a5a-88e2af49ea06,40,M,Medicaid,0,1,0,false,0.076,false,Low
+ff7be835-3fce-9088-9b47-14ef972ebc2d,20,F,Commercial,0,1,0,false,0.076,false,Low
+beb356d0-4b8a-87f3-efdd-1afffb1c3c5b,26,M,Medicaid,0,2,0,false,0.076,true,Low
+7f250ea9-181b-c0d0-7c57-2fcfac404002,42,F,Commercial,0,1,0,false,0.076,false,Low
+d5cd2e95-9f70-91c0-96d5-81cd5a8f3fea,51,F,Commercial,0,0,0,false,0.076,false,Low
+ff599795-2599-2790-2ccc-dfed533d2062,22,M,Commercial,0,0,0,false,0.076,false,Low
+3becc9ed-9c41-7a52-a96b-25b71dfd51d8,19,M,Commercial,0,0,0,false,0.076,true,Low
+4aaa0001-3832-cc52-e2f3-47aad08f4284,42,M,Commercial,0,0,0,false,0.076,false,Low
+38947f55-f973-1892-4a4f-dc934884ae79,52,F,Commercial,0,0,0,false,0.076,true,Low
+92e7eb26-7f3f-b66a-e4eb-9608dd1c3de2,67,M,Dual Eligible,0,1,1,false,0.076,false,Low
+6d9dc108-4d7d-b27a-3e8f-2cc45f824a0e,46,F,Medicaid,0,1,1,false,0.076,false,Low
+92d32bde-6f58-766d-1ecc-bd45d93ec272,47,M,Medicare,0,3,1,false,0.076,false,Low
+a4c84a04-6ea9-c00c-d627-b44ee9fc1385,61,M,Commercial,0,2,0,false,0.076,false,Low
+dd2c9683-3e06-5176-3530-c4e6fe39417d,67,M,Medicare,0,7,0,false,0.076,true,Low
+e7648714-71ec-82d3-7aa2-d88e5d49f460,70,M,Medicare,0,5,0,false,0.076,false,Low
+5de127b1-de7d-2936-65a2-b223f26f622d,50,F,Medicare,0,4,0,false,0.076,false,Low
+ee892f87-5a4e-6d6b-ff4b-acc0d82eb744,45,F,Medicaid,0,2,0,false,0.076,false,Low
+26eb2a74-d9e2-b5ea-da7c-db558cd95506,58,F,Medicaid,0,1,0,false,0.076,false,Low
+8a7009ab-4a1d-f584-3a35-0cdbbc513f2c,20,F,Commercial,0,1,0,false,0.076,false,Low
+a78b9d4e-2e9c-e1aa-548d-382fea2cd12d,20,M,Medicaid,0,1,0,false,0.076,false,Low
+daf8f87e-f818-7c57-c447-e322209f28b3,30,F,Uninsured,0,1,0,false,0.076,false,Low
+fbc73fd2-a0e2-3cbb-330a-50f237016b58,23,F,Commercial,0,0,0,false,0.076,false,Low
+a9cfce0c-dd21-b944-d737-14345759ea7b,33,F,Commercial,0,0,0,false,0.076,false,Low
+097b8462-48ec-547b-ab74-c6b9f9079586,25,F,Uninsured,0,0,0,false,0.076,false,Low
+aa3310ee-6635-10d4-e014-ce1c1f817489,38,M,Commercial,0,0,0,false,0.076,false,Low
+00bd0ed6-396a-5390-b0f5-be458fef75e1,51,F,Commercial,0,0,0,false,0.076,false,Low
+b0671e21-770f-2b82-fc56-dba437627a17,32,F,Medicaid,0,0,0,false,0.076,false,Low
+eb68dacb-48c8-15c2-9e60-1278135fe33b,37,M,Commercial,0,0,0,false,0.076,false,Low
+82ce3a8f-6214-75fc-7b38-7cd48eebad14,56,F,Commercial,0,1,1,false,0.076,false,Low
+adb97a7f-7d25-004a-5286-bc04f8a3cf0f,63,M,Medicaid,0,2,1,false,0.076,false,Low
+6f8fc78f-c301-ee5f-ef2d-daeb84ac95da,47,M,Commercial,0,1,1,false,0.076,false,Low
+852adf58-2263-8705-3f90-30a4130d6f38,51,M,Commercial,0,1,1,false,0.076,false,Low
+88807760-6a1c-f09b-da58-d53c6fbd144f,48,F,Commercial,0,1,1,false,0.075,false,Low
+c646b648-9c91-7310-efb9-071ad0f758b9,66,F,Medicare,0,2,1,false,0.075,false,Low
+73856c26-48e9-8c3c-b6da-16312450a105,35,M,Commercial,0,1,0,false,0.075,false,Low
+708a47d0-dc7b-ba33-9597-b833cb48c877,32,F,Medicare,0,1,0,false,0.075,false,Low
+cbf76ecf-13b1-6ced-1913-2a20193f2552,44,M,Commercial,0,2,0,false,0.075,false,Low
+6c0e33da-f901-8d44-f91e-7c200c537e5d,45,M,Commercial,0,1,0,false,0.075,false,Low
+a7d213d8-0cc2-d63e-89a9-b8507f4b0625,61,F,Commercial,0,2,0,false,0.075,false,Low
+ac0c9449-5854-3c9f-8b73-059a5ab85a19,44,M,Commercial,0,2,0,false,0.075,false,Low
+fd118bfc-e3a2-7ef5-ceac-8f4f9086c329,18,M,Uninsured,0,0,0,false,0.075,false,Low
+bb3d188b-f278-e660-3058-9e78798d2d19,30,M,Commercial,0,0,0,false,0.075,false,Low
+25907c4a-2f11-4f5b-ef10-77db6423c8bc,23,F,Commercial,0,0,0,false,0.075,false,Low
+2fbaa88f-9da9-5871-1add-c443fbd6cad2,37,F,Commercial,0,0,0,false,0.075,false,Low
+cc8de1c2-509e-1513-51fe-7e002cf00749,43,M,Commercial,0,0,0,false,0.075,false,Low
+c28d585f-b06d-ddc2-1e72-08cc1edf0765,25,F,Commercial,0,0,0,false,0.075,false,Low
+06eb6dda-a918-928f-76cf-6bf370cf2014,20,M,Commercial,0,0,0,false,0.075,true,Low
+e78d61ea-e608-9f53-f746-45244e1b25b0,46,M,Commercial,0,3,1,false,0.075,false,Low
+cd8b093f-4a59-96aa-8d79-ea7192799fc7,45,M,Commercial,0,1,1,false,0.075,true,Low
+ee3b5fff-3491-e400-a174-39abd5a85da0,44,M,Commercial,0,4,1,false,0.075,false,Low
+55b0292f-e17a-c28a-c1c1-c95ed63e4e23,46,F,Commercial,0,1,1,false,0.075,false,Low
+f6ec5be2-eab2-5009-0a0e-8d565c2b4a14,51,F,Medicare,0,3,0,false,0.075,false,Low
+b4ab9db4-77f0-e2d4-47bc-bade6e1d2c8e,45,M,Commercial,0,2,0,false,0.075,false,Low
+31602598-4834-1f74-d9c5-149dc4b9a946,60,F,Commercial,0,2,0,false,0.075,false,Low
+f19ff56b-7c76-3d82-e778-153f81bae081,71,M,Medicare,0,4,0,false,0.075,false,Low
+65b2b415-0f54-b930-5159-46c35d4ab000,30,F,Commercial,0,1,0,false,0.075,false,Low
+22a9563f-1a38-933c-ea7d-ab71047b3797,33,M,Commercial,0,1,0,false,0.075,false,Low
+c527d951-5422-a5ce-301b-e5e5bd0425fa,30,M,Commercial,0,1,0,false,0.075,false,Low
+70f66395-1f02-7027-4a31-4c96ed3f92d9,18,F,Commercial,0,0,0,false,0.075,false,Low
+9d3551b7-0a4f-1874-320c-36e470808932,33,F,Medicaid,0,0,0,false,0.075,false,Low
+3f63dcce-8427-5a25-89a4-99f68322639c,18,M,Commercial,0,0,0,false,0.075,false,Low
+db397b4d-1ed3-b44b-6615-b8d136ea1110,23,M,Commercial,0,0,0,false,0.075,false,Low
+322ab5c6-5846-ac1e-38cc-48b8cb441e20,29,F,Commercial,0,0,0,false,0.075,false,Low
+f2c59fad-2629-a492-9cb5-0089fa79dddb,50,F,Commercial,0,0,0,false,0.075,false,Low
+b68b0a40-952d-c277-e8c8-86af759d8cdf,28,M,Commercial,0,0,0,false,0.075,false,Low
+293bca4a-008e-b7e9-655f-29832a8fb1cf,25,F,Medicaid,0,0,0,false,0.075,false,Low
+6fc11c55-edde-10b5-c1ea-53094687fe73,23,M,Commercial,0,0,0,false,0.075,false,Low
+8fcba208-3cbc-150a-a1cd-391bba1167ad,48,M,Medicaid,0,2,1,false,0.075,false,Low
+6133e243-a52a-f396-1a5d-2c1eb8f5e390,69,M,Medicare,0,7,1,false,0.074,false,Low
+6f936c90-a523-337d-1579-033e03d73547,55,F,Uninsured,0,2,1,false,0.074,false,Low
+6f0effd4-b518-89a9-ee33-ac6c48f7215b,39,F,Uninsured,0,1,0,false,0.074,false,Low
+70fda0d3-0f22-a811-9575-1c461e419d44,41,M,Commercial,0,1,0,false,0.074,false,Low
+1052dc4c-cd9e-fd71-d209-0aebd68d06e0,42,F,Commercial,0,2,0,false,0.074,false,Low
+7b185f78-31d2-613d-0756-d2dcb6543c4b,33,M,Commercial,0,1,0,false,0.074,false,Low
+48a41a9e-2347-854c-308d-643d470f3f73,68,F,Medicare,0,1,0,false,0.074,false,Low
+12999fea-4e2a-27bb-c321-ccac4194f43b,33,F,Commercial,0,1,0,false,0.074,false,Low
+669c7ba3-ee3a-04c2-0a28-d6667189597a,57,M,Commercial,0,3,0,false,0.074,false,Low
+95d0980f-5d6b-3f44-bc9e-677b4ce5904c,62,M,Medicaid,0,2,0,false,0.074,false,Low
+6275db11-d13f-3576-ca29-c3f6247ac2dc,26,F,Commercial,0,1,0,false,0.074,false,Low
+757c3a06-1d22-72bd-45e6-0522031dead6,18,F,Commercial,0,1,0,false,0.074,false,Low
+5c4fe487-ca90-2050-6316-6a8acb2f8c2e,27,F,Commercial,0,0,0,false,0.074,false,Low
+f89593c6-c98d-c3bb-d1ac-c746f2150908,27,M,Commercial,0,0,0,false,0.074,true,Low
+b498abf6-f911-4399-fe9a-7de57f51f5a5,20,F,Commercial,0,0,0,false,0.074,false,Low
+ad6f5807-b488-71e1-3ea4-f62df02f68e5,22,F,Medicaid,0,0,0,false,0.074,false,Low
+f068eb0b-d00a-ca9e-5a56-21caf9de659e,32,M,Commercial,0,0,0,false,0.074,true,Low
+456f1eb2-97b5-b116-a6c2-e6ac8a1f35f8,39,M,Commercial,0,0,0,false,0.074,false,Low
+96a0ed85-1391-66f7-06bc-45c4c0daa915,24,F,Commercial,0,0,0,false,0.074,false,Low
+59ebb44d-2824-8612-c026-7463a49e786c,72,M,Medicare,0,4,1,false,0.074,false,Low
+6923f921-fd64-7f26-98c1-e2c545b743fd,41,F,Commercial,0,1,1,false,0.074,false,Low
+bb7ef7fe-96fd-9f22-2fe7-8059aff65913,46,M,Commercial,0,1,1,false,0.074,false,Low
+dc9acf7c-7461-d0ff-a3f5-64fa1b77cb30,22,F,Commercial,0,1,0,false,0.074,false,Low
+9d49192f-a24f-f177-975c-2ba6b9c8a58f,40,F,Commercial,0,1,0,false,0.074,false,Low
+20c58944-4778-30e8-e47a-e3e044aee2c3,23,F,Commercial,0,1,0,false,0.074,false,Low
+9f988e19-2065-0b6d-4c2e-1e0add302ad9,41,F,Uninsured,0,1,0,false,0.074,false,Low
+982750f4-569b-5949-196b-60699bdda3fb,26,F,Medicare,0,1,0,false,0.074,false,Low
+c380a0ca-a6c1-8e7b-033e-4455fa4603f5,65,F,Medicare,0,2,0,false,0.074,false,Low
+6c68bb67-ea02-1a26-b1bf-025669c97106,30,M,Commercial,0,1,0,false,0.074,false,Low
+85baec9f-809d-061f-9d17-344904922cfb,25,F,Commercial,0,1,0,false,0.074,false,Low
+2c167999-289d-95fa-5c27-7d8b8d35348c,26,M,Commercial,0,0,0,false,0.074,false,Low
+5e158f2a-05a4-f312-67a8-30c95bff8fee,20,F,Commercial,0,0,0,false,0.074,false,Low
+a8c03f84-210e-e947-84c6-2eeb60f5b1a9,28,M,Commercial,0,0,0,false,0.074,true,Low
+df049450-484a-6667-792e-6e72241ed9f9,55,F,Commercial,0,0,0,true,0.074,false,Low
+60807554-c3d5-cf54-425e-8ec6c6560fca,32,M,Commercial,0,0,0,false,0.074,false,Low
+a8fdb83d-8cd4-f244-c197-bda0650e37f7,26,F,Medicaid,0,0,0,false,0.074,false,Low
+c4ff4264-7c4c-5e0b-30b5-763ded48e6c8,73,F,Medicare,0,0,0,false,0.074,false,Low
+5107a1a0-bb87-0dd5-de72-2e568f2b7350,37,F,Commercial,0,0,0,false,0.074,false,Low
+f844016a-dcc1-02e1-c643-6592c22cdcfd,57,M,Commercial,0,0,1,false,0.074,false,Low
+52f40a46-e86f-368c-18a1-cafc6c9afc0c,65,F,Medicare,0,0,1,false,0.074,false,Low
+314e740b-6595-c290-69d4-679ec5b74978,46,M,Commercial,0,1,1,false,0.074,false,Low
+073f0b4c-738b-da59-d2fc-3229223e26ef,66,M,Medicare,0,4,1,false,0.073,false,Low
+6bdc3615-4652-daf5-3e60-24397595d8c7,71,F,Medicare,0,2,1,false,0.073,false,Low
+8232315a-abdc-7e54-ce2b-ebc86ef63856,65,F,Medicare,0,2,1,false,0.073,false,Low
+ec2a8059-4689-7259-5c3c-30ab94af091e,32,M,Commercial,0,2,0,false,0.073,false,Low
+98343291-14f8-0562-cf4e-914701dc23a6,50,F,Commercial,0,2,0,false,0.073,false,Low
+e48236cc-67bf-a0bd-3b83-1bdd7074a9dc,68,F,Medicare,0,4,0,false,0.073,false,Low
+8f62343a-83c8-acff-615c-ea9b53d61a5b,52,F,Commercial,0,1,0,false,0.073,false,Low
+e4776259-da6d-ebd8-7fc7-117caa9bd951,68,M,Medicare,0,3,0,false,0.073,false,Low
+a40a863a-4858-1093-56d7-4ea00fd402c4,43,F,Uninsured,0,2,0,false,0.073,false,Low
+440cfb11-d96f-7a6a-19ae-545a5bef9261,62,M,Commercial,0,4,0,false,0.073,false,Low
+68df5c5a-19fc-cd3e-6020-3779eb796956,56,M,Commercial,0,1,0,false,0.073,false,Low
+06b69cf7-c26b-5083-128a-428e3b11588e,66,M,Medicare,0,2,0,false,0.073,false,Low
+d26260bc-3060-102b-5ce0-fc8a5795ea46,59,M,Commercial,0,1,0,false,0.073,false,Low
+4ef5add2-f382-fe6d-0010-110f953def75,36,F,Commercial,0,0,0,false,0.073,false,Low
+681d8bdf-cebf-b54a-f549-67f50dff15ed,27,M,Commercial,0,0,0,false,0.073,false,Low
+9b29246c-58cb-6793-d3b7-4f298bde50a1,29,M,Commercial,0,0,0,false,0.073,false,Low
+694b6f39-81d3-c110-d53a-3a4d18611066,23,F,Medicaid,0,0,0,false,0.073,false,Low
+86fac348-75d9-8525-a2bc-0c34fb0e2785,31,M,Commercial,0,0,0,false,0.073,false,Low
+d2e3c633-3e7d-e338-3b11-d74fc1761c91,38,M,Commercial,0,0,0,false,0.073,false,Low
+77dcb4dd-585d-9eac-f404-82fc178a262f,23,M,Commercial,0,0,0,false,0.073,false,Low
+6caabedd-943f-1412-2dcd-3f2800cee543,59,M,Commercial,0,3,1,false,0.073,false,Low
+a0fa000e-e4d8-4e9c-7cb7-874fb29623f2,54,F,Medicare,0,2,1,false,0.073,false,Low
+3371c9f1-347c-2b4e-f751-7bd6e4269dee,42,F,Commercial,0,1,0,false,0.073,false,Low
+d9dcb8c0-5b8d-b073-0523-1e6e8f668e0c,31,F,Commercial,0,1,0,false,0.073,false,Low
+3a07fb89-0020-0893-a145-086671b088da,24,F,Medicare,0,1,0,false,0.073,true,Low
+78e1f6f3-c0f7-250e-dda9-d1707686419b,83,M,Medicare,0,4,0,false,0.073,false,Low
+9bfdf3c4-a8bc-555c-231e-4a8d30aeaba4,19,F,Commercial,0,1,0,false,0.073,false,Low
+d84eb792-6c31-6485-501c-ba7e3ca42365,42,F,Commercial,0,1,0,false,0.073,false,Low
+df866491-08fa-47d5-7603-6fca4fb287dd,67,F,Medicare,0,1,0,false,0.073,false,Low
+4bf018ec-7fd7-5d67-9604-c5a0b69b0879,32,M,Commercial,0,1,0,false,0.073,false,Low
+bcf9fd4e-c8c2-d03d-dfc0-e9cc30f1b65c,66,M,Dual Eligible,0,2,0,false,0.073,false,Low
+febdc17b-bfdf-c47c-c1cf-3a7d6af8dc12,101,M,Medicare,0,3,0,false,0.073,false,Low
+01ad68d8-96ec-fcdf-5bbc-5f901dff2e88,55,F,Medicare,0,5,0,false,0.073,false,Low
+6dca1187-4642-97ea-581b-9cb4371edd0c,23,F,Medicare,0,1,0,false,0.073,false,Low
+bfcb48c0-64f7-6584-5533-b69347ba574c,65,F,Medicare,0,1,0,false,0.073,false,Low
+1f816600-b043-d586-4675-352de5aad702,59,M,Commercial,0,1,0,false,0.073,false,Low
+81855eed-b420-a5e8-49e0-91950391ceef,20,M,Commercial,0,1,0,false,0.073,false,Low
+cbd60ad7-ef32-e825-716b-1e77e72260be,42,F,Uninsured,0,1,0,false,0.073,true,Low
+96c5acc9-8d8d-1cad-60b6-866b24f3f55f,33,M,Commercial,0,2,0,false,0.073,false,Low
+be6b013a-3aba-f4e0-2fa9-8836d55f1446,27,F,Commercial,0,0,0,false,0.073,false,Low
+7ef17e79-db02-8877-d946-8ef3e5742bab,29,M,Medicaid,0,0,0,false,0.073,false,Low
+2480865a-bd42-7445-1931-d7b304982dcd,32,F,Medicaid,0,0,0,false,0.073,false,Low
+6469e152-9279-5bf9-f14a-a1aa6128b4f4,26,F,Commercial,0,0,0,false,0.073,false,Low
+6a126bd3-81f4-52ba-ff40-3f8c0d166794,54,M,Uninsured,0,2,1,false,0.073,false,Low
+13927fe1-f295-7769-a105-3657c85f6bda,47,M,Commercial,0,1,1,false,0.073,false,Low
+f21ebf16-33db-1414-5ea6-14074c60e912,62,M,Commercial,0,2,1,false,0.073,false,Low
+f4c88f10-92bd-a844-1fdd-fadba2c345ec,58,M,Medicaid,0,3,1,false,0.072,false,Low
+c16a17a0-c057-0c0e-ac8d-ecc6d81807f3,67,M,Medicare,0,1,1,false,0.072,false,Low
+81be856b-eaa8-0614-91a0-bb66044713ec,36,M,Commercial,0,1,0,false,0.072,false,Low
+824ee874-c15d-0ae3-fe62-e00b1b69fa34,45,M,Medicaid,0,3,0,false,0.072,false,Low
+b403f878-ad9b-156f-1a9d-29291941b1b9,70,M,Medicare,0,5,0,false,0.072,false,Low
+f4809c1d-8038-bd83-5d7f-259df81e6749,61,M,Commercial,0,4,0,false,0.072,false,Low
+d929b0a0-9651-d56c-8193-a0ee69b38fc2,60,F,Medicaid,0,2,0,false,0.072,false,Low
+0f642ea1-aedc-2a2b-47de-8f73e574a882,28,F,Commercial,0,1,0,false,0.072,false,Low
+984b4a3e-1041-a028-0405-fd6b4e81593d,54,F,Commercial,0,1,0,false,0.072,false,Low
+5f57a3e5-aa2a-86f5-66e8-5ec536cd7396,37,F,Commercial,0,2,0,false,0.072,true,Low
+910ddc0a-dff2-a783-978f-800c6ca9d24e,70,F,Medicare,0,2,0,false,0.072,false,Low
+1591acd8-0c3e-6a58-dc2c-0662f09639b2,24,M,Commercial,0,0,0,false,0.072,false,Low
+76bb7ebc-acc1-4d7e-ceb8-eb13d51113c7,26,F,Commercial,0,0,0,false,0.072,false,Low
+6fbddf55-7096-b883-7cd3-260f27953080,36,F,Commercial,0,0,0,false,0.072,false,Low
+514d40fe-5939-a479-6cdc-2a3c389ca3c4,30,M,Commercial,0,0,0,false,0.072,false,Low
+c0bc7b97-b479-ca37-7813-6f77359c8829,22,F,Commercial,0,0,0,false,0.072,false,Low
+bedafc44-6234-6ae9-f4f4-e066b9603e60,29,F,Uninsured,0,0,0,false,0.072,false,Low
+3c0a28d9-21c5-d9a4-5b3c-6c708ce3d093,58,F,Medicaid,0,0,0,false,0.072,false,Low
+17cb5ccc-4c1f-9747-f535-e57cd464679d,53,M,Medicare,0,5,1,false,0.072,false,Low
+e42e50b4-52ec-77cd-4e3d-8cc3a606a750,48,F,Uninsured,0,1,1,false,0.072,false,Low
+03607fcd-7c51-41c0-2bd7-ecf277074e44,42,M,Commercial,0,2,1,false,0.072,false,Low
+caeb1349-c4be-c480-05ea-ce9282cacbd4,77,M,Medicare,0,5,0,false,0.072,false,Low
+380e310b-3f6b-f03c-acc8-1346b4b11097,68,M,Medicare,0,5,0,false,0.072,false,Low
+5cac60ef-3918-d6c8-60ab-503e27d7133e,32,M,Commercial,0,1,0,false,0.072,true,Low
+536d6c15-5d0d-bebd-ad09-2ef48298cdad,20,F,Medicare,0,3,0,false,0.072,false,Low
+c9734be7-92c0-97f5-02d1-0cceac3653f0,24,F,Medicaid,0,1,0,false,0.072,true,Low
+be36696e-4c5c-1a27-d712-48072e95caef,51,M,Commercial,0,1,0,false,0.072,false,Low
+c5f68639-52ba-21cc-9c15-0ee0c62fcbe9,38,M,Commercial,0,2,0,false,0.072,false,Low
+5983c559-03a0-8eed-d5e6-c4235cf6d66a,67,M,Medicare,0,4,0,false,0.072,false,Low
+c9a8dac9-c988-71b0-7e2e-b8a4c7c74fdf,31,F,Commercial,0,1,0,false,0.072,false,Low
+b07ecfd6-2e64-8553-1836-358ccb22aa30,40,M,Commercial,0,1,0,false,0.072,false,Low
+722e6372-21a7-ddca-6688-1a18547a1c48,51,M,Commercial,0,1,0,false,0.072,false,Low
+f48d79b2-2cef-43e0-7280-fa8af996e1f0,26,F,Commercial,0,1,0,false,0.072,false,Low
+0fcc090f-1909-c864-c5c0-6b1d1cfa0c1f,25,F,Medicaid,0,1,0,false,0.072,true,Low
+55f3907f-0fe5-9d8c-ebfb-639f89719292,45,M,Commercial,0,1,0,false,0.072,false,Low
+4b2b6bcc-fda3-f92f-b754-85d4695cdbdd,33,M,Commercial,0,0,0,false,0.072,true,Low
+1759b87f-1a83-c024-b46e-28eda215ca3c,29,M,Commercial,0,0,0,false,0.072,false,Low
+ee86f909-47cf-054b-40fc-bcdc375802a0,25,F,Commercial,0,0,0,false,0.072,false,Low
+9b05f0f2-dfc8-4792-cd5c-d3ae86dbbd4d,22,F,Commercial,0,0,0,false,0.072,true,Low
+8cc81fed-3131-979a-fcf2-4a25ae2c55e6,47,M,Commercial,0,0,1,false,0.072,false,Low
+5c39a9da-6fb0-3cbb-0181-add875529d46,56,M,Uninsured,0,3,1,false,0.072,false,Low
+6918b337-501c-ca58-f078-65f921214d5e,46,M,Commercial,0,2,1,false,0.072,false,Low
+226e94e3-187e-c212-bc23-5ff9e2aa0d4a,48,F,Medicaid,0,0,1,false,0.072,false,Low
+08a12ee7-a852-94d4-61fd-b2e16b209205,48,F,Commercial,0,0,1,false,0.072,false,Low
+6fe44353-9194-1e42-1f3a-52d8854b9bf8,45,F,Medicare,0,4,1,false,0.071,true,Low
+bc473461-82f7-ef48-8f1c-0895a6513a95,55,M,Commercial,0,3,0,false,0.071,false,Low
+165e2d86-d1db-494e-dbbd-2a0bae14a97f,44,F,Commercial,0,1,0,false,0.071,false,Low
+63469bf1-a127-7393-2deb-7a1d0891c948,73,F,Medicare,0,2,0,false,0.071,false,Low
+be660d7e-f09e-015b-5a64-c8bbf5bf2d8c,104,F,Medicaid,0,5,0,false,0.071,false,Low
+f6694718-3fa8-0c95-0487-58d07a294d3d,79,M,Medicare,0,3,0,false,0.071,false,Low
+ad4c4a32-dafd-a88b-7aa5-9106f3d8f39d,19,F,Commercial,0,1,0,false,0.071,false,Low
+024ea619-fff0-c0e8-c04e-0bad57ba44aa,26,M,Commercial,0,1,0,false,0.071,false,Low
+cd1d8f15-89a3-a33f-2664-b2d12e59c251,20,M,Commercial,0,1,0,false,0.071,false,Low
+b19a31d1-664e-9076-184b-caa3bd5e9ed9,31,F,Medicaid,0,1,0,false,0.071,false,Low
+9b4c9974-a6a6-6e16-c375-40a83160e1f2,29,F,Medicaid,0,1,0,false,0.071,false,Low
+4f54672a-3b62-9368-a2cc-9a58ac4cea53,40,M,Commercial,0,1,0,false,0.071,false,Low
+fff1cfc5-eb7a-2314-b060-1ab49f0df6a8,24,M,Commercial,0,1,0,false,0.071,false,Low
+ce2e160d-4a41-c64a-859f-2653d0ec39ad,23,M,Medicare,0,2,0,false,0.071,false,Low
+0e32386c-c04d-ce35-dc25-cce82b856ac3,22,F,Commercial,0,0,0,false,0.071,false,Low
+5ccc84a9-e80b-784a-bb29-d13302695d3f,38,M,Commercial,0,0,0,false,0.071,false,Low
+ba494cd8-e7ab-b003-887e-278ad53c6ed3,23,M,Commercial,0,0,0,false,0.071,false,Low
+cec64bf6-1b80-a3e4-1280-79250e417a13,20,F,Commercial,0,0,0,false,0.071,false,Low
+611267a3-5506-8350-a7d4-22ea84f64159,21,F,Commercial,0,0,0,false,0.071,false,Low
+91ab1935-eea9-e4d5-7c34-f8361611b18d,38,M,Commercial,0,0,0,false,0.071,false,Low
+e267b4be-e647-246f-e2ab-7d76edebd0d4,23,M,Commercial,0,0,0,false,0.071,false,Low
+6b3a4e2a-af8e-8780-e943-8fb27c617120,38,M,Commercial,0,0,0,false,0.071,false,Low
+e2887371-b7cc-021a-34d7-84198c3264d7,38,M,Uninsured,0,3,0,false,0.071,false,Low
+f5dc635d-a01e-9d56-5612-162c6ad8b754,37,F,Commercial,0,1,0,false,0.071,false,Low
+a9933eac-b2c1-1ad5-92d5-bded2c9a2445,52,M,Commercial,0,2,0,false,0.071,false,Low
+acc0c2da-f3d5-758e-364e-41993c8bfbb8,39,F,Uninsured,0,0,0,false,0.071,false,Low
+0cc68655-22f2-d830-eae3-6d1031165ab0,19,M,Commercial,0,0,0,false,0.071,false,Low
+42c61a50-db4b-9b09-7043-5c6a00af02b3,20,M,Medicaid,0,0,0,false,0.071,false,Low
+2db43ca5-b371-7457-9a89-490c0061388a,47,M,Medicare,0,2,1,false,0.071,false,Low
+ad048fab-ae8c-05c5-b5f8-0df0f9e05226,57,F,Commercial,0,1,1,false,0.07,false,Low
+c3758a19-7308-b2c5-ed96-5bfb8c6d9c1f,63,M,Commercial,0,1,1,false,0.07,false,Low
+f9be0e65-fc8d-4fa7-60f3-d7e0c4beccb8,50,M,Commercial,0,2,0,false,0.07,true,Low
+9164a852-f8bf-833f-52db-9ff03d01bc1b,57,M,Commercial,0,1,0,false,0.07,false,Low
+a9b9bd2b-7d3d-6a4c-8e2c-8a9f39710611,45,F,Medicaid,0,1,0,false,0.07,false,Low
+220ee7db-972d-3106-f5d4-60d31403ae6b,65,M,Medicare,0,2,0,false,0.07,false,Low
+ecc5319f-193a-4990-0a8d-c42fb6701050,57,M,Commercial,0,1,0,false,0.07,false,Low
+ad7ee7bc-e9d4-9860-dfca-f08a30fb6cf5,32,M,Commercial,0,1,0,false,0.07,false,Low
+95b417eb-f00e-443d-bc25-493c7d53a8a4,28,M,Medicaid,0,1,0,false,0.07,false,Low
+1fc3953b-cadf-1416-2565-bd2464778fc0,22,M,Commercial,0,0,0,false,0.07,false,Low
+2133cc41-d2d7-9f54-a5bd-346b5709303b,34,F,Commercial,0,0,0,false,0.07,false,Low
+d2b1f9b4-8a11-2528-2292-aed28a14cc35,23,M,Commercial,0,0,0,false,0.07,false,Low
+aae37873-bc41-b4e3-c7ab-de67c0265f32,29,F,Commercial,0,0,0,false,0.07,false,Low
+289d9a59-53a2-19f3-dd2e-e570f6d14042,35,M,Commercial,0,0,0,false,0.07,false,Low
+6aed9210-c500-4375-b0fc-3374c40b8591,27,M,Medicare,0,2,0,false,0.07,false,Low
+02e8a145-6422-3c9c-aee4-6d2f5afbfa16,41,M,Commercial,0,2,0,false,0.07,false,Low
+3277825b-5883-664a-9f79-c21e49526de2,18,F,Medicaid,0,1,0,false,0.07,false,Low
+79c22638-503a-f0b8-3682-33c7f5456a02,38,F,Medicare,0,1,0,false,0.07,false,Low
+4648a54f-9695-6716-43e8-acd72bc55d40,44,F,Commercial,0,1,0,false,0.07,false,Low
+a34c0617-a55e-99c5-bc5d-0eb25032eb85,50,M,Commercial,0,3,0,false,0.07,true,Low
+e5d8fca4-d8a3-e09f-0fd3-287d8d086997,19,F,Commercial,0,2,0,false,0.07,false,Low
+3194c059-db91-c306-50c8-a4583ea5dca5,50,M,Medicaid,0,3,0,false,0.07,false,Low
+8c55e257-c979-8e37-73d5-2ef31209f5f4,19,M,Commercial,0,1,0,false,0.07,false,Low
+93a4ee80-d2b8-bcd8-9bce-7033afe2df53,29,M,Medicaid,0,1,0,false,0.07,false,Low
+5e2609ee-8351-973c-5d3d-c3b4df9ce8ef,28,F,Commercial,0,1,0,false,0.07,true,Low
+557e2cbb-b9ca-680c-4b1d-839654c0f92a,41,M,Commercial,0,0,0,false,0.07,true,Low
+7e4b874f-f3fe-287c-bb20-8ac9332e3da2,18,F,Commercial,0,0,0,false,0.07,true,Low
+746511b0-1fb6-c8bd-da65-dd97c26a8fae,18,F,Commercial,0,0,0,false,0.07,false,Low
+365ed3a3-07a5-f870-392c-175a9d8b77b1,40,M,Medicaid,0,0,0,false,0.07,false,Low
+0555f11c-c453-57eb-b717-3c356cc58e20,42,F,Medicaid,0,0,0,false,0.07,false,Low
+eff0c6e0-8c23-5ba5-d452-a073f6d27198,32,F,Commercial,0,0,0,false,0.07,false,Low
+58419e9c-3033-28bb-df36-c30b68f82997,38,M,Commercial,0,0,0,false,0.07,false,Low
+90f4aa11-1912-aa6e-c7d8-0253425db7f9,39,M,Medicaid,0,0,0,false,0.07,true,Low
+9e5a1c69-366a-3301-7280-ec67b893e8b9,19,M,Commercial,0,0,0,false,0.07,false,Low
+44360830-c84b-2ac6-75b5-4adc9e0f63b3,31,M,Commercial,0,1,1,false,0.069,false,Low
+6482017e-b4c2-28c7-9ec3-fa8464bf49f2,37,M,Medicaid,0,1,1,false,0.069,false,Low
+293b5046-ff66-69d2-6e7d-8d68a20ec3fb,61,F,Medicaid,0,1,0,false,0.069,false,Low
+91b62291-a1ac-d461-9988-4897a6eda076,52,F,Medicaid,0,1,0,false,0.069,false,Low
+2fda87fd-29fd-b4f1-6501-27b68d211972,52,M,Medicaid,0,1,0,false,0.069,false,Low
+920cff44-cd1b-7754-3095-806f2625bebb,34,F,Commercial,0,2,0,false,0.069,false,Low
+f55ded20-86ea-8dd1-fd10-d9873c034bc6,31,F,Commercial,0,1,0,false,0.069,false,Low
+56f36818-ae1e-d0ca-97df-64aafbeb712e,63,M,Medicaid,0,6,0,false,0.069,false,Low
+493a1120-3e80-1cce-c60a-9d237866860b,33,M,Medicare,0,6,0,false,0.069,false,Low
+fc0359a2-c502-6cdb-720e-473f5bebdb0f,25,M,Commercial,0,1,0,false,0.069,false,Low
+5b30d77a-946e-7e4c-0cf5-72b04bab67b4,50,M,Commercial,0,1,0,false,0.069,false,Low
+b030e4fd-ddca-e127-00bb-0d64d7d8d246,22,F,Commercial,0,0,0,false,0.069,false,Low
+fb253b86-93b7-1dc0-1061-687c3564fad2,30,F,Commercial,0,0,0,false,0.069,false,Low
+6bc4cd5d-0216-17a9-8192-ac2209957d3a,20,F,Commercial,0,0,0,false,0.069,false,Low
+9c5fc104-ad4f-8ff4-29b6-52d84920036e,24,M,Commercial,0,0,0,false,0.069,false,Low
+8f6cb083-8a43-dd9f-368d-af6dc83e2d11,28,F,Commercial,0,0,0,false,0.069,false,Low
+c982ab97-9de8-aece-8c6a-6fb449696461,18,M,Uninsured,0,0,0,false,0.069,false,Low
+f6f973df-27e7-6660-b160-ef25378567f8,30,M,Commercial,0,0,0,false,0.069,false,Low
+37da269a-f4fb-0109-5582-97b8c0428257,53,F,Uninsured,0,0,0,false,0.069,false,Low
+8e2eae61-9713-7272-5658-42a614548aef,46,M,Commercial,0,2,1,false,0.069,false,Low
+37c88daa-2e1a-b14a-7ad1-f32d6afc6861,51,M,Medicare,0,4,1,false,0.069,false,Low
+5036cbfd-65ab-d4c6-d699-8cae1571b916,36,F,Medicaid,0,1,0,false,0.069,false,Low
+aa0d1dbd-0cd7-0903-bb92-17176e84e9f5,55,M,Medicare,0,4,0,false,0.069,false,Low
+e3203e31-5b78-ca1b-21b8-f857a971092f,59,M,Commercial,0,2,0,false,0.069,false,Low
+92683f03-a77a-0f78-b618-266ad9a301be,27,M,Medicaid,0,3,0,false,0.069,false,Low
+c17e5ca0-c02e-f8d3-271a-79bd34606f95,51,F,Commercial,0,2,0,false,0.069,false,Low
+f04f94ed-7ea9-ef3e-d7e0-c9bc4a4680d5,35,M,Commercial,0,2,0,false,0.069,false,Low
+75574ff6-9d95-1ba4-0bf2-1e3482e20e67,52,M,Commercial,0,1,0,false,0.069,true,Low
+dd25fa4b-aebe-1fec-ab1f-c92fd56d40b5,31,M,Commercial,0,1,0,false,0.069,false,Low
+96b1b0ff-c629-c222-665d-aa444b03ae66,25,F,Commercial,0,1,0,false,0.069,false,Low
+ef20492b-2f34-d72a-f453-93df23a1cbd5,37,M,Medicaid,0,2,0,false,0.069,false,Low
+f48ee7d5-4dfc-4348-84d8-5ecaba896e58,34,M,Commercial,0,1,0,false,0.069,false,Low
+2d68ad16-268a-478c-1f84-d0f1976e1a46,25,M,Commercial,0,2,0,false,0.069,false,Low
+807344f2-2d33-5ac3-0e7d-3939c0aa5713,50,M,Commercial,0,1,0,false,0.069,false,Low
+cbe4a80e-3b20-e3d0-fcfe-58f783dae3f1,27,M,Commercial,0,0,0,false,0.069,false,Low
+64a65d4c-e31c-ad1d-e9f3-48933778a2ac,19,F,Commercial,0,0,0,false,0.069,false,Low
+7954a2e8-7910-9561-0e9a-215f5c7d994e,23,F,Medicaid,0,0,0,false,0.069,false,Low
+ba3fd53a-437f-1714-8ec7-11cd21f031de,23,F,Uninsured,0,0,0,false,0.069,false,Low
+45e0eadc-5cc0-3b1b-6155-27f146602a39,20,M,Commercial,0,0,0,false,0.069,false,Low
+ef2723bf-9d46-2633-9e37-32fb9127de6e,37,M,Uninsured,0,0,0,false,0.069,false,Low
+71339769-9874-be08-1fad-857d491a42f5,24,M,Commercial,0,0,0,false,0.069,false,Low
+abb043bc-0573-a43d-aa52-879ce7ebfabf,21,M,Commercial,0,0,0,false,0.069,false,Low
+79021b82-f370-50bb-c5a1-7333816d683f,47,M,Commercial,0,0,1,false,0.069,false,Low
+cda4521c-c8f6-375c-7e24-3bdce40f09b4,48,M,Commercial,0,0,1,false,0.069,false,Low
+67400fa9-a7ff-8fc1-be38-f3bee35f3a15,55,M,Medicare,0,2,1,false,0.068,false,Low
+5462f86e-6599-49fd-9634-f84db5a3f18e,58,M,Commercial,0,2,1,false,0.068,false,Low
+5d77f297-1e40-c341-a906-1e7a400c0aa9,34,F,Commercial,0,1,0,false,0.068,true,Low
+15e4e886-ae0d-3af0-f358-fc69000642b5,32,F,Medicaid,0,1,0,false,0.068,false,Low
+0a7ebdbd-4c3a-07d2-20f6-232c74396637,28,F,Medicare,0,3,0,false,0.068,false,Low
+2a9287c4-7bdc-d5bc-1ea3-8b3ed1545fee,42,M,Commercial,0,2,0,false,0.068,false,Low
+eb720e52-ebb1-b109-a04e-8a668b5595a1,40,M,Commercial,0,1,0,false,0.068,false,Low
+e1f7bc7d-4bf8-6d1a-c409-972997894e2a,23,M,Medicare,0,1,0,false,0.068,false,Low
+15a879af-2f3f-5e4d-4b4e-d7a68d1b2003,59,M,Medicare,0,3,0,false,0.068,false,Low
+d3f8e8f0-9ea3-5fa4-096b-809409923c10,37,M,Commercial,0,1,0,false,0.068,false,Low
+b2a9b73f-23b7-a3e3-45e1-6c1c78aa77ee,28,M,Commercial,0,1,0,false,0.068,false,Low
+b87e8497-6950-146d-00b0-a9da687329ad,19,M,Commercial,0,1,0,false,0.068,true,Low
+fb9baee6-969a-13fe-8540-cd08d982f057,35,M,Commercial,0,1,0,false,0.068,false,Low
+79c3db57-89e1-3313-6d7b-54392ecfb48f,23,F,Commercial,0,0,0,false,0.068,true,Low
+87c87bbc-d185-581f-c2a1-3c49900400cc,44,F,Commercial,0,0,0,false,0.068,false,Low
+4391213d-ee24-3d4d-52ac-801d1b93015e,22,F,Commercial,0,0,0,false,0.068,false,Low
+82bcf917-3702-5b43-f7fc-62980b23bc5a,19,M,Commercial,0,0,0,false,0.068,false,Low
+659a0ef8-49ce-9d84-a17d-bdb29bc78f21,28,M,Commercial,0,0,0,false,0.068,false,Low
+341f9b14-1f90-51b5-1a65-54cbab8a5f61,25,M,Medicaid,0,0,0,false,0.068,false,Low
+5fb5d5a2-da37-43a2-eb69-09e5cb2f7bed,21,F,Commercial,0,0,0,false,0.068,false,Low
+35863270-9464-d07f-ba31-c8ed98693dd3,76,M,Medicare,0,4,0,false,0.068,false,Low
+dcfce45d-e55e-787e-9f22-502a8a6ed3aa,55,M,Medicare,0,3,0,false,0.068,false,Low
+b3f6f86c-bf2c-6299-f1d1-ac13584a2122,34,F,Uninsured,0,2,0,false,0.068,false,Low
+d460615c-a77a-1f95-5ca4-2ba9548f6922,51,M,Commercial,0,2,0,false,0.068,false,Low
+acb9f9d8-6899-2ab5-9490-69be66b33c1e,58,M,Medicare,0,3,0,false,0.068,false,Low
+7c06a9fb-e0ff-122d-0fdc-ee7af9b51028,56,M,Commercial,0,1,0,false,0.068,false,Low
+a2b21559-bfe5-fe56-a625-7d1bb893b538,40,F,Uninsured,0,0,0,false,0.068,false,Low
+2cc6efe0-8e4a-8ccd-8e89-15aab675835f,57,F,Commercial,0,0,0,false,0.068,false,Low
+4a0089ac-79e6-86ad-e1fa-dc378a701b7b,31,F,Medicaid,0,0,0,false,0.068,false,Low
+5a55655e-48e6-7dc4-3e57-fb54259ae55b,35,F,Commercial,0,0,0,false,0.068,false,Low
+52890ca4-cae1-30a5-7c50-c968f3d25acb,20,F,Commercial,0,0,0,false,0.068,false,Low
+50ad813c-cbc2-47aa-eaaa-8694cbcd66c9,32,M,Commercial,0,0,0,false,0.068,false,Low
+b69192ed-5d6b-7e1f-a65c-90d054a92ba3,48,M,Commercial,0,1,1,false,0.068,false,Low
+f92f5ecd-25db-6477-c61c-e5b02fd6dee7,80,M,Medicare,0,3,0,false,0.067,false,Low
+6f45f2e9-a617-570a-8867-dec1260088bb,73,M,Medicare,0,4,0,false,0.067,false,Low
+18b3ccbc-153b-4ee3-d76c-57fb5292b62d,44,M,Medicare,0,2,0,false,0.067,false,Low
+449ed4e4-9e71-8bfe-c270-329f4b68f134,38,M,Commercial,0,1,0,false,0.067,false,Low
+75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8,30,F,Uninsured,0,1,0,false,0.067,false,Low
+5a248759-45e1-c9a0-b685-99a2eec73b17,18,M,Commercial,0,1,0,false,0.067,false,Low
+056ed411-c295-a5c9-f006-6d65c10e2fee,25,M,Commercial,0,1,0,false,0.067,false,Low
+3b24d024-a466-fe09-4049-d78883436802,25,M,Medicaid,0,1,0,false,0.067,false,Low
+50f565e8-40bf-8b57-f429-84cf836b3549,19,F,Medicaid,0,0,0,false,0.067,false,Low
+e1eb03f7-ab60-fd37-3f96-d84e67338b9d,20,M,Commercial,0,0,0,false,0.067,false,Low
+27181dd6-98fe-9cef-b255-7f44eb3e3365,35,M,Uninsured,0,0,0,false,0.067,true,Low
+31c758ba-ac58-a224-b1c5-0b14a281ddd7,21,M,Medicaid,0,0,0,false,0.067,false,Low
+3d2f2a39-c41d-3adc-cf73-ee2952403435,20,F,Commercial,0,0,0,false,0.067,false,Low
+daf01155-eaac-a8ee-ba01-4e2d71af9ea4,52,F,Uninsured,0,1,1,false,0.067,false,Low
+fad7c91b-f9d8-e05e-8a77-4faa8a3fd309,54,F,Uninsured,0,1,0,false,0.067,false,Low
+acb283f0-9936-94bd-4511-9ac728ca657b,24,M,Commercial,0,1,0,false,0.067,true,Low
+d1f0b456-c5b3-5137-41cb-b23950d957de,55,F,Uninsured,0,2,0,false,0.067,false,Low
+bb5f8853-1650-8c31-dab9-6be45d10707d,18,F,Commercial,0,1,0,false,0.067,false,Low
+8f290b11-297f-be82-d4cf-546ee94e61a1,69,M,Medicare,0,5,0,false,0.067,false,Low
+60eec0ac-0180-0d43-152e-8d113c294ee1,33,F,Uninsured,0,1,0,false,0.067,false,Low
+f95a6723-14a5-c4b6-78df-fa97f7ab361c,70,M,Medicare,0,2,0,false,0.067,false,Low
+db94e5ce-08bc-8238-01de-bb5557496b63,21,M,Medicare,0,1,0,false,0.067,false,Low
+2de26e5d-e995-27c5-8685-f4e6d0243249,63,M,Commercial,0,1,0,false,0.067,false,Low
+13b74bc5-1abd-7516-6093-d980a046903b,27,M,Commercial,0,0,0,false,0.067,false,Low
+8d062ee1-f816-36c1-9c79-b33d877a0f10,70,F,Medicare,0,0,0,false,0.067,true,Low
+fc4a1a62-ba27-51ed-7efc-0082d3337df8,30,M,Commercial,0,0,0,false,0.067,false,Low
+bb2a132d-1e45-2b68-fdf3-c07d5230520f,18,F,Medicaid,0,0,0,false,0.067,false,Low
+50228f47-6a27-abab-1962-6aea339da74d,26,F,Medicaid,0,0,0,false,0.067,false,Low
+778a0e01-8830-8681-397b-7cb55b700c71,40,M,Commercial,0,0,0,false,0.067,false,Low
+f4923c94-0a45-e1b1-9bbd-1745ae446cc0,18,M,Commercial,0,0,0,false,0.067,false,Low
+cdf9f16d-82c4-f446-c865-0835069b1db9,57,M,Uninsured,0,2,1,false,0.067,false,Low
+630e5e27-f242-c7e7-885c-b9e4652d18a7,47,M,Medicaid,0,2,1,false,0.067,false,Low
+c53d3c4b-b3b9-3303-5a5b-ee949726f4ca,46,M,Commercial,0,1,1,false,0.067,false,Low
+4fc484ab-35b9-b005-e677-abdc4e71922c,42,M,Medicaid,0,1,0,false,0.066,false,Low
+4860c7ba-218d-7cfd-e055-e56486f808a6,36,F,Commercial,0,1,0,false,0.066,true,Low
+1a69b1c3-11f2-231e-f2a2-d687fb26885c,65,F,Medicare,0,1,0,false,0.066,false,Low
+9db895ef-07a7-9720-13bd-fef7f0860e3a,29,F,Medicaid,0,1,0,false,0.066,false,Low
+2a7be01a-d588-9350-5e9a-5ed1d1cd54b6,20,M,Commercial,0,0,0,false,0.066,false,Low
+95c708b6-8aec-01a2-5d0b-92513f6f57af,22,M,Commercial,0,0,0,false,0.066,false,Low
+57e2f645-ac67-b228-268a-34f9f42c321e,23,F,Commercial,0,0,0,false,0.066,true,Low
+3aa09201-a05b-e3eb-eb21-184ba38704b7,26,M,Medicaid,0,0,0,false,0.066,false,Low
+8a5e77db-d204-fb36-8f8d-9b1f9072ee12,51,M,Uninsured,0,2,1,false,0.066,false,Low
+35b353dd-402b-571a-d67a-af0a104d0854,47,F,Uninsured,0,3,1,false,0.066,false,Low
+da60de26-fa62-2687-cc28-efbc8942e923,59,M,Commercial,0,1,0,false,0.066,false,Low
+76876964-0313-246f-623f-5a5b7285b5e8,26,M,Commercial,0,1,0,false,0.066,false,Low
+a72b5816-deec-48c4-d935-24ba36ca44e5,56,F,Uninsured,0,1,0,false,0.066,false,Low
+0a5a56bf-f069-44b4-ffd9-3e3c8a561d3f,31,M,Medicare,0,2,0,false,0.066,false,Low
+7e0c7323-9a15-ef48-112a-0e4bb7332d13,55,M,Medicaid,0,1,0,false,0.066,false,Low
+14033b02-afc1-a19c-c325-5ad736b172b9,23,M,Commercial,0,2,0,false,0.066,true,Low
+4d0418fd-e0a5-2b8d-b49c-71ae689d7649,38,M,Medicare,0,3,0,false,0.066,false,Low
+5b079bf3-ccc9-617d-9e07-255da9288c4e,31,M,Uninsured,0,2,0,false,0.066,false,Low
+1995be2c-d902-4266-2e13-9ef68ae63e41,18,F,Medicaid,0,0,0,false,0.066,false,Low
+fe9a15f6-7e28-fad0-d89c-d722046c481d,18,M,Commercial,0,0,0,false,0.066,false,Low
+44cb91ea-6548-548c-e771-ddb2996c9ef7,45,M,Uninsured,0,0,0,false,0.066,false,Low
+3cf12915-66d5-eeb5-3354-1ff888ba533d,41,M,Uninsured,0,0,0,false,0.066,false,Low
+764301c5-aa0e-93a1-abdf-49df593c4d91,59,F,Commercial,0,4,1,false,0.065,false,Low
+e278b18d-5dac-6e6e-2fd9-89b8bb478067,62,M,Commercial,0,3,0,false,0.065,false,Low
+e0f9ab9a-63cf-0e4f-9b42-add8796a21cd,72,M,Medicare,0,2,0,false,0.065,true,Low
+9acc50b2-2fad-2894-d049-07d85871ee1d,50,M,Commercial,0,1,0,false,0.065,false,Low
+d0195bf7-2f82-57fc-7d5c-d34136e44010,26,M,Medicaid,0,0,0,false,0.065,false,Low
+38f90e20-b01b-4895-08fa-88c33fb78bb4,21,M,Medicaid,0,0,0,false,0.065,false,Low
+b279ac07-ea25-8390-a5d5-798a01a8eea4,20,M,Medicaid,0,0,0,false,0.065,false,Low
+a1551513-160e-575c-cf70-2f7aac99a7f6,20,M,Commercial,0,0,0,false,0.065,false,Low
+c1f04761-2b12-5553-64d0-07b555b656d5,20,M,Medicaid,0,0,0,false,0.065,false,Low
+cf84ceb1-6462-ef61-6f0d-b5b9cd57410c,68,M,Medicare,0,3,1,false,0.065,false,Low
+344600cc-7f7f-adb0-da3b-195f2f2c150f,36,M,Medicaid,0,2,1,false,0.065,false,Low
+e2913485-3640-dc3f-6d15-f42cbceeb42c,49,M,Medicaid,0,1,2,false,0.065,false,Low
+6b2f3b58-d01c-24da-3b48-d6044389a434,29,M,Commercial,0,1,0,false,0.065,false,Low
+b1d83b24-437d-9139-3ea3-f8e8ab615e0e,54,M,Medicare,0,2,0,false,0.065,false,Low
+63c86916-2e92-cca7-28f5-0b1e2714a0fd,83,M,Medicare,0,3,0,false,0.065,false,Low
+55f0eb52-435a-bcd6-4d07-f0130169a46a,54,M,Medicaid,0,2,0,false,0.065,false,Low
+48bb6fe9-2445-f79f-0bad-d6e62f35bfc3,34,M,Commercial,0,2,0,false,0.065,false,Low
+7dcb99ef-4861-86eb-e325-34d9a8bba6af,34,M,Commercial,0,1,0,false,0.065,false,Low
+6599a7e4-3ff3-1341-a352-f7ce6d64d9d4,38,F,Commercial,0,0,0,false,0.065,false,Low
+d92d7851-fefb-c6e2-7576-8f96194ee00c,32,F,Commercial,0,0,0,false,0.065,false,Low
+46134b3f-c70d-9e23-d6e5-69eb592110da,42,F,Commercial,0,0,0,false,0.065,false,Low
+6011db56-4025-1f49-beb0-1293017368d8,27,F,Medicaid,0,0,0,false,0.065,false,Low
+1ffa429d-4447-d14e-e081-9297df87f91c,20,M,Medicaid,0,0,0,false,0.065,false,Low
+fd50f5e6-8ae8-2c45-d663-93a41f3b7bce,37,M,Commercial,0,0,0,false,0.065,false,Low
+0bb69e69-fdc7-4885-d566-1a798146c61b,38,M,Commercial,0,0,0,false,0.065,false,Low
+3d57dc67-56d3-841f-fee5-7811dd3d96f1,65,M,Medicare,0,5,1,false,0.064,false,Low
+0a444a8e-d682-af54-5893-be2a38263ef5,66,M,Medicare,0,3,0,false,0.064,false,Low
+c0e684b9-f951-7134-7919-80ec32edc39d,25,F,Commercial,0,0,0,false,0.064,false,Low
+e7888b45-175a-6516-af5e-35a54ebe1b8d,37,F,Medicaid,0,0,0,false,0.064,false,Low
+2a9778da-9499-f58a-bd2b-9a3df9c6ccff,22,M,Commercial,0,0,0,false,0.064,false,Low
+51bbbe23-5670-1a03-0f8b-0d5f53c68518,18,F,Commercial,0,0,0,false,0.064,false,Low
+329eec8e-644c-f8e3-f15e-7bcdf96e1a6c,21,M,Medicaid,0,0,0,false,0.064,false,Low
+2137817a-d236-724b-1582-ad6a75f35068,29,M,Uninsured,0,0,0,false,0.064,true,Low
+8ce60d71-dcb4-b926-269b-e0e4e6cd0aa1,33,M,Medicare,0,1,0,false,0.064,false,Low
+0c77f232-d1be-55d2-ceba-2cb48e99c48a,20,M,Commercial,0,2,0,false,0.064,false,Low
+afea4b9e-6163-46f6-488c-92422d44f0c6,76,M,Medicare,0,5,0,false,0.064,false,Low
+202fa83b-fd21-ac90-3b08-70f2aa46f073,42,M,Medicare,1,1,0,false,0.064,false,Low
+811b3aac-fb83-2dba-b8fc-fe4158aa28ef,44,M,Medicaid,0,2,0,false,0.064,true,Low
+e62ef3de-517b-06fa-295d-679c23df9577,18,F,Medicaid,0,0,0,false,0.064,false,Low
+c3b90e3a-fd78-4e14-76e7-a592a3e974b1,22,F,Commercial,0,0,0,false,0.064,false,Low
+bc9d2788-eee4-2490-37c3-bf82119ad955,25,M,Commercial,0,0,0,false,0.064,false,Low
+97dcf1bd-79de-0d93-1766-4bf1748c19f0,18,F,Medicaid,0,0,0,false,0.064,false,Low
+421719bf-f1bd-7712-6a4a-8dd749f47a7e,34,M,Commercial,0,0,0,false,0.064,false,Low
+dc26e201-2196-e5cf-0ee4-91b3c38bcea1,30,M,Commercial,0,0,0,false,0.064,false,Low
+137de79d-0db3-0ab0-69e5-9ed67946180a,54,M,Medicaid,0,0,0,false,0.064,false,Low
+63ca8664-36cb-a8a6-962f-dfd852b68dd5,57,M,Commercial,2,4,0,false,0.063,false,Low
+7175378c-cf24-62de-e446-78cfed770c3d,31,M,Commercial,0,1,0,false,0.063,false,Low
+30eb8a8c-56e4-d0fc-df32-29180ec0e783,19,F,Uninsured,0,1,0,false,0.063,false,Low
+397ff46a-d315-3590-7806-1bb3719dea49,31,M,Commercial,0,1,0,false,0.063,false,Low
+b8bcbd7a-0c04-e4ad-3a7f-481b45fe0487,25,M,Commercial,0,1,0,false,0.063,false,Low
+34d3fbff-8793-d2f0-2d3d-2ab84473e053,18,F,Medicaid,0,0,0,false,0.063,false,Low
+59bf3bd3-9fdb-f572-79e0-8c4d5bedbbbe,20,M,Commercial,0,0,0,false,0.063,false,Low
+9f86453b-0cbd-b984-625c-889d227bdc5b,44,M,Commercial,0,0,0,false,0.063,false,Low
+790e2591-58e4-6e13-b580-7be95da58bfb,22,M,Commercial,0,2,0,false,0.063,false,Low
+1bc96a10-ad49-d71d-d8da-57881014352c,98,M,Medicare,0,2,0,false,0.063,false,Low
+8580a690-4d97-5739-4f07-788ad44e6f04,52,M,Commercial,0,1,0,false,0.063,false,Low
+cc1ac2c1-c8c8-53a4-44f4-5b33b59d5694,19,F,Uninsured,0,1,0,false,0.063,false,Low
+efee922f-7539-5cd6-e434-e4bcdf25d66b,20,F,Medicaid,0,1,0,false,0.063,true,Low
+1da1ccef-4f88-f506-730e-c4189e2e5539,42,M,Commercial,0,1,0,false,0.063,false,Low
+5b65c746-f83f-3502-a392-6f970b709c80,25,F,Medicaid,0,1,0,false,0.063,false,Low
+73515b9e-0b19-0c29-f2ff-8fa8f9f56b2b,23,M,Uninsured,0,1,0,false,0.063,false,Low
+a07ab78e-cce7-3860-b345-14f9152f0d6a,18,F,Uninsured,0,0,0,false,0.063,false,Low
+21d55a0e-d815-8203-2067-3a7d0c248948,19,F,Commercial,0,0,0,false,0.063,false,Low
+8a378120-cbc8-8dc0-04be-44a8c807932f,19,M,Commercial,0,0,0,false,0.063,false,Low
+440ee9f4-5ada-4e3a-e338-40d2cc421c27,53,M,Medicaid,0,0,0,false,0.063,false,Low
+c0d0ff53-27a5-8101-a8c5-e9ee877f2497,28,M,Commercial,0,0,0,false,0.063,false,Low
+bd699d4b-39ca-8aa0-ab03-3b3256d9a57c,25,M,Commercial,0,0,0,false,0.063,false,Low
+aa07ed35-0a84-d90c-7b8a-d14c4483fa8d,22,M,Commercial,0,0,0,false,0.063,false,Low
+48c3407f-53da-94f5-7dc4-19e7389b1faa,20,F,Commercial,0,0,0,false,0.063,false,Low
+30f87563-5420-b643-7112-d3dc0679b633,65,F,Medicare,0,4,0,true,0.062,false,Low
+0786aecb-79fb-77ce-459a-0c9091782f62,41,M,Commercial,0,1,0,false,0.062,false,Low
+283f09bc-693d-3a07-d31a-004a5f6da354,31,M,Uninsured,0,1,0,false,0.062,false,Low
+c8601eb3-912c-60a1-9dbb-eec0766b57e2,42,M,Medicaid,0,1,0,false,0.062,false,Low
+ec5abb4e-0d3b-b845-c7d9-430706876b5c,19,M,Commercial,0,0,0,false,0.062,false,Low
+0a28d644-c9bb-51b3-a659-a6d7beed0fa1,18,F,Medicaid,0,0,0,false,0.062,false,Low
+73e4529c-d56a-c549-d3fa-e588c86f4afc,42,M,Medicaid,0,0,0,false,0.062,false,Low
+eed0e7bb-1dac-c49d-66eb-b0c2a6e32a0c,20,M,Commercial,0,0,0,false,0.062,false,Low
+0465c17f-66cb-2155-1a5a-367c6d54ef9d,80,F,Medicare,0,6,0,false,0.062,false,Low
+bbd0a5f0-b153-b99c-c3b9-1fe9524b202f,28,M,Commercial,0,1,0,false,0.062,false,Low
+6e47970d-0836-c135-eaba-550f3605c4db,61,M,Medicare,0,3,0,false,0.062,false,Low
+da969376-a9e5-dcf9-6246-e4b113a6029f,31,M,Uninsured,0,1,0,false,0.062,false,Low
+24fa995d-fe6c-de32-90e1-c865925b0d02,18,M,Commercial,0,1,0,false,0.062,false,Low
+fe821946-e206-f48b-1254-f897cdaad45b,25,M,Commercial,0,1,0,false,0.062,false,Low
+e0dd694f-2370-e366-8783-028dab285b40,26,F,Medicaid,0,0,0,false,0.062,false,Low
+a23897d4-4416-5c19-edcc-a5c6e42c14be,28,M,Uninsured,0,0,0,false,0.062,false,Low
+42fef9b1-8b63-acb5-68e5-84a8e92ff65f,24,M,Medicaid,0,0,0,false,0.062,false,Low
+06668488-9bc5-0bda-f51e-f64103bbe015,53,M,Commercial,0,0,0,false,0.062,false,Low
+2bbd76b7-e9a4-0597-7752-c228b9ffe6c1,19,M,Commercial,0,0,0,false,0.062,false,Low
+6d169ec5-b426-2976-5fa8-1edf1f87f8e2,57,M,Commercial,0,9,1,false,0.061,false,Low
+5fdeb44d-771b-330f-90ec-7fb55f6d8d22,53,M,Commercial,1,3,2,false,0.061,false,Low
+22187bc1-3867-6bce-1c31-f2fbb0a7b155,19,M,Medicare,0,2,0,false,0.061,false,Low
+46693de7-dbf0-358c-d3d5-e41bd3fd81c6,35,M,Uninsured,0,1,0,false,0.061,true,Low
+ab3ba9f5-979b-57c4-93bf-bd8f9c86af1d,18,M,Medicaid,0,1,0,false,0.061,false,Low
+f95abab4-c1c1-21af-873d-f914fbf9d663,19,F,Uninsured,0,0,0,false,0.061,false,Low
+fb50bcb9-7557-bff5-634a-0eb23da97aca,55,M,Commercial,0,0,0,false,0.061,false,Low
+9d1f7901-8e36-d87a-d970-9af602aaf323,49,M,Uninsured,0,1,1,false,0.061,false,Low
+caf7932a-e9d3-839c-89a3-b20ef9c3a491,108,F,Medicare,0,9,0,false,0.061,true,Low
+655bb097-ce1c-8c3c-4882-a8384cbd1800,19,M,Commercial,0,0,0,false,0.061,false,Low
+08d65f8d-3561-01de-64dc-99eb9b35c375,25,F,Commercial,0,0,0,false,0.061,false,Low
+c21c220f-035b-dc79-c492-b4141a01ed85,41,F,Commercial,0,0,0,false,0.061,true,Low
+e538fa94-0ce0-221d-4740-739da766966f,20,M,Commercial,0,0,0,false,0.061,false,Low
+32a0fede-cacb-632e-07e1-144b6abe5061,31,M,Commercial,0,0,0,false,0.061,false,Low
+06014704-4726-adb5-daa2-8705ed8a2e7a,44,M,Uninsured,0,0,0,false,0.061,false,Low
+bad8a080-8d5e-4235-3a04-119e02fce7db,25,F,Medicaid,0,0,0,false,0.061,false,Low
+56fb59d9-c925-1761-86a2-c00e4b7b8603,28,F,Medicaid,0,0,0,false,0.061,false,Low
+8e805dc5-781e-3c45-ac8f-bd0ecb8d485f,23,M,Commercial,0,1,0,false,0.06,false,Low
+b9616790-5fa6-e04f-8209-d9b3a9ba3579,35,M,Medicaid,0,1,0,false,0.06,false,Low
+9255b577-57ec-5114-269d-ae0e5e12f290,40,M,Medicaid,0,1,0,false,0.06,false,Low
+94fcbc88-71d9-3e1b-29ee-760d9352fce1,28,M,Commercial,0,0,0,false,0.06,false,Low
+5a7fc168-235c-cd2b-4e80-563875a50313,22,M,Medicaid,0,0,0,false,0.06,false,Low
+bedb8fb8-e982-ea21-1e65-849f3223e090,29,M,Commercial,0,0,0,false,0.06,false,Low
+131a22f5-2cf1-9507-e91c-5a2d5fee3e7c,40,M,Uninsured,0,0,0,false,0.06,false,Low
+43324e5e-501e-a17f-7423-c14a8dfe3bf1,18,F,Medicaid,0,0,0,false,0.06,false,Low
+d1f52250-e4c0-8056-a178-f429256b045a,22,M,Medicaid,0,2,0,false,0.06,false,Low
+bb3d978f-a432-6d90-9cc6-69f3ec9fd791,56,F,Commercial,0,6,0,false,0.06,false,Low
+756773e7-8503-2024-81d3-f26373254bdb,43,F,Medicare,0,1,0,false,0.06,false,Low
+fea7031f-3494-0d5b-f5c9-bdd3a447edf3,36,M,Medicare,0,3,0,false,0.06,false,Low
+7caa3df3-39d1-1ff3-7057-4725fb65521f,40,M,Uninsured,0,1,0,false,0.06,false,Low
+04e52287-fbd6-ff57-dcd0-586f118a1330,24,M,Commercial,1,0,0,false,0.06,false,Low
+f7659774-8cf1-04d2-982e-488637bfeb9e,19,M,Commercial,0,0,0,false,0.06,false,Low
+aa5fba77-1931-cf0a-ee58-b26e2a5f1363,25,M,Medicaid,0,0,0,false,0.06,false,Low
+d87332a0-4994-650d-577e-2291ff2d2fb1,50,M,Commercial,0,0,0,false,0.06,false,Low
+044947be-396f-8eb7-0a4d-295bce683eeb,18,M,Commercial,0,0,0,false,0.06,true,Low
+aa20b461-6893-f4f8-cfce-4399c8065fe6,40,M,Commercial,0,0,0,false,0.06,false,Low
+39fd323a-3e7b-6551-4afd-cde173ee76a3,38,M,Commercial,0,1,0,false,0.059,false,Low
+44a8241a-cf43-a2d0-e07b-f6258aacb5a0,23,M,Commercial,0,0,0,false,0.059,false,Low
+6debc5b3-9446-255d-8715-0d1c1aabc5a9,25,M,Commercial,0,0,0,false,0.059,false,Low
+93fca882-ba7d-2390-27a8-515256cee1ff,66,M,Medicare,0,2,0,false,0.059,false,Low
+88396286-ea91-0000-5051-5c505ff1210c,51,M,Uninsured,0,1,0,false,0.059,false,Low
+12b83633-7c2e-6812-da67-1e08ffa1b8af,23,M,Medicaid,0,0,0,false,0.059,false,Low
+537d8b23-92f2-0980-b810-162159a99297,18,F,Medicaid,0,0,0,false,0.059,true,Low
+22b90427-9632-4f64-779c-9b1502bf57d0,42,M,Commercial,0,0,0,false,0.059,false,Low
+d284799d-df2d-e897-b163-d550c42eb2b1,31,M,Uninsured,0,0,0,false,0.059,false,Low
+273c3f5e-5294-cd58-6304-0b5adc801b96,19,M,Medicaid,0,0,0,false,0.059,false,Low
+bf39c71c-b52c-2c7d-fd1f-23bd08598176,40,M,Commercial,0,0,0,false,0.059,false,Low
+88e46400-020c-315c-893d-b44128834a7b,28,M,Commercial,0,0,0,false,0.058,false,Low
+309458bf-fe4e-2e97-a4ae-5c1facdeb306,25,M,Commercial,0,0,0,false,0.058,false,Low
+d5c9dc67-8f4f-6ba0-4f89-1643f6adea3f,22,M,Commercial,0,0,0,false,0.058,false,Low
+de14e48f-1dd0-51c9-968e-58043b644997,19,M,Commercial,0,0,0,false,0.058,false,Low
+bc5b2cfe-5ce0-e8e7-76ea-0f6136869831,19,M,Commercial,0,0,0,false,0.058,false,Low
+dce20b69-20f0-bd7e-98ef-7d74b7d74b77,31,M,Commercial,0,0,0,false,0.058,false,Low
+4e054f57-b891-1d9e-75ac-694c349bc9dd,19,M,Commercial,0,0,0,false,0.058,false,Low
+1d55f8ae-f39b-a58c-49e6-bcc2e1903615,44,M,Medicare,0,3,0,false,0.057,false,Low
+b6440452-917f-2721-51a9-cb218b18bad8,18,M,Medicare,0,1,0,false,0.057,false,Low
+ed68e127-744a-fe90-b4ea-f643b011f753,54,M,Commercial,0,5,0,false,0.057,false,Low
+56f8ea87-1bd2-020d-9972-7c766a51597a,28,M,Commercial,0,0,0,false,0.057,false,Low
+86ad0b8d-d9e9-ae5b-9ee6-a05c8768c861,25,M,Commercial,0,0,0,false,0.057,false,Low
+e5c1c025-06d6-e66a-77b0-9240fabd968a,18,M,Commercial,0,0,0,false,0.057,false,Low
+64d2972a-f229-52f7-0e25-20f63bd0f027,28,M,Medicaid,0,0,0,false,0.057,false,Low
+aa616abe-1761-0c9a-7959-07544679dafd,74,F,Medicare,0,2,1,false,0.057,false,Low
+2d20e4a5-a8a1-5b87-c48f-a3d56eca1442,28,M,Commercial,0,0,0,false,0.057,false,Low
+22e9c711-e56d-c784-b7f4-d5840eae3c1f,53,M,Uninsured,0,2,0,false,0.056,false,Low
+c3c29b35-29ac-e642-77dd-b81e1bc12f91,28,M,Uninsured,0,1,0,false,0.056,false,Low
+8d597bb2-5d4b-8ffc-7985-7e6586fa926b,20,M,Uninsured,0,0,0,false,0.056,false,Low
+227c0989-b799-e589-2aee-a1ae0bc18651,22,M,Medicaid,0,0,0,false,0.056,false,Low
+dfeb8cf8-14e0-e282-83d6-2b8831e65679,66,M,Dual Eligible,0,6,1,false,0.056,false,Low
+7f0f7984-ab34-ccf7-adba-7b5b56c9bc90,19,M,Commercial,0,0,0,false,0.056,false,Low
+888492ef-1914-97b9-d748-3ed9dea8f34c,22,M,Commercial,0,0,0,false,0.056,true,Low
+34284b09-ad51-f51d-2b08-4841c618115e,38,M,Medicaid,0,0,0,false,0.056,false,Low
+55133401-cd51-32bc-3046-82cb0a11d3da,22,M,Commercial,0,0,0,false,0.056,false,Low
+8deb2161-fb6e-a350-e8dc-999871450d6b,56,M,Medicare,0,2,0,false,0.055,false,Low
+37673647-f996-00e9-c578-89e9d94c4094,34,M,Medicaid,0,0,0,false,0.055,false,Low
+b3c16e91-a0e8-ba07-8ad4-de0dd5629afe,18,M,Uninsured,0,0,0,false,0.055,false,Low
+d0acb108-7dd3-896e-a373-5806540c43e1,19,M,Commercial,0,0,0,false,0.055,false,Low
+02680c28-26cc-4bca-54b0-bf23111d19c3,18,M,Medicaid,0,0,0,false,0.055,false,Low
+d9c3490a-1f8c-5342-3a01-38f812600ae3,35,M,Medicaid,0,0,0,false,0.055,false,Low
+aaadd8c8-87da-9570-3c2e-38e5945d612e,53,F,Commercial,0,0,0,false,0.055,false,Low
+f90c4999-2cc4-a4e5-64f1-a9850ad6e766,47,F,Uninsured,0,2,1,false,0.054,false,Low
+0ae894da-e84d-0c09-3a60-a7dda78db331,71,M,Medicare,0,6,0,false,0.054,false,Low
+75067a17-df27-c741-e64d-d4ac2a37ce57,20,M,Uninsured,0,0,0,false,0.054,false,Low
+9096ceff-a5af-8ea8-ebdb-b5f3c19dea01,43,F,Medicaid,0,0,0,false,0.054,false,Low
+259579f5-e088-c375-c3cb-1222df223671,46,M,Medicaid,0,4,1,false,0.054,false,Low
+30a51a05-79cd-10e0-eb9b-c8425703e68d,19,M,Uninsured,0,0,0,false,0.054,true,Low
+8d1078b3-fbb1-dee6-c12c-2788867f3513,29,F,Uninsured,0,1,0,false,0.053,false,Low
+08e1cdf3-4764-d0af-b91a-52f64fc003e2,22,M,Uninsured,0,1,0,false,0.053,false,Low
+23be53d1-b91c-dce0-89a7-355631324548,20,F,Commercial,0,1,0,false,0.053,false,Low
+010d736c-d81f-3cd7-c12c-8ac4921888f6,19,M,Commercial,0,0,0,false,0.053,false,Low
+2db0340b-931f-14bc-d0a9-41f735b98096,23,M,Uninsured,0,0,0,false,0.053,false,Low
+1009e049-d13f-b014-57f9-a0f6c41baa10,22,M,Medicaid,0,0,0,false,0.053,false,Low
+cd4a4172-9bbd-d149-7d79-876f50b9bb1b,28,M,Commercial,0,2,0,false,0.052,false,Low
+17b5e8f0-8a8a-4f18-020c-61315c2ac4d0,20,M,Uninsured,0,0,0,false,0.052,false,Low
+b932f5e0-013e-892e-dbfb-150701dd5a38,36,F,Medicaid,0,0,0,false,0.051,false,Low
+d9e261ae-4435-9c50-78d9-1a8ad8f4f62c,20,F,Commercial,0,0,0,false,0.05,false,Low
+c848cd02-b245-0663-84c1-b8b3f0396f82,48,F,Commercial,0,1,1,false,0.05,false,Low
+8992a603-0298-24e8-7298-e8c179623f60,52,M,Commercial,0,3,0,false,0.049,true,Low
+39c37fd3-9ae6-8a7f-e8b0-26ee2afe9ba0,27,F,Medicaid,0,1,0,false,0.049,false,Low
+a0884917-bb0a-70c2-6ed5-f9d5692ba3bb,28,F,Uninsured,0,1,0,false,0.049,false,Low
+90119eb9-f93b-c211-3a99-52b935cd12d5,36,M,Medicare,0,1,0,false,0.048,true,Low
+26140df7-1924-1c9b-a563-b797615fc912,59,M,Commercial,0,4,1,false,0.048,false,Low
+3bbc1f18-aa1d-dfd7-c3fc-4f6069343ba5,56,M,Commercial,0,1,0,false,0.048,false,Low
+17bc2196-5977-7a0f-fc7c-cb00b232932b,53,F,Commercial,0,2,1,false,0.048,false,Low
+fa23abd1-5cb7-0d63-7186-89539c75a786,53,F,Commercial,0,2,0,false,0.047,false,Low
+7c9b01e3-39e9-3690-4099-4a5babdf8b25,31,M,Medicare,0,2,0,false,0.047,false,Low
+9d3af67d-9a16-7311-c308-a0e2d4f42a6e,35,M,Commercial,0,1,0,false,0.047,false,Low
+ce1f94c4-bc83-2831-352b-13cc27777d14,49,M,Commercial,0,1,1,false,0.046,false,Low
+422d8d45-59ac-b0f4-8278-8d40ab4e1d07,27,M,Medicare,0,1,0,false,0.045,false,Low
+ee8874ee-3e9f-0923-7528-2896c3911b92,57,F,Medicare,0,3,0,false,0.045,false,Low
+8af9d5d7-2600-556b-5158-64501509f9f5,33,F,Commercial,0,0,0,false,0.045,false,Low
+89737a96-8e69-1c00-e333-4a7627f16ed8,38,M,Commercial,0,4,1,false,0.045,false,Low
+6f704cbd-0feb-810e-980b-5a85b195d5f6,60,F,Commercial,0,2,0,false,0.045,false,Low
+526e551b-774b-40ae-1e45-65bf7c815d20,55,M,Commercial,0,2,1,false,0.044,false,Low
+ee3b68cf-7893-8be0-95be-64545da3c021,76,M,Medicare,0,2,0,false,0.044,false,Low
+543b817d-8b50-3bfa-068c-a5923b4ee81b,31,M,Medicare,0,1,0,false,0.044,false,Low
+f00c6014-3ebc-2b9f-ccc0-f2fe9eaf1d9e,50,F,Commercial,0,2,0,false,0.043,true,Low
+ad8d4247-2982-ccd5-4e27-add0263c00ee,30,M,Commercial,0,0,0,false,0.043,false,Low
+6a16bdcc-7009-3f6a-ff1b-bb267f89c5bf,49,M,Commercial,0,4,1,false,0.042,false,Low
+c668331e-4348-ac51-14eb-7d0891eb8fc5,57,F,Commercial,0,1,0,false,0.042,false,Low
+01ee9e96-5701-e5d2-ad5b-bbd2032c1d13,29,M,Uninsured,0,1,0,false,0.042,false,Low
+56258afc-7573-5e2b-fad0-b5cfe5f2c87d,46,F,Commercial,0,0,1,false,0.042,true,Low
+46213fa7-84c4-c9e5-fdfa-7accae3397f2,44,M,Medicare,0,4,0,false,0.041,false,Low
+bb8ce040-538a-8bf1-9f3d-4cdaa274edac,31,M,Medicaid,0,1,0,false,0.041,false,Low
+08dc4a70-d264-2427-9234-efd076e8be1c,29,M,Commercial,0,0,0,false,0.041,false,Low
+40d9c267-1edb-2768-fd10-c556a05af27a,60,M,Commercial,0,2,0,false,0.04,false,Low
+f711530e-9022-be14-9767-1ddb053b19bc,66,F,Medicare,0,1,0,false,0.04,false,Low
+cadc662e-b8e6-219f-16e9-e11acd978157,44,M,Uninsured,0,2,0,false,0.04,false,Low
+e7db00cb-2aa7-d19c-3ee1-8b67a7765e74,34,F,Commercial,0,1,0,false,0.04,false,Low
+8eb6d70a-c6b5-c933-8d69-82c123a29601,26,M,Commercial,0,1,0,false,0.04,false,Low
+4ce8d9c2-547b-541e-b4a5-f4fd1de88311,32,F,Commercial,0,0,0,false,0.04,false,Low
+5ab6159c-cb80-2ae7-5433-6173f327f816,48,M,Commercial,0,2,1,false,0.039,false,Low
+17e9a58b-659f-915c-ef98-02b02ba0068c,34,M,Medicaid,0,0,0,false,0.039,true,Low
+a80f66f9-a47b-53a3-03b7-2dfd973b19b3,20,F,Medicaid,0,0,0,false,0.039,false,Low
+aba5587e-b10f-8434-c2c0-9879e5d5afc8,25,F,Commercial,0,0,0,false,0.039,false,Low
+a54b95c8-106b-c829-989c-527d4e22e639,18,M,Medicaid,0,0,0,false,0.038,false,Low
+51c5ced0-aa86-4550-8e59-157313768445,25,F,Commercial,0,0,0,false,0.037,false,Low
+f474b647-c7e9-1a61-3e8a-817ff78cf371,32,F,Uninsured,0,0,0,false,0.037,false,Low
+0f440d76-42c8-e431-656a-fcd9cb4252d2,26,F,Medicaid,0,0,0,false,0.036,false,Low
+f023e1e6-55df-78d9-c367-3734fa293716,50,M,Medicaid,0,2,0,false,0.035,false,Low
+689549f5-c80a-e591-1e1a-57866b1ece46,18,M,Commercial,0,0,0,false,0.033,false,Low
+e06bee2d-737c-cada-c8cd-fcee1773b6d8,19,M,Commercial,0,0,0,false,0.032,false,Low
+e753f96c-9730-5366-3dda-dc27f39002a2,19,M,Medicaid,0,0,0,false,0.029,false,Low

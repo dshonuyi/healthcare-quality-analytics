@@ -1,0 +1,6 @@
+top_pct_of_patients,patients,events_captured,pct_of_all_events,event_rate_in_group,lift_vs_random,model
+5,109,41,15.4,37.6,3.09,Logistic regression
+10,218,74,27.8,33.9,2.79,Logistic regression
+20,437,117,44.0,26.8,2.2,Logistic regression
+30,655,140,52.6,21.4,1.75,Logistic regression
+50,1092,165,62.0,15.1,1.24,Logistic regression

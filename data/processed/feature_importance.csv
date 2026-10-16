@@ -1,0 +1,30 @@
+feature,label,auc_drop_mean,auc_drop_std
+dx_substance_use,Substance use disorder,0.0277,0.006
+dx_asthma,Asthma,0.0146,0.0037
+dx_ckd,Chronic kidney disease,0.0096,0.0041
+ed_visits_prior_yr,"ED visits, prior year",0.0053,0.0052
+active_conditions,Active chronic conditions,0.0045,0.0086
+payer_category=Medicare,payer_category=Medicare,0.0035,0.002
+dx_dementia,Dementia,0.0031,0.0023
+race_ethnicity=Hispanic/Latino,race_ethnicity=Hispanic/Latino,0.0028,0.0022
+acute_visits_prior_yr,"Acute-care visits, prior year",0.0022,0.0031
+active_meds,Active medications,0.0015,0.0026
+race_ethnicity=Other (non-Hispanic),race_ethnicity=Other (non-Hispanic),0.0012,0.0005
+income,Household income,0.001,0.0018
+dx_diabetes,Diabetes,0.0008,0.0024
+payer_category=Medicaid,payer_category=Medicaid,0.0006,0.0009
+dx_copd,COPD,0.0004,0.0014
+dx_hypertension,Hypertension,0.0002,0.0004
+payer_category=Dual Eligible,payer_category=Dual Eligible,0.0001,0.0017
+race_ethnicity=Asian (non-Hispanic),race_ethnicity=Asian (non-Hispanic),0.0001,0.0004
+outpatient_visits_prior_yr,"Outpatient visits, prior year",-0.0,0.0005
+bmi,BMI,0.0,0.0
+had_wellness_visit,Had annual wellness visit,-0.0002,0.0014
+race_ethnicity=Black (non-Hispanic),race_ethnicity=Black (non-Hispanic),-0.0002,0.0028
+cost_prior_yr,"Total cost, prior year",-0.0004,0.0017
+open_care_gaps,Open quality care gaps,-0.0005,0.0009
+payer_category=Uninsured,payer_category=Uninsured,-0.0006,0.0011
+dx_anxiety_depression,Anxiety / depression,-0.0007,0.0019
+dx_chronic_pain,Chronic pain,-0.002,0.0044
+age,Age,-0.0024,0.0019
+gender=F,gender=F,-0.0027,0.0031

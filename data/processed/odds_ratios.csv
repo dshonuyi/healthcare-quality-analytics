@@ -1,0 +1,30 @@
+feature,label,scale,odds_ratio,ci_low,ci_high,p_value
+dx_substance_use,Substance use disorder,yes vs no,2.007,1.569,2.567,2.866168379961851e-8
+dx_asthma,Asthma,yes vs no,1.932,1.262,2.957,0.0024284950475244363
+dx_chronic_pain,Chronic pain,yes vs no,1.337,1.073,1.667,0.009792500808607649
+dx_ckd,Chronic kidney disease,yes vs no,1.808,1.112,2.939,0.01698801875626756
+active_conditions,Active chronic conditions,per 1 SD,1.251,1.024,1.529,0.028103936396358473
+race_ethnicity=Black (non-Hispanic),race_ethnicity=Black (non-Hispanic),yes vs no,0.505,0.248,1.026,0.05885028382029413
+dx_dementia,Dementia,yes vs no,1.775,0.873,3.607,0.11275373758658143
+ed_visits_prior_yr,"ED visits, prior year",per 1 SD,1.153,0.951,1.398,0.1479130308468344
+gender=F,gender=F,yes vs no,1.14,0.927,1.402,0.2145024731131483
+dx_anxiety_depression,Anxiety / depression,yes vs no,0.685,0.364,1.289,0.24059463470370235
+race_ethnicity=Hispanic/Latino,race_ethnicity=Hispanic/Latino,yes vs no,0.902,0.728,1.118,0.34762569093365714
+income,Household income,per 1 SD,1.043,0.946,1.15,0.3977254247067069
+active_meds,Active medications,per 1 SD,0.94,0.813,1.088,0.4078307997679592
+payer_category=Dual Eligible,payer_category=Dual Eligible,yes vs no,1.218,0.699,2.121,0.485981869756993
+acute_visits_prior_yr,"Acute-care visits, prior year",per 1 SD,1.067,0.887,1.284,0.489503430900351
+dx_diabetes,Diabetes,yes vs no,1.178,0.729,1.901,0.5033065147961213
+payer_category=Medicare,payer_category=Medicare,yes vs no,0.904,0.656,1.246,0.5370173253696748
+cost_prior_yr,"Total cost, prior year",per 1 SD,0.96,0.837,1.1,0.555318571545077
+had_wellness_visit,Had annual wellness visit,yes vs no,0.917,0.674,1.248,0.581517717167851
+dx_copd,COPD,yes vs no,0.83,0.41,1.683,0.6055439857287941
+open_care_gaps,Open quality care gaps,per 1 SD,1.027,0.923,1.143,0.6204948667608876
+age,Age,per 1 SD,1.038,0.888,1.213,0.6382238251221628
+payer_category=Uninsured,payer_category=Uninsured,yes vs no,0.912,0.611,1.362,0.6523985430861218
+outpatient_visits_prior_yr,"Outpatient visits, prior year",per 1 SD,1.014,0.935,1.1,0.7304739881096953
+payer_category=Medicaid,payer_category=Medicaid,yes vs no,0.952,0.698,1.299,0.7560378929356666
+race_ethnicity=Other (non-Hispanic),race_ethnicity=Other (non-Hispanic),yes vs no,0.942,0.577,1.539,0.8110314505022166
+race_ethnicity=Asian (non-Hispanic),race_ethnicity=Asian (non-Hispanic),yes vs no,1.038,0.729,1.477,0.8366129503169027
+dx_hypertension,Hypertension,yes vs no,1.016,0.757,1.363,0.9148301065850729
+bmi,BMI,per 1 SD,1.001,0.898,1.114,0.9925543555764922

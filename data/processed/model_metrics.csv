@@ -1,0 +1,4 @@
+model,auc_roc,pr_auc,brier,top10_pct_events_captured,top10_lift
+Rule: prior-year acute visits,0.556,0.175,,18.0,1.81
+Logistic regression,0.647,0.263,0.1012,27.8,2.79
+XGBoost,0.654,0.256,0.1012,28.2,2.82
