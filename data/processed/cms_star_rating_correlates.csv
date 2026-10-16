@@ -1,0 +1,14 @@
+x,x_label,y,y_label,n_hospitals,spearman_rho,p_value
+readm_index,Readmission index,star_rating,Overall star rating,243,-0.422,6.877492429947904e-12
+READM_30_PN,Pneumonia readmission,star_rating,Overall star rating,254,-0.323,1.4400466668313237e-7
+READM_30_HF,Heart failure readmission,star_rating,Overall star rating,250,-0.305,9.121416460794885e-7
+READM_30_COPD,COPD readmission,star_rating,Overall star rating,243,-0.267,0.000024825522832291194
+READM_30_AMI,Heart attack readmission,star_rating,Overall star rating,174,-0.262,0.00047153996914710755
+H_CLEAN_LINEAR_SCORE,Cleanliness,star_rating,Overall star rating,247,0.32,2.730288819175322e-7
+H_QUIET_LINEAR_SCORE,Quietness,star_rating,Overall star rating,247,0.326,1.6392543530400568e-7
+H_COMP_5_LINEAR_SCORE,Communication about medicines,star_rating,Overall star rating,247,0.445,2.0408579826351622e-13
+H_COMP_6_LINEAR_SCORE,Discharge information,star_rating,Overall star rating,247,0.46,2.3354827318083104e-14
+H_COMP_2_LINEAR_SCORE,Doctor communication,star_rating,Overall star rating,247,0.509,1.0932352798073196e-17
+H_COMP_1_LINEAR_SCORE,Nurse communication,star_rating,Overall star rating,247,0.531,2.1551891578833423e-19
+H_HSP_RATING_LINEAR_SCORE,Overall hospital rating,star_rating,Overall star rating,247,0.532,2.037994658403559e-19
+H_RECMND_LINEAR_SCORE,Would recommend,star_rating,Overall star rating,247,0.552,4.0059607954061965e-21

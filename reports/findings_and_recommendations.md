@@ -2,9 +2,11 @@
 
 **Population:** 3,393 synthetic patients (San Diego, CA), 184,109 encounters, 2.35M observations
 **Measurement year:** 2025  |  **Model hold-out year:** 2025
+**Hospital benchmarking:** 276 California acute care hospitals, CMS Care Compare (real, public data)
 
-All patient data is synthetic (Synthea). The patterns are realistic, but they come from a simulator,
-so the findings show the method, not conclusions about a real population.
+Sections 1-4 use synthetic patient data (Synthea). The patterns are realistic, but they come from a
+simulator, so those findings show the method, not conclusions about a real population. Section 5 uses
+real CMS hospital data.
 
 ---
 
@@ -87,7 +89,45 @@ chronic conditions are controlled for, the effect is no longer significant. In o
 use is a symptom of underlying disease burden, not an independent driver. Open care gaps show a
 small correlation (r = 0.06) that also disappears after adjustment.
 
-## 5. Recommendations
+## 5. Hospital benchmarking: real California data
+
+**Patient experience and readmissions move together.** Across 241 hospitals with complete data, six of
+eight HCAHPS dimensions correlate with a lower readmission index (Spearman rho -0.21 to -0.27, all
+significant after false-discovery-rate correction):
+
+| HCAHPS dimension | rho with readmission index |
+|---|---:|
+| Nurse communication | -0.27 |
+| Discharge information | -0.24 |
+| Would recommend | -0.23 |
+| Communication about medicines | -0.23 |
+| Overall hospital rating | -0.22 |
+| Doctor communication | -0.21 |
+| Quietness | -0.13 (ns) |
+| Cleanliness | -0.12 (ns) |
+
+The dimensions tied to care transitions (communication, discharge, medicines) carry the relationship;
+the environmental ones do not.
+
+**The CMS overall star rating reflects both** (rho = -0.42 with the readmission index, +0.55 with
+"would recommend"). Median heart failure readmission falls from 21.8% at 1-star hospitals to 20.4% at
+5-star hospitals.
+
+**Caution on cause and effect.** In a multivariable regression (robust standard errors, n = 240), discharge
+information and the overall rating are not individually significant once entered together, and higher
+heart failure volume goes with higher readmission (p = 0.001; R-squared = 0.11). Good experience scores
+and low readmissions look like two signs of the same underlying hospital quality, not one causing the other.
+
+**Ownership:** heart failure readmission differs by ownership (Kruskal-Wallis p = 0.001), but the medians
+are only half a point apart (non-profit 21.3% vs for-profit 21.8%). Star ratings differ more: non-profit
+mean 3.4 vs for-profit 2.4.
+
+**San Diego County (15 hospitals reporting):** heart failure readmission ranges from 19.3% (UC San Diego
+Health Hillcrest) to 23.4% (Paradise Valley). Four hospitals are in California's best quarter and six are
+in its worst quarter (above 22.1%): Sharp Chula Vista, Sharp Coronado, Palomar Health Downtown, Kaiser
+San Marcos, Grossmont and Paradise Valley.
+
+## 6. Recommendations
 
 | # | Recommendation | Owner | How to measure it |
 |---|---|---|---|
@@ -97,6 +137,8 @@ small correlation (r = 0.06) that also disappears after adjustment.
 | 4 | **Run a BP-control huddle for the 156 uncontrolled patients.** Repeat the reading when the first is elevated, book a follow-up within 30 days and review medication intensification | Primary care clinical effectiveness team | CBP rate monthly vs 75% (3-star) target |
 | 5 | **Pilot care-management outreach to the top 10% risk tier (219 patients).** Prioritize those with substance use disorder, and connect them to behavioral health | Care management | Acute-care visits per 1,000 in the pilot group vs a matched comparison group |
 | 6 | **Schedule the 25 validation rules on every data refresh** and trend failure rates as a data-quality scorecard | Quality analytics | Rule failure rates over time |
+| 7 | **Aim readmission work at care transitions.** Discharge teaching, medication reconciliation and nurse communication are the HCAHPS areas tied to readmissions. Track HCAHPS discharge scores as an early signal, since CMS readmission rates arrive with a one- to two-year lag | Clinical effectiveness + nursing leadership | HCAHPS discharge score quarterly; 30-day readmission rate vs CA median |
+| 8 | **Benchmark against peers, not just the national rate.** Use the California quartiles to set targets, and learn from the San Diego hospitals already in the best quarter | Quality leadership | Position in CA distribution each CMS refresh |
 
 ### Monitoring plan (feedback loop)
 
@@ -105,3 +147,4 @@ small correlation (r = 0.06) that also disappears after adjustment.
 3. Re-run the stratification tests quarterly to confirm the COL payer gap is closing.
 4. Re-score the risk model each January and check calibration against the previous year's outcomes.
 5. Review rule failures with HIM and IT at each refresh, and escalate any rule above 1% failure.
+6. Re-run the CMS benchmarking at each Care Compare refresh (quarterly) to track position against California peers.

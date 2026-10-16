@@ -1,0 +1,4 @@
+ownership_group,hospitals,median_hf_readm,median_index,mean_star,median_discharge_info,kruskal_p_hf
+For-profit,72,21.8,0.092,2.41,81.0,0.0012
+Government,38,21.450000000000003,0.0315,2.51,84.0,0.0012
+Non-profit,163,21.3,-0.171,3.43,86.0,0.0012

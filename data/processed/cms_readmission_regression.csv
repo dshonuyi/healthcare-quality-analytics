@@ -1,0 +1,7 @@
+term,coef,ci_low,ci_high,p_value
+intercept,-1.041,-1.639,-0.443,0.0006
+discharge_info,-0.092,-0.236,0.051,0.2077
+overall_rating,-0.139,-0.355,0.077,0.2065
+log_hf_volume,0.173,0.07,0.275,0.001
+for_profit,0.173,-0.169,0.514,0.3218
+government,0.088,-0.134,0.311,0.4355
